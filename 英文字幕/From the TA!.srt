@@ -1,0 +1,2131 @@
+WEBVTT
+
+1
+00:00:00.116 --> 00:00:10.116
+[MUSIC]
+
+2
+00:00:43.403 --> 00:00:46.190
+Hi, welcome to Office Hours.
+
+3
+00:00:46.190 --> 00:00:49.420
+You might recognize the,
+that part of the theme that I just played
+
+4
+00:00:49.420 --> 00:00:52.370
+which is from the second movement,
+the opening of the second movement
+
+5
+00:00:52.370 --> 00:00:55.590
+of Dvorak's very well-known
+New World Symphony.
+
+6
+00:00:55.590 --> 00:00:56.680
+It's his Symphony Number Nine.
+
+7
+00:00:56.680 --> 00:01:01.000
+It was composed in 1893 while he was
+
+8
+00:01:01.000 --> 00:01:03.830
+serving as a director of
+a conservatory here in the US.
+
+9
+00:01:05.160 --> 00:01:09.040
+This is a very, very well-known and,
+and beloved piece.
+
+10
+00:01:09.040 --> 00:01:13.000
+And I actually wanted to talk with all of
+you actually about the first movement,
+
+11
+00:01:13.000 --> 00:01:15.060
+not the second movement today,
+which is still lovely.
+
+12
+00:01:15.060 --> 00:01:19.893
+But we're going to talk about the first
+movement because I thought it might be fun
+
+13
+00:01:19.893 --> 00:01:24.243
+to go through a, a piece, a movement
+of a piece that is very well-known and
+
+14
+00:01:24.243 --> 00:01:27.508
+hopefully recognizable for
+many of you out there.
+
+15
+00:01:27.508 --> 00:01:32.372
+And, and talk through it both from
+a musical, descriptive level,
+
+16
+00:01:32.372 --> 00:01:37.395
+but also to travel through it and look
+at sonata form which is one of the major
+
+17
+00:01:37.395 --> 00:01:42.810
+forms that we deal with in western
+art music in, in classical music.
+
+18
+00:01:42.810 --> 00:01:47.740
+And I think that in using this piece as
+an example, we can kind of see how some of
+
+19
+00:01:47.740 --> 00:01:52.040
+the familiar scenes that you might know
+just from being an active listener,
+
+20
+00:01:52.040 --> 00:01:57.160
+can map on to the sonata form structure
+that Dvorak has employed here.
+
+21
+00:01:57.160 --> 00:02:01.778
+And, and countless of composers in
+the Western art music tradition,
+
+22
+00:02:01.778 --> 00:02:05.544
+have employed for
+over two centuries at this point.
+
+23
+00:02:05.544 --> 00:02:10.237
+So let's start out by
+just talking a little bit
+
+24
+00:02:10.237 --> 00:02:13.850
+about the framework of this symphony.
+
+25
+00:02:13.850 --> 00:02:16.270
+I'm going to go to
+the white board over here.
+
+26
+00:02:16.270 --> 00:02:22.280
+And what we're going to do
+is just very quickly map out
+
+27
+00:02:22.280 --> 00:02:26.290
+the kind of general sonata form structure
+that you've learned it, which would be,
+
+28
+00:02:26.290 --> 00:02:31.770
+here we have the exposition, and
+I'm just going to abbreviate that.
+
+29
+00:02:31.770 --> 00:02:36.995
+And then we know that there is a middle
+section that is the development,
+
+30
+00:02:36.995 --> 00:02:41.974
+and then at the end we have a third
+part which is the recapitulation.
+
+31
+00:02:41.974 --> 00:02:44.737
+We'll call it here, the recap.
+
+32
+00:02:50.138 --> 00:02:55.160
+Broadly speaking, those are the three
+main sections of a sonata form movement.
+
+33
+00:02:55.160 --> 00:02:59.740
+The exposition, of course, is in
+charge of laying out all of the major
+
+34
+00:03:01.060 --> 00:03:03.530
+musical ideas of the form.
+
+35
+00:03:03.530 --> 00:03:07.090
+So what we're going to do is
+we're going to refer to these
+
+36
+00:03:07.090 --> 00:03:09.300
+areas as kind of zones or groups.
+
+37
+00:03:09.300 --> 00:03:15.750
+So we'll have a first theme,
+zone or group.
+
+38
+00:03:15.750 --> 00:03:20.840
+Another way to think of it is as
+a primary, primary theme, group.
+
+39
+00:03:20.840 --> 00:03:23.750
+Then usually there's
+some sort of transition.
+
+40
+00:03:25.590 --> 00:03:26.090
+Just transition.
+
+41
+00:03:27.540 --> 00:03:29.910
+Then we get to the second theme.
+
+42
+00:03:33.590 --> 00:03:36.580
+Or we can call it our,
+our secondary theme group, or zone.
+
+43
+00:03:37.580 --> 00:03:41.930
+Of course, that'll go for a little bit,
+and then we'll come to our
+
+44
+00:03:43.080 --> 00:03:47.290
+third thematic area or group, and
+
+45
+00:03:47.290 --> 00:03:53.810
+sometimes it's thought of as being
+like the closing melodic area.
+
+46
+00:03:53.810 --> 00:03:57.880
+So once again now we have kind
+of the layout of our exposition.
+
+47
+00:03:57.880 --> 00:04:04.140
+This is going to give us the,
+the primary not necessarily primary,
+
+48
+00:04:04.140 --> 00:04:08.180
+but the important musical ideas for
+this sonata form, and
+
+49
+00:04:08.180 --> 00:04:12.500
+then for the rest of the movement we're
+going to see how these things play out.
+
+50
+00:04:12.500 --> 00:04:17.230
+There are many different things that
+are implicated in a sonata form that we
+
+51
+00:04:17.230 --> 00:04:21.940
+are going to probably skip over for
+now, because they
+
+52
+00:04:21.940 --> 00:04:25.700
+not only go into greater music
+theoretical terms, but also they don't
+
+53
+00:04:25.700 --> 00:04:30.260
+always necessarily play out exactly the
+same way from one sonata form to the next.
+
+54
+00:04:30.260 --> 00:04:35.097
+We have to think of this as kind of
+an ongoing tradition and an ongoing,
+
+55
+00:04:35.097 --> 00:04:40.070
+maybe dialogue between a composer and
+the music, a composer and
+
+56
+00:04:40.070 --> 00:04:42.540
+other composers who are using sonata form.
+
+57
+00:04:42.540 --> 00:04:46.210
+And of course the kind of
+the history of sonata form as it
+
+58
+00:04:46.210 --> 00:04:50.559
+as it spreads across different countries
+and different composers and styles.
+
+59
+00:04:51.560 --> 00:04:54.450
+So not every composer is
+going to do the same thing.
+
+60
+00:04:54.450 --> 00:04:58.670
+However, I'll just quickly kind of
+highlight that often times when we move
+
+61
+00:04:58.670 --> 00:05:02.730
+from our first theme group to the second
+theme group, there's usually a modulation
+
+62
+00:05:03.730 --> 00:05:07.670
+and that often happens over
+the course of the transition.
+
+63
+00:05:08.780 --> 00:05:11.290
+And then usually the second and
+
+64
+00:05:11.290 --> 00:05:14.740
+third theme groups are going
+to be in the same key.
+
+65
+00:05:14.740 --> 00:05:17.630
+But once again that's not a hard and
+fast rule.
+
+66
+00:05:17.630 --> 00:05:24.610
+So in traditional sonata forms,
+you're actually going to have a repeat.
+
+67
+00:05:24.610 --> 00:05:28.686
+This is our,
+this is the music sign for repeat.
+
+68
+00:05:28.686 --> 00:05:33.126
+If you ever look at a music score and
+you see this right here like that,
+
+69
+00:05:33.126 --> 00:05:36.957
+that usually means to repeat
+back either to the beginning or
+
+70
+00:05:36.957 --> 00:05:39.969
+repeat back to the first
+opening repeat sign.
+
+71
+00:05:39.969 --> 00:05:42.454
+So if you see one of these
+somewhere before it,
+
+72
+00:05:42.454 --> 00:05:45.019
+this repeat sign's going to
+tell you to go there.
+
+73
+00:05:45.019 --> 00:05:47.590
+If you don't see that, it's going to
+tell you go to the beginning.
+
+74
+00:05:50.920 --> 00:05:52.460
+Now we get to our development.
+
+75
+00:05:52.460 --> 00:05:57.440
+A development usually entails
+taking some of this material that
+
+76
+00:05:57.440 --> 00:06:01.750
+we've heard in the exposition and
+actually developing it.
+
+77
+00:06:01.750 --> 00:06:06.480
+Kind of playing with it,
+giving some new twists or
+
+78
+00:06:06.480 --> 00:06:09.010
+spins to it, kind of a metamorphosis.
+
+79
+00:06:09.010 --> 00:06:14.040
+You might hear lots of modulations or
+traveling to different key areas,
+
+80
+00:06:14.040 --> 00:06:18.640
+even though we don't necessarily stay
+in those key areas for very long.
+
+81
+00:06:18.640 --> 00:06:22.165
+And then this is kind of
+the section that has the most
+
+82
+00:06:22.165 --> 00:06:26.930
+free-flowing creativity,
+well I shouldn't say creativity.
+
+83
+00:06:26.930 --> 00:06:30.320
+It has the most kind of
+variability in the sonata form,
+
+84
+00:06:30.320 --> 00:06:33.590
+so for now I'm just going to do,
+I'm going to represent that like this.
+
+85
+00:06:33.590 --> 00:06:37.450
+I'm just going to say, it's a lot of this
+and then eventually there's going to be
+
+86
+00:06:37.450 --> 00:06:43.290
+a moment where you can kind of tell
+that the tension is building and
+
+87
+00:06:43.290 --> 00:06:47.310
+then all of a sudden we now get
+the onset of the recapitulation,
+
+88
+00:06:47.310 --> 00:06:52.890
+which essentially is a conceptual
+restatement of the exposition.
+
+89
+00:06:52.890 --> 00:06:58.150
+So you know, we can think of this
+kind of loose turn or A, B, A, right.
+
+90
+00:06:58.150 --> 00:06:59.330
+A, B, A.
+
+91
+00:06:59.330 --> 00:07:03.460
+In the recap then we're going to
+get the first theme group,
+
+92
+00:07:03.460 --> 00:07:08.110
+second theme group,
+third theme group again.
+
+93
+00:07:10.130 --> 00:07:13.152
+We can call it again PSC.
+
+94
+00:07:13.152 --> 00:07:18.378
+And oftentimes there are going to
+be some slight, modifications.
+
+95
+00:07:18.378 --> 00:07:23.310
+It's not necessarily always going to be
+an exact restatement of the exposition.
+
+96
+00:07:23.310 --> 00:07:27.080
+For instance, if you recall, I just
+said that oftentimes in sonata forms,
+
+97
+00:07:27.080 --> 00:07:30.860
+you will have a modulation between
+the first and the second theme groups.
+
+98
+00:07:30.860 --> 00:07:35.200
+In the recap, usually, that mod,
+that modulation is going to be modified so
+
+99
+00:07:35.200 --> 00:07:36.440
+that you stay in the same key.
+
+100
+00:07:37.530 --> 00:07:40.200
+That's kind of a typical move,
+but again, once again,
+
+101
+00:07:40.200 --> 00:07:42.350
+it's not always the hard and fast rule.
+
+102
+00:07:42.350 --> 00:07:45.944
+So in this case,
+let's just leave this as our broad layout.
+
+103
+00:07:45.944 --> 00:07:50.375
+Now, in the Dvorak symphony, the New
+World Symphony, in the first movement,
+
+104
+00:07:50.375 --> 00:07:54.809
+we have an extra little component, which
+I think we've also encountered in our
+
+105
+00:07:54.809 --> 00:07:58.678
+course before, which is that before
+the exposition even begins,.
+
+106
+00:07:58.678 --> 00:08:02.858
+And I'm going to now erase a little
+bit of this to create some room.
+
+107
+00:08:02.858 --> 00:08:07.091
+Before the exposition begins,
+
+108
+00:08:07.091 --> 00:08:12.280
+we actually have a slow introduction.
+
+109
+00:08:12.280 --> 00:08:16.260
+And so this is also some material.
+
+110
+00:08:16.260 --> 00:08:21.500
+Slow introduction, then there's going
+to be a transition out of that,
+
+111
+00:08:21.500 --> 00:08:23.710
+into the onset of the exposition.
+
+112
+00:08:23.710 --> 00:08:26.700
+Now, in the Dvorak,
+you're going to hear a repeat.
+
+113
+00:08:26.700 --> 00:08:29.250
+That repeat, is actually not going
+to take us all the way back to
+
+114
+00:08:29.250 --> 00:08:31.050
+the beginning of the slow introduction.
+
+115
+00:08:31.050 --> 00:08:34.190
+It's in fact going to take us back to
+the beginning of the exposition proper.
+
+116
+00:08:34.190 --> 00:08:39.960
+So, you can think then,
+of this as having a slow introduction,
+
+117
+00:08:39.960 --> 00:08:45.242
+and then, repeat signs there, so that
+you going to hear the entire exposition,
+
+118
+00:08:45.242 --> 00:08:48.640
+then it's going to repeat
+back to the exposition again.
+
+119
+00:08:48.640 --> 00:08:51.217
+On the second pass through,
+you're going to hear the same thing.
+
+120
+00:08:51.217 --> 00:08:53.990
+When we get here there's going to
+be a slight modification so
+
+121
+00:08:53.990 --> 00:08:56.560
+[LAUGH] that we don't repeat over and
+over again.
+
+122
+00:08:56.560 --> 00:09:00.456
+A slight modification that's going to
+then lead us in to the development, and
+
+123
+00:09:00.456 --> 00:09:05.190
+then we're going to go all the way through
+to, to the recap, to the end of the piece.
+
+124
+00:09:05.190 --> 00:09:09.310
+So that's our crash course
+again in sonata form.
+
+125
+00:09:09.310 --> 00:09:13.130
+And now, what I'm going to do is I'm
+going to walk you through some of
+
+126
+00:09:13.130 --> 00:09:16.210
+the themes that we're going to
+hear in this movement.
+
+127
+00:09:16.210 --> 00:09:18.950
+And then we're going to
+actually walk through
+
+128
+00:09:18.950 --> 00:09:21.040
+a listening of the entire movement.
+
+129
+00:09:21.040 --> 00:09:24.640
+It takes about 11 minutes or so and
+
+130
+00:09:24.640 --> 00:09:28.280
+I'll try my best to not talk
+too much over the audio.
+
+131
+00:09:28.280 --> 00:09:32.920
+But I think I will talk over the audio so
+that I can guide you as we're going and
+
+132
+00:09:32.920 --> 00:09:38.100
+we can, we can talk about what
+we're hearing in real time.
+
+133
+00:09:38.100 --> 00:09:44.200
+So, at the very beginning,
+our first theme.
+
+134
+00:09:45.700 --> 00:09:48.910
+And I'm not going to play all of
+these themes in their entirety.
+
+135
+00:09:48.910 --> 00:09:53.840
+One of the interesting things about music,
+and music as it takes
+
+136
+00:09:53.840 --> 00:09:58.260
+place in larger forms like this,
+is that there is some flexibility
+
+137
+00:09:59.410 --> 00:10:04.630
+with how we define various concepts.
+
+138
+00:10:04.630 --> 00:10:07.476
+When we say a theme,
+we usually do mean though kind of a,
+
+139
+00:10:07.476 --> 00:10:11.620
+a relatively self-encloser at least.
+
+140
+00:10:11.620 --> 00:10:16.860
+And a noticeable or parsable melody that
+you can kind of say has a beginning and
+
+141
+00:10:16.860 --> 00:10:18.480
+possibly an end.
+
+142
+00:10:18.480 --> 00:10:24.343
+In, in, in this case the theme is somewhat
+longer and made up of smaller gestures.
+
+143
+00:10:24.343 --> 00:10:27.648
+So I'll play you kind of the main
+idea here which just goes
+
+144
+00:10:27.648 --> 00:10:37.648
+[MUSIC]
+
+145
+00:10:40.760 --> 00:10:42.200
+And then keeps going.
+
+146
+00:10:42.200 --> 00:10:45.234
+So this theme has like a very
+noticeable idea, which is.
+
+147
+00:10:45.234 --> 00:10:48.601
+[MUSIC]
+
+148
+00:10:48.601 --> 00:10:50.090
+And then keeps going.
+
+149
+00:10:50.090 --> 00:10:52.430
+Now it's that, will take place.
+
+150
+00:10:52.430 --> 00:10:56.260
+And then we're going to hear more music,
+which obviously ensues.
+
+151
+00:10:56.260 --> 00:11:00.310
+And, and there's not necessarily
+a clear distinction between like,
+
+152
+00:11:00.310 --> 00:11:05.160
+Oh, the theme has stopped right here and
+this is clearly non-thematic material.
+
+153
+00:11:05.160 --> 00:11:09.572
+However, there are, there will be points
+in the music where you can tell that it's,
+
+154
+00:11:09.572 --> 00:11:13.740
+that the music is not necessarily supposed
+to be acting, you know, like a theme,
+
+155
+00:11:13.740 --> 00:11:17.886
+but rather it's supposed to
+be transitional material or
+
+156
+00:11:17.886 --> 00:11:20.020
+kind of developmental material.
+
+157
+00:11:20.020 --> 00:11:22.940
+As we go through the piece,
+I'll kind of explain this further, and
+
+158
+00:11:22.940 --> 00:11:25.430
+I hope that we'll be able
+to here that more clearly.
+
+159
+00:11:26.450 --> 00:11:28.050
+So that's our first theme.
+
+160
+00:11:28.050 --> 00:11:36.482
+Then, the next theme is
+going to take us to.
+
+161
+00:11:40.653 --> 00:11:42.788
+It's going to take us to
+the second theme group.
+
+162
+00:11:42.788 --> 00:11:44.523
+And that one goes.
+
+163
+00:11:44.523 --> 00:11:53.699
+[MUSIC]
+
+164
+00:11:53.699 --> 00:11:54.660
+Like that.
+
+165
+00:11:54.660 --> 00:11:56.480
+That's our second theme group.
+
+166
+00:11:56.480 --> 00:12:00.860
+And, once again, you're going to hear that
+develop and it's going to keep going.
+
+167
+00:12:00.860 --> 00:12:07.050
+And then we're going to experience
+transition to our third theme group,
+
+168
+00:12:07.050 --> 00:12:11.830
+which sounds much more relaxed
+then the first two themes.
+
+169
+00:12:11.830 --> 00:12:15.254
+This one goes like this.
+
+170
+00:12:15.254 --> 00:12:24.497
+[MUSIC]
+
+171
+00:12:24.497 --> 00:12:25.960
+And then keeps going.
+
+172
+00:12:25.960 --> 00:12:30.505
+Now one thing you might notice about
+that theme, maybe not right away, but
+
+173
+00:12:30.505 --> 00:12:34.341
+the very first rhythmic idea in
+this theme right here, which is
+
+174
+00:12:34.341 --> 00:12:36.542
+[MUSIC]
+
+175
+00:12:36.542 --> 00:12:37.720
+like that.
+
+176
+00:12:37.720 --> 00:12:42.648
+Actually it has the exact same
+rhythm as our first theme which was
+
+177
+00:12:42.648 --> 00:12:44.884
+[MUSIC]
+
+178
+00:12:44.884 --> 00:12:48.760
+So now let me pull the melody out of it,
+let's pull the notes out of it and
+
+179
+00:12:48.760 --> 00:12:50.820
+just think of it as pure rhythm.
+
+180
+00:12:50.820 --> 00:12:52.558
+So the very first theme goes
+
+181
+00:12:52.558 --> 00:12:54.760
+[MUSIC]
+
+182
+00:12:54.760 --> 00:12:55.496
+like that.
+
+183
+00:12:55.496 --> 00:12:57.663
+[MUSIC]
+
+184
+00:12:57.663 --> 00:12:59.599
+And then our third theme goes.
+
+185
+00:12:59.599 --> 00:13:01.767
+[MUSIC]
+
+186
+00:13:01.767 --> 00:13:06.002
+So you can see how these two ideas
+are somewhat related, even at a kind of
+
+187
+00:13:06.002 --> 00:13:10.109
+rhythmic level, even though they
+have very different characters.
+
+188
+00:13:10.109 --> 00:13:17.183
+The very first theme, as you're going to
+hear has a, a more emphatic quality to it.
+
+189
+00:13:17.183 --> 00:13:21.280
+While, while this theme,
+the third theme, sounds more pastoral.
+
+190
+00:13:21.280 --> 00:13:24.088
+But yet
+they share the same opening rhythmic idea.
+
+191
+00:13:24.088 --> 00:13:28.110
+So there's a, a link there that is not
+necessarily immediately audible, or
+
+192
+00:13:28.110 --> 00:13:29.960
+maybe it was.
+
+193
+00:13:29.960 --> 00:13:32.290
+Maybe it was to you when,
+when you just heard them now.
+
+194
+00:13:33.330 --> 00:13:36.745
+Either way, whether you recognized it
+off the bat or not, it's there and that,
+
+195
+00:13:36.745 --> 00:13:41.749
+that kind of adds some additional
+kind of quality of rela,
+
+196
+00:13:41.749 --> 00:13:45.280
+an additional relationship
+to the different themes.
+
+197
+00:13:45.280 --> 00:13:49.640
+So, that's part of the way that
+sonata-formed themes work is that each
+
+198
+00:13:49.640 --> 00:13:52.470
+theme often has a different
+sort of character to it.
+
+199
+00:13:52.470 --> 00:13:57.220
+And that's also how we can keep
+track of them throughout the piece,
+
+200
+00:13:57.220 --> 00:14:01.260
+is that they can be they can have a kind
+of a certain identity of their own.
+
+201
+00:14:03.510 --> 00:14:08.260
+All right, so now that we've heard those
+three themes, let's just start here at
+
+202
+00:14:08.260 --> 00:14:14.900
+the beginning of this movement, and
+travel through and, and see how we fair.
+
+203
+00:14:14.900 --> 00:14:19.670
+So, I'm going to go to the very beginning.
+
+204
+00:14:19.670 --> 00:14:20.580
+And here we go.
+
+205
+00:14:20.580 --> 00:14:23.810
+Here are, we are at our slow introduction.
+
+206
+00:14:23.810 --> 00:14:27.317
+We're using a recording by
+the New York Philharmonic conducted by
+
+207
+00:14:27.317 --> 00:14:28.718
+Leonard Bernstein.
+
+208
+00:14:28.718 --> 00:14:33.346
+The reason why I chose this is ultimately
+because I like the recording [LAUGH] and
+
+209
+00:14:33.346 --> 00:14:37.463
+I think Leonard Bernstein is a,
+is a very nice interpreter of this music.
+
+210
+00:14:37.463 --> 00:14:42.421
+But also for, equally important is
+that it is one of the recording, or
+
+211
+00:14:42.421 --> 00:14:47.083
+one of the few recordings out there
+that I've found that actually does play
+
+212
+00:14:47.083 --> 00:14:48.790
+the expositional repeat.
+
+213
+00:14:48.790 --> 00:14:51.560
+And I think that's really important for
+us to be able to hear.
+
+214
+00:14:51.560 --> 00:14:54.590
+Sometimes conductors will
+make the decision and
+
+215
+00:14:54.590 --> 00:14:55.940
+there are many reasons for it.
+
+216
+00:14:55.940 --> 00:14:59.640
+It could be recording you know, depending
+on when it was recorded it could've been
+
+217
+00:14:59.640 --> 00:15:03.950
+the limit in, in the time that they wanted
+to give to the overall recording, and
+
+218
+00:15:03.950 --> 00:15:06.200
+sometimes to save the time,
+they will skip the repeat.
+
+219
+00:15:06.200 --> 00:15:08.800
+It could've just have been
+an artistic decision.
+
+220
+00:15:08.800 --> 00:15:09.580
+But in this case,
+
+221
+00:15:09.580 --> 00:15:14.210
+what we are getting is the full version
+of the movement that includes the repeat.
+
+222
+00:15:14.210 --> 00:15:17.003
+So here we go, from the, from the top.
+
+223
+00:15:17.003 --> 00:15:27.003
+[MUSIC]
+
+224
+00:15:33.953 --> 00:15:38.224
+As you can see, it's a very somber mood.
+
+225
+00:15:38.224 --> 00:15:40.470
+Low register, very quiet.
+
+226
+00:15:40.470 --> 00:15:50.470
+[MUSIC]
+
+227
+00:16:34.967 --> 00:16:40.634
+Mounting
+
+228
+00:16:40.634 --> 00:16:49.135
+tension right
+
+229
+00:16:49.135 --> 00:16:53.387
+here.
+
+230
+00:16:53.387 --> 00:16:58.971
+Right here, rumbling of what will become
+
+231
+00:16:58.971 --> 00:17:03.763
+our first theme, here it is again.
+
+232
+00:17:03.763 --> 00:17:10.236
+Violent outburst.
+
+233
+00:17:10.236 --> 00:17:16.409
+And building.
+
+234
+00:17:16.409 --> 00:17:20.279
+And right here is the start
+of our exposition.
+
+235
+00:17:20.279 --> 00:17:24.236
+[INAUDIBLE]
+So
+
+236
+00:17:24.236 --> 00:17:28.912
+you can here how
+
+237
+00:17:28.912 --> 00:17:34.667
+this theme has been
+
+238
+00:17:34.667 --> 00:17:41.861
+generating momentum,
+
+239
+00:17:41.861 --> 00:17:50.142
+now we're moving onward.
+
+240
+00:17:50.142 --> 00:17:53.713
+You hear the theme again.
+
+241
+00:17:53.713 --> 00:17:57.616
+Now I'm traveling.
+
+242
+00:17:57.616 --> 00:18:01.909
+Your
+
+243
+00:18:01.909 --> 00:18:10.495
+sequence
+
+244
+00:18:10.495 --> 00:18:16.936
+here.
+
+245
+00:18:16.936 --> 00:18:17.903
+All right.
+
+246
+00:18:17.903 --> 00:18:19.438
+Now.
+
+247
+00:18:19.438 --> 00:18:23.743
+We've reached our second theme.
+
+248
+00:18:23.743 --> 00:18:27.713
+And you hear the oboe.
+
+249
+00:18:27.713 --> 00:18:37.283
+Transfers
+
+250
+00:18:37.283 --> 00:18:42.599
+to the
+
+251
+00:18:42.599 --> 00:18:52.171
+strings.
+
+252
+00:18:52.171 --> 00:18:54.920
+So as you can see,
+we're traveling again now.
+
+253
+00:18:54.920 --> 00:18:56.410
+It's kind of in transition here.
+
+254
+00:18:58.890 --> 00:19:02.740
+Some turbulent music and
+then it seems to relax again.
+
+255
+00:19:02.740 --> 00:19:06.620
+More relax.
+
+256
+00:19:06.620 --> 00:19:11.915
+Now you can kind of feel the slower role.
+
+257
+00:19:11.915 --> 00:19:16.900
+Here's our third theme.
+
+258
+00:19:16.900 --> 00:19:19.890
+The flute.
+
+259
+00:19:19.890 --> 00:19:24.390
+Once again, transferred to that strings.
+
+260
+00:19:24.390 --> 00:19:29.785
+Momentum's
+
+261
+00:19:29.785 --> 00:19:34.700
+building.
+
+262
+00:19:34.700 --> 00:19:37.570
+Final presentation, of this third theme.
+
+263
+00:19:37.570 --> 00:19:44.557
+Where are we going back?
+
+264
+00:19:44.557 --> 00:19:48.060
+Back to the beginning, or
+to the beginning of our exposition.
+
+265
+00:19:48.060 --> 00:19:55.608
+So here we are, we've now
+experienced the expositional repeat,
+
+266
+00:19:55.608 --> 00:19:59.800
+we're back in our first theme area.
+
+267
+00:19:59.800 --> 00:20:06.516
+So on the second pass visualized and
+
+268
+00:20:06.516 --> 00:20:12.150
+also hear your way through the form.
+
+269
+00:20:12.150 --> 00:20:16.160
+First theme again.
+
+270
+00:20:16.160 --> 00:20:18.710
+Now, traveling.
+
+271
+00:20:18.710 --> 00:20:24.940
+Here's our
+
+272
+00:20:24.940 --> 00:20:31.170
+sequence.
+
+273
+00:20:31.170 --> 00:20:33.806
+Okay, here we are, traveling again.
+
+274
+00:20:33.806 --> 00:20:35.710
+We have a change, slow change in mood.
+
+275
+00:20:35.710 --> 00:20:41.110
+Feel kind of
+
+276
+00:20:41.110 --> 00:20:46.510
+a deflation
+
+277
+00:20:46.510 --> 00:20:52.992
+a little bit.
+
+278
+00:20:52.992 --> 00:20:54.918
+Now second theme.
+Transfers to the, the middle strings.
+
+279
+00:20:54.918 --> 00:21:04.881
+Another outburst.
+
+280
+00:21:04.881 --> 00:21:10.440
+And they're building again and
+getting a head of steam.
+
+281
+00:21:10.440 --> 00:21:14.262
+It kind of breaks through and
+
+282
+00:21:14.262 --> 00:21:18.250
+now again kind of turbulent.
+
+283
+00:21:18.250 --> 00:21:21.955
+Relax.
+
+284
+00:21:21.955 --> 00:21:28.634
+And again, building
+
+285
+00:21:28.634 --> 00:21:33.833
+again, relax.
+
+286
+00:21:33.833 --> 00:21:34.740
+Here we go again.
+
+287
+00:21:34.740 --> 00:21:39.897
+Third theme, you can hear
+
+288
+00:21:39.897 --> 00:21:44.590
+how pastoral it feels.
+
+289
+00:21:44.590 --> 00:21:53.676
+Another iteration
+
+290
+00:21:53.676 --> 00:21:59.353
+of the third
+
+291
+00:21:59.353 --> 00:22:03.331
+theme.
+
+292
+00:22:03.331 --> 00:22:08.501
+Now we're going to travel through.
+
+293
+00:22:08.501 --> 00:22:10.536
+You can hear now, we're traveling.
+
+294
+00:22:10.536 --> 00:22:18.310
+And here's our onset of the development.
+
+295
+00:22:18.310 --> 00:22:23.492
+That sounds a little bit
+like the third theme.
+
+296
+00:22:23.492 --> 00:22:28.258
+But now, the development is happening here
+as we see that kind of breaking it down.
+
+297
+00:22:28.258 --> 00:22:33.470
+Ba ba ba ba, all right,
+
+298
+00:22:33.470 --> 00:22:37.119
+so you can hear,
+
+299
+00:22:37.119 --> 00:22:42.857
+there's a little snippet
+
+300
+00:22:42.857 --> 00:22:47.306
+of our first theme.
+
+301
+00:22:47.306 --> 00:22:51.719
+Some snippets of
+
+302
+00:22:51.719 --> 00:22:56.449
+the first theme.
+
+303
+00:22:56.449 --> 00:22:58.250
+Here you go,
+another hark back to our first theme.
+
+304
+00:22:58.250 --> 00:23:02.988
+You can hear now, we've moved again.
+
+305
+00:23:02.988 --> 00:23:05.391
+Da, da, da, da, da, same thing.
+
+306
+00:23:05.391 --> 00:23:12.119
+So now we're using a rhythmic
+
+307
+00:23:12.119 --> 00:23:17.236
+jester from earlier.
+
+308
+00:23:17.236 --> 00:23:20.006
+Now the oboe has it.
+
+309
+00:23:20.006 --> 00:23:24.410
+Puh, puh, puh, puh, puh, puh, puh.
+
+310
+00:23:24.410 --> 00:23:28.104
+See, you can here how Dvorak is playing
+with some of snippets of ideas from
+
+311
+00:23:28.104 --> 00:23:30.260
+the exposition, piecing them together.
+
+312
+00:23:30.260 --> 00:23:34.484
+And now we're back at the recap.
+
+313
+00:23:34.484 --> 00:23:38.965
+And this should sound familiar because
+this is pretty much what we get at
+
+314
+00:23:38.965 --> 00:23:41.440
+the very beginning of the exposition.
+
+315
+00:23:41.440 --> 00:23:50.400
+Here, you might notice there's
+a modification happening.
+
+316
+00:23:50.400 --> 00:23:54.340
+It's not exactly like it
+was in the exposition.
+
+317
+00:23:54.340 --> 00:23:59.685
+We're on our way to
+the second theme group.
+
+318
+00:23:59.685 --> 00:24:06.250
+And here.
+
+319
+00:24:06.250 --> 00:24:09.687
+[MUSIC]
+
+320
+00:24:09.687 --> 00:24:11.264
+It's still in the flutes though.
+
+321
+00:24:11.264 --> 00:24:14.632
+[MUSIC]
+
+322
+00:24:14.632 --> 00:24:16.526
+Then it gets past.
+
+323
+00:24:16.526 --> 00:24:17.929
+This time stays in the woodwind family.
+
+324
+00:24:17.929 --> 00:24:27.929
+[MUSIC]
+
+325
+00:24:39.314 --> 00:24:41.195
+Here now again, tension.
+
+326
+00:24:41.195 --> 00:24:44.544
+And a little relaxation.
+
+327
+00:24:44.544 --> 00:24:46.135
+The same thing again.
+
+328
+00:24:46.135 --> 00:24:48.485
+The swirling.
+
+329
+00:24:48.485 --> 00:24:53.744
+And relax again.
+
+330
+00:24:53.744 --> 00:24:55.909
+More relaxed.
+
+331
+00:24:55.909 --> 00:24:59.531
+Lowering down.
+
+332
+00:24:59.531 --> 00:25:01.180
+And here we are at our third theme.
+
+333
+00:25:01.180 --> 00:25:11.180
+[MUSIC]
+
+334
+00:25:19.891 --> 00:25:23.711
+All right, now we reach the end.
+
+335
+00:25:23.711 --> 00:25:26.631
+Or, the point where we would be
+at the end in our exposition.
+
+336
+00:25:26.631 --> 00:25:31.069
+[MUSIC].
+
+337
+00:25:31.069 --> 00:25:32.846
+Now we're recycling some key material.
+
+338
+00:25:32.846 --> 00:25:40.177
+[MUSIC].
+
+339
+00:25:40.177 --> 00:25:41.251
+All this is new, of course.
+
+340
+00:25:41.251 --> 00:25:45.401
+[MUSIC].
+
+341
+00:25:45.401 --> 00:25:47.346
+Coming off of again,
+our first new material.
+
+342
+00:25:47.346 --> 00:25:51.412
+[MUSIC]
+
+343
+00:25:51.412 --> 00:25:52.859
+Feel the energy.
+
+344
+00:25:52.859 --> 00:25:53.649
+Momentum.
+
+345
+00:25:53.649 --> 00:25:55.239
+Feel the boom, boom, boom.
+
+346
+00:25:55.239 --> 00:25:59.016
+[MUSIC]
+
+347
+00:25:59.016 --> 00:26:03.403
+Feel the rhythm.
+[MUSIC]
+
+348
+00:26:03.403 --> 00:26:04.106
+First theme again.
+
+349
+00:26:04.106 --> 00:26:14.791
+[MUSIC]
+
+350
+00:26:14.791 --> 00:26:17.948
+So I'm going to go back to the whiteboard
+here, to illustrate one thing.
+
+351
+00:26:17.948 --> 00:26:22.529
+Which is that in the recap,
+when we got to our third theme area,
+
+352
+00:26:22.529 --> 00:26:24.698
+we heard the full iteration.
+
+353
+00:26:24.698 --> 00:26:28.149
+[MUSIC]
+
+354
+00:26:28.149 --> 00:26:32.413
+And then played all the way through and
+then we got to that big conjubilant point.
+
+355
+00:26:32.413 --> 00:26:34.975
+And of course at that
+point in the exposition,
+
+356
+00:26:34.975 --> 00:26:37.810
+we got to that jubilant point and
+then we repeat it.
+
+357
+00:26:37.810 --> 00:26:40.920
+And then, the second time we
+went onto the development.
+
+358
+00:26:40.920 --> 00:26:44.061
+This time we get to that
+jubilant moment and
+
+359
+00:26:44.061 --> 00:26:47.900
+then Dvorak basically ex,
+extends the activity.
+
+360
+00:26:47.900 --> 00:26:49.561
+He first of all, modulates.
+
+361
+00:26:49.561 --> 00:26:52.110
+He moves us up a little bit.
+
+362
+00:26:52.110 --> 00:26:55.210
+You could, you could, you could probably
+hear that, we might play it again.
+
+363
+00:26:55.210 --> 00:26:57.070
+But you hear it happens, it's jubilant.
+
+364
+00:26:57.070 --> 00:26:59.850
+And then, it actually gets raised again.
+
+365
+00:26:59.850 --> 00:27:04.890
+And then, we get a little kind of a tag
+at the end where there's all this
+
+366
+00:27:04.890 --> 00:27:05.750
+energy build up.
+
+367
+00:27:05.750 --> 00:27:09.410
+And as you can see, the whole orchestra
+is kind of running, running, and
+
+368
+00:27:09.410 --> 00:27:11.870
+the rhythm is getting more and
+more intense.
+
+369
+00:27:11.870 --> 00:27:13.440
+And what we have and, and
+
+370
+00:27:13.440 --> 00:27:16.880
+I think that this concept has
+also been presented before.
+
+371
+00:27:16.880 --> 00:27:18.844
+But, what we get basically
+here at the end.
+
+372
+00:27:18.844 --> 00:27:23.699
+Right after our third
+theme zone has happened
+
+373
+00:27:23.699 --> 00:27:27.536
+is what we like to think of as a coda.
+
+374
+00:27:27.536 --> 00:27:34.790
+Coda I believe comes from Italian word for
+tail, I believe.
+
+375
+00:27:34.790 --> 00:27:42.410
+And it really does kind of, add just a,
+extra space on to our movement.
+
+376
+00:27:43.510 --> 00:27:44.660
+Or it could happen in a,
+
+377
+00:27:44.660 --> 00:27:49.800
+in a single contained piece that doesn't
+have various movements, at the end.
+
+378
+00:27:49.800 --> 00:27:54.690
+But anyway, we get a coda that basically
+kind of gives us a final hoorah.
+
+379
+00:27:54.690 --> 00:28:01.860
+In this case, the final hoorah is made
+up of snippets of our first theme.
+
+380
+00:28:01.860 --> 00:28:03.084
+Right and so
+you could hear at the end there
+
+381
+00:28:03.084 --> 00:28:09.926
+[MUSIC].
+
+382
+00:28:09.926 --> 00:28:11.453
+Right?
+And so and then it builds and
+
+383
+00:28:11.453 --> 00:28:14.300
+it builds and
+then at the very end it ends with a bang.
+
+384
+00:28:14.300 --> 00:28:19.870
+So in this case, our sonata form
+then had kind of two additions
+
+385
+00:28:19.870 --> 00:28:24.770
+to our kind of classic exposition,
+development, and recapitulation.
+
+386
+00:28:24.770 --> 00:28:27.810
+We had a slow introduction
+which was never repeated.
+
+387
+00:28:27.810 --> 00:28:30.930
+And then we have a coda
+which also only sounds once.
+
+388
+00:28:30.930 --> 00:28:35.323
+And so, that's basically in a,
+in a nutshell,
+
+389
+00:28:35.323 --> 00:28:42.665
+a very nice encapsulation of sonata form
+operating in some of the traditional ways.
+
+390
+00:28:42.665 --> 00:28:48.093
+And then, in some of the kind of
+added bonus ways and
+
+391
+00:28:48.093 --> 00:28:52.559
+this is by no means unique to Dvorak.
+
+392
+00:28:52.559 --> 00:28:53.369
+Haydn, for
+
+393
+00:28:53.369 --> 00:28:58.969
+instance often had slow introductions to
+movements that he wrote in sonata form.
+
+394
+00:28:58.969 --> 00:29:01.070
+Mozart, Beethoven.
+
+395
+00:29:03.090 --> 00:29:09.130
+So, this is by no means, something that
+is a late 19th century development.
+
+396
+00:29:09.130 --> 00:29:14.450
+This is, this is something that
+composers even in the 18th,
+
+397
+00:29:14.450 --> 00:29:17.330
+late 18th and early 19th century.
+
+398
+00:29:17.330 --> 00:29:22.100
+Are already playing with
+these kinds of features.
+
+399
+00:29:22.100 --> 00:29:24.930
+In the way that they explore sonata form.
+
+400
+00:29:24.930 --> 00:29:28.900
+But I think that this is a really
+it's a really neat movement.
+
+401
+00:29:28.900 --> 00:29:34.018
+Because we can hear a lot of cool themes
+that have very distinctive characters.
+
+402
+00:29:34.018 --> 00:29:35.597
+And we can see how they play up.
+
+403
+00:29:35.597 --> 00:29:38.403
+So as you can see I've made these
+little spirals here in the development.
+
+404
+00:29:38.403 --> 00:29:40.935
+But really in the spirals
+we could have written,
+
+405
+00:29:40.935 --> 00:29:42.866
+we could have kind of notated things.
+
+406
+00:29:42.866 --> 00:29:46.427
+Like he's playing with a third them,
+playing some of the bits of our first
+
+407
+00:29:46.427 --> 00:29:49.076
+them, and, of course,
+there are also new material.
+
+408
+00:29:49.076 --> 00:29:49.710
+I don't know.
+
+409
+00:29:49.710 --> 00:29:52.460
+I'll just write the word new
+thrown into the jumble there.
+
+410
+00:29:52.460 --> 00:29:55.550
+And so, that's kind of the,
+that's the point of a development section.
+
+411
+00:29:55.550 --> 00:30:01.020
+The idea is that it's a,
+a meditation, in sense, in a sense,
+
+412
+00:30:01.020 --> 00:30:05.990
+or, or a kind of rumination on the
+material that was given in our exposition.
+
+413
+00:30:05.990 --> 00:30:09.886
+And of course, out of this Pssst.
+
+414
+00:30:09.886 --> 00:30:11.662
+The recap comes.
+
+415
+00:30:11.662 --> 00:30:16.470
+And so, that is basically how
+our sonata form is working.
+
+416
+00:30:16.470 --> 00:30:20.680
+What I'm going to do then is, let's
+just play the very end of the recap and
+
+417
+00:30:20.680 --> 00:30:22.050
+the coda one more time.
+
+418
+00:30:22.050 --> 00:30:25.110
+So that you,
+you can kind of get a sense, once again,
+
+419
+00:30:25.110 --> 00:30:29.810
+of how that transition works
+out of the recap into the coda.
+
+420
+00:30:29.810 --> 00:30:33.325
+And maybe we'll call it
+a class at that point.
+
+421
+00:30:33.325 --> 00:30:37.725
+So here let me put the bottom here.
+
+422
+00:30:37.725 --> 00:30:38.787
+Maybe this is a good point.
+
+423
+00:30:38.787 --> 00:30:48.787
+[MUSIC]
+
+424
+00:30:51.593 --> 00:30:53.310
+So here we are.
+
+425
+00:30:53.310 --> 00:31:01.547
+We're kind of at the tail end
+of our second theme group.
+
+426
+00:31:01.547 --> 00:31:05.228
+So you can hear, here we are,
+relaxing, relaxing,
+
+427
+00:31:05.228 --> 00:31:08.015
+[MUSIC]
+
+428
+00:31:08.015 --> 00:31:10.290
+Sigh, and here's the third.
+
+429
+00:31:10.290 --> 00:31:20.290
+[MUSIC]
+
+430
+00:31:28.111 --> 00:31:28.900
+Here we are.
+
+431
+00:31:28.900 --> 00:31:30.503
+Music in this jubilant moment here.
+
+432
+00:31:30.503 --> 00:31:38.417
+[MUSIC]
+
+433
+00:31:38.417 --> 00:31:39.090
+>> [INAUDIBLE] We're rising.
+
+434
+00:31:39.090 --> 00:31:45.011
+[MUSIC]
+
+435
+00:31:45.011 --> 00:31:47.293
+Here we are now, getting into coda.
+
+436
+00:31:47.293 --> 00:31:51.989
+We're in coda world now.
+
+437
+00:31:51.989 --> 00:31:55.547
+Here in coda world we're playing
+with aspects of our first theme.
+
+438
+00:31:55.547 --> 00:31:57.271
+All right.
+[INAUDIBLE] this.
+
+439
+00:31:57.271 --> 00:32:01.289
+[MUSIC]
+
+440
+00:32:01.289 --> 00:32:02.126
+Momentum is building.
+
+441
+00:32:02.126 --> 00:32:02.706
+Here we go.
+
+442
+00:32:02.706 --> 00:32:11.041
+[MUSIC]
+
+443
+00:32:11.041 --> 00:32:12.207
+And one more time, yep.
+
+444
+00:32:12.207 --> 00:32:20.282
+[MUSIC]
+
+445
+00:32:20.282 --> 00:32:22.481
+It's a very emphatic end to that movement.
+
+446
+00:32:23.690 --> 00:32:28.970
+And, of course, what follows this movement
+probably after a few seconds of break for
+
+447
+00:32:28.970 --> 00:32:32.680
+a, both conductor and
+orchestra, and audience,
+
+448
+00:32:32.680 --> 00:32:36.440
+to kind of breath and, and have
+a moment after that big adrenalin rush.
+
+449
+00:32:36.440 --> 00:32:40.570
+Was, of course, the second movement,
+which starts out with some big,
+
+450
+00:32:40.570 --> 00:32:43.870
+kind of broad chords in, in the brass.
+
+451
+00:32:43.870 --> 00:32:50.490
+And, of course, the same melody that you
+heard me playing when we started out here.
+
+452
+00:32:50.490 --> 00:32:53.210
+So I'm going to now,
+I'm going to play, again,
+
+453
+00:32:53.210 --> 00:32:56.220
+that melody from the second movement,
+the very famous melody.
+
+454
+00:32:56.220 --> 00:32:58.830
+I think it also has the nickname.
+
+455
+00:32:58.830 --> 00:32:59.360
+Going home.
+
+456
+00:33:00.770 --> 00:33:03.790
+This is what you would hear if you were
+at a concert then you were at a symphony.
+
+457
+00:33:03.790 --> 00:33:05.590
+You would hear that movement,
+
+458
+00:33:05.590 --> 00:33:08.800
+then you would hear the opening of
+the second movement, and then this melody,
+
+459
+00:33:08.800 --> 00:33:11.420
+which is actually not played by
+the violin but by the English horn.
+
+460
+00:33:13.480 --> 00:33:18.250
+And so I will play this melody and,
+bid you adieu for now, but thanks so
+
+461
+00:33:18.250 --> 00:33:19.730
+much for joining us for office hours.
+
+462
+00:33:19.730 --> 00:33:23.540
+I hope that was a,
+a helpful walk through sonata form.
+
+463
+00:33:23.540 --> 00:33:28.270
+And I hope that if you liked that piece,
+or that movement, i hope that you will go
+
+464
+00:33:28.270 --> 00:33:32.870
+check out the rest of the symphony and,
+many more symphonies by Dvorjak and,
+
+465
+00:33:32.870 --> 00:33:36.910
+of course, plenty of other
+symphonies by many other composers,
+
+466
+00:33:36.910 --> 00:33:39.520
+both of whom we've spoken
+about in this class and
+
+467
+00:33:39.520 --> 00:33:43.180
+others that we haven't had
+the opportunity to, to discuss.
+
+468
+00:33:43.180 --> 00:33:47.781
+But here we are the,
+opening melody of the second
+
+469
+00:33:47.781 --> 00:33:51.572
+movement of Dvojak's new world symphony.
+
+470
+00:33:51.572 --> 00:34:01.572
+[MUSIC]

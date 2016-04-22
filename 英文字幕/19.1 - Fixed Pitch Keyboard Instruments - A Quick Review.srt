@@ -1,0 +1,522 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:29.099 --> 00:00:30.715
+Western musical culture,
+
+3
+00:00:30.715 --> 00:00:35.200
+is the only musical culture that
+has keyed fix pitched instruments.
+
+4
+00:00:35.200 --> 00:00:39.550
+Let me say that again,
+keyed fix pitch instruments.
+
+5
+00:00:39.550 --> 00:00:41.310
+What's a fixed pitch instrument?
+
+6
+00:00:41.310 --> 00:00:43.180
+Well, it's one that doesn't allow for
+
+7
+00:00:43.180 --> 00:00:48.120
+a change of pitch, doesn't allow for
+a tuning, during a performance.
+
+8
+00:00:48.120 --> 00:00:50.650
+So, here's an opening quiz.
+
+9
+00:00:52.780 --> 00:00:55.318
+In the list that you
+see which of the three
+
+10
+00:00:55.318 --> 00:00:58.560
+instruments are fixed pitch instruments?
+
+11
+00:00:58.560 --> 00:01:01.440
+You don't have to adjust them,
+while you're playing a concert.
+
+12
+00:01:04.010 --> 00:01:04.830
+Good.
+
+13
+00:01:04.830 --> 00:01:07.930
+Harp, Organ, and Piano.
+
+14
+00:01:07.930 --> 00:01:12.200
+With the oboe, you can blow harder or
+less hard and the pitch will rise or
+
+15
+00:01:12.200 --> 00:01:15.470
+fall, same thing with the trumpet or
+the trombone.
+
+16
+00:01:15.470 --> 00:01:19.170
+With both string instruments,
+you can slightly extend or
+
+17
+00:01:19.170 --> 00:01:23.690
+shorten the length of string and
+the sound, will get lower or higher.
+
+18
+00:01:23.690 --> 00:01:27.500
+The voice does the same thing,
+with the vocal chords, lengthening or
+
+19
+00:01:27.500 --> 00:01:28.900
+shortening them.
+
+20
+00:01:28.900 --> 00:01:33.370
+The harp, of course,
+doesn't use keys, so the organ and
+
+21
+00:01:33.370 --> 00:01:38.420
+piano are really the only fixed
+pitch instruments with keyboards.
+
+22
+00:01:38.420 --> 00:01:42.520
+Now, other cultures have
+fixed pitch instruments.
+
+23
+00:01:42.520 --> 00:01:47.700
+The Chinese, for example, have the Pipa
+and the Indonesians, well, they
+
+24
+00:01:47.700 --> 00:01:53.940
+have the Indonesian Gamelan, but neither
+if these, obviously, has a keyboard.
+
+25
+00:01:53.940 --> 00:01:57.710
+Only, Western music has
+keyboard instruments.
+
+26
+00:01:58.830 --> 00:02:03.030
+And, Western music, has relied heavily
+on keyboard instruments, indeed for
+
+27
+00:02:03.030 --> 00:02:04.410
+more than a thousand years.
+
+28
+00:02:04.410 --> 00:02:07.910
+First with the organ, and later with
+the harpsichord and then with the piano.
+
+29
+00:02:08.910 --> 00:02:13.600
+The result of this heavy reliance
+on fixed pitch keyboard instruments
+
+30
+00:02:13.600 --> 00:02:18.010
+to accompany voices and
+other instruments, was that fixed pitch,
+
+31
+00:02:18.010 --> 00:02:24.460
+very precise pitch, came to be
+privileged in Western musical culture.
+
+32
+00:02:24.460 --> 00:02:29.610
+Western music doesn't slide.
+
+33
+00:02:29.610 --> 00:02:33.560
+Between pitches but
+goes immediately and directly bum, bum.
+
+34
+00:02:33.560 --> 00:02:36.520
+From one exact pitch, to the next.
+
+35
+00:02:36.520 --> 00:02:40.220
+And these pitches, have been set
+out on a grid at fixed spots.
+
+36
+00:02:41.360 --> 00:02:47.370
+Western music, with its grid is more
+precise in terms of melody and harmony,
+
+37
+00:02:47.370 --> 00:02:53.040
+but lets much less nuance
+than non-western music.
+
+38
+00:02:53.040 --> 00:02:59.740
+Again, in Western music we have bars for
+rhythm and a grid for pitch.
+
+39
+00:02:59.740 --> 00:03:04.430
+If nothing else, Western music is
+comparatively rigid and fixed.
+
+40
+00:03:06.230 --> 00:03:11.140
+As we saw in our earlier session
+in medieval and renaissance music.
+
+41
+00:03:11.140 --> 00:03:15.720
+The organ has been around in the West,
+with keys, for more than a thousand years
+
+42
+00:03:15.720 --> 00:03:19.950
+and, the harpsichord for more than 600,
+and the piano, for more than 300.
+
+43
+00:03:19.950 --> 00:03:25.350
+Let's take a minute to review,
+how the harpsichord and piano make sound.
+
+44
+00:03:27.390 --> 00:03:32.240
+You can see that, this harpsichord, from
+around 1600, has only three and a half
+
+45
+00:03:32.240 --> 00:03:37.560
+octaves to it, it's very small, very small
+keyboard, very few keys, very few pitches.
+
+46
+00:03:37.560 --> 00:03:40.665
+Now here's a, layer,
+somewhat bigger harpsichord,
+
+47
+00:03:40.665 --> 00:03:45.945
+that allows us to see where the jacks
+are located at the blue arrow.
+
+48
+00:03:45.945 --> 00:03:46.685
+Now remember,
+
+49
+00:03:46.685 --> 00:03:51.825
+that the harpsichord had a jack mechanism
+in which small bits of plastic, well,
+
+50
+00:03:51.825 --> 00:03:56.695
+of course, back in the day those small
+bits of plastic were bits of crow quill.
+
+51
+00:03:56.695 --> 00:04:01.300
+Small, hard bits that could be pushed up,
+by a key and
+
+52
+00:04:01.300 --> 00:04:04.210
+strike a string and then slide back down.
+
+53
+00:04:05.340 --> 00:04:10.537
+You'll see, where the plectrum,
+or the striker of the string,
+
+54
+00:04:10.537 --> 00:04:14.896
+is located within the jack,
+as we watch a quick video.
+
+55
+00:04:14.896 --> 00:04:24.896
+[MUSIC]
+
+56
+00:04:36.791 --> 00:04:39.883
+Pretty nifty,
+[LAUGH] virtuoso performance, but
+
+57
+00:04:39.883 --> 00:04:42.600
+the harpsichord did have limitations.
+
+58
+00:04:42.600 --> 00:04:43.850
+Well, what, what were they?
+
+59
+00:04:43.850 --> 00:04:45.190
+Think about it, for a moment.
+
+60
+00:04:45.190 --> 00:04:47.490
+What couldn't the harpsichord do?
+
+61
+00:04:49.720 --> 00:04:52.700
+Well, here are some of the disadvantages.
+
+62
+00:04:52.700 --> 00:04:56.580
+It had only one dynamic range at a time.
+
+63
+00:04:57.710 --> 00:04:59.840
+And it couldn't shape a phrase.
+
+64
+00:04:59.840 --> 00:05:01.990
+That's particularly important,
+couldn't shape a phrase.
+
+65
+00:05:01.990 --> 00:05:06.360
+It couldn't play, loud or
+soft one note to the next.
+
+66
+00:05:06.360 --> 00:05:10.270
+And it couldn't play loud enough
+to compete with an orchestra,
+
+67
+00:05:10.270 --> 00:05:13.750
+at least with the late classical and
+early romantic orchestra,
+
+68
+00:05:13.750 --> 00:05:16.780
+because it didn't have the volume.
+
+69
+00:05:16.780 --> 00:05:21.440
+So to solve this problem of limited
+volume an Italian inventor in
+
+70
+00:05:21.440 --> 00:05:25.530
+Florence created a new kind of
+instrument called the pianoforte,
+
+71
+00:05:25.530 --> 00:05:30.820
+the soft loud, because it could play
+both soft and loud, and instantly.
+
+72
+00:05:30.820 --> 00:05:35.340
+Here the strings were not plucked,
+but struck by hammers from below.
+
+73
+00:05:35.340 --> 00:05:40.920
+And they could fall back or
+escape back down after being struck.
+
+74
+00:05:40.920 --> 00:05:43.370
+Without this escapement mechanism,
+
+75
+00:05:43.370 --> 00:05:45.930
+the hammer would still be
+controlled by the key.
+
+76
+00:05:45.930 --> 00:05:50.250
+You push the key down and as long as you
+were pressing the key the hammer would
+
+77
+00:05:50.250 --> 00:05:55.550
+stay stuck up against the string and
+mute the sound of the string.
+
+78
+00:05:55.550 --> 00:05:56.220
+So that was no good.
+
+79
+00:05:56.220 --> 00:06:01.340
+The complicated escapement
+mechanism that you see
+
+80
+00:06:01.340 --> 00:06:05.780
+here allowed the string to sound and
+a hammer to fall back, so
+
+81
+00:06:05.780 --> 00:06:10.030
+that it was immediately ready to strike
+again when the key was pressed down again.
+
+82
+00:06:11.090 --> 00:06:14.600
+Of course, this instrument came
+to be called just the piano.
+
+83
+00:06:16.780 --> 00:06:19.850
+And here's how the inside
+of it looks today.
+
+84
+00:06:19.850 --> 00:06:23.796
+But let's go back to
+Mozart's piano of the 1780s.
+
+85
+00:06:23.796 --> 00:06:25.822
+And as you can see it too is short.
+
+86
+00:06:25.822 --> 00:06:28.250
+It has only, you know, 5 octaves.
+
+87
+00:06:28.250 --> 00:06:30.080
+And as mentioned before, it's light.
+
+88
+00:06:30.080 --> 00:06:31.850
+It weighs only exactly 187 pounds,
+
+89
+00:06:31.850 --> 00:06:37.110
+because it lacked,
+among other things, a metal frame.
+
+90
+00:06:37.110 --> 00:06:40.780
+The strings are thin, so
+they tend to break rather easily.
+
+91
+00:06:41.850 --> 00:06:46.410
+Now, here you see, Joseph Haydn,
+seated at a keyboard and composing.
+
+92
+00:06:46.410 --> 00:06:51.060
+Haydn's favorite piano,
+is made by Johann Kurnica in Vienna.
+
+93
+00:06:51.060 --> 00:06:54.450
+Kurnica's store,
+was in the center of Vienna.
+
+94
+00:06:54.450 --> 00:06:56.810
+You can see it here at the red arrow.
+
+95
+00:06:56.810 --> 00:07:01.850
+Just down the street from where Mozart
+premiered many of his piano concertos.
+
+96
+00:07:01.850 --> 00:07:03.790
+You can see that at the blue arrow.
+
+97
+00:07:03.790 --> 00:07:05.410
+So Mozart, Heiden, and
+
+98
+00:07:05.410 --> 00:07:09.430
+Beethoven, would have all played
+the kind of piano you see here.
+
+99
+00:07:10.790 --> 00:07:17.310
+Notice that on these late 18th Century
+pianos, that there were no pedals.
+
+100
+00:07:17.310 --> 00:07:21.980
+Now, today, pedals are used to raise or
+lower the felt dampers.
+
+101
+00:07:23.090 --> 00:07:28.170
+Raising the dampers, of course,
+allows the sound to continue to sound.
+
+102
+00:07:28.170 --> 00:07:31.030
+Lowering the dampers,
+extinguishes the sound.
+
+103
+00:07:32.040 --> 00:07:38.290
+On these late 18th century pianos,
+a knee lever mechanism does the job.
+
+104
+00:07:38.290 --> 00:07:41.080
+And you can see it here,
+at the blue arrow.
+
+105
+00:07:41.080 --> 00:07:46.810
+Eventually, in the 19th century as we'll
+see, pedals were put on or near the floor.
+
+106
+00:07:49.802 --> 00:07:54.940
+All right, that's our quick review
+of the piano up to early Beethoven.
+
+107
+00:07:54.940 --> 00:07:57.310
+Beethoven arrived in Vienna in 1792, and
+
+108
+00:07:57.310 --> 00:08:02.180
+the piano that you see here
+was made in Vienna in 1795.
+
+109
+00:08:02.180 --> 00:08:07.790
+So let's see,
+this very piano in the extraordinary
+
+110
+00:08:07.790 --> 00:08:11.110
+Yale Collection of Musical Instruments and
+let's meet our guest.
+
+111
+00:08:11.110 --> 00:08:14.010
+The distinguished pianist, Robert Blocker.

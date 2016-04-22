@@ -1,0 +1,367 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.820
+[MUSIC]
+
+2
+00:00:09.820 --> 00:00:12.730
+Let's look at some images
+of musical notation.
+
+3
+00:00:12.730 --> 00:00:17.210
+But we should say at the outset that
+Western music is the only musical culture
+
+4
+00:00:17.210 --> 00:00:21.830
+that uses musical notation
+in a controlling way.
+
+5
+00:00:21.830 --> 00:00:25.940
+Yes, there is Chinese musical notation,
+and there is Indian musical notation.
+
+6
+00:00:25.940 --> 00:00:29.990
+But neither controls the creation and
+performance of music
+
+7
+00:00:29.990 --> 00:00:34.300
+to the extent that notation does in
+the Western classical tradition.
+
+8
+00:00:35.600 --> 00:00:38.470
+So how did Western musical notation begin?
+
+9
+00:00:38.470 --> 00:00:42.360
+How did we get from this
+complex score here?
+
+10
+00:00:42.360 --> 00:00:43.490
+How did we get to it?
+
+11
+00:00:44.690 --> 00:00:50.360
+Well, let's look at some slides,
+and see how this unfolded.
+
+12
+00:00:50.360 --> 00:00:56.040
+Western musical notation began when
+musicians in monasteries, around the year
+
+13
+00:00:56.040 --> 00:01:02.070
+900, common era, began to create
+a graphic image of their music.
+
+14
+00:01:02.070 --> 00:01:07.080
+They tried to capture and
+freeze sound onto paper,
+
+15
+00:01:07.080 --> 00:01:10.820
+or in this case onto parchment.
+
+16
+00:01:10.820 --> 00:01:13.190
+And they did so in this fashion.
+
+17
+00:01:14.460 --> 00:01:16.580
+Notice all the undulations here.
+
+18
+00:01:16.580 --> 00:01:19.670
+The musical scribes are trying
+to represent the high and
+
+19
+00:01:19.670 --> 00:01:22.980
+low flow of the music by graphic symbols.
+
+20
+00:01:22.980 --> 00:01:27.660
+They look like worms, squiggling across
+the page, but they're called, these little
+
+21
+00:01:27.660 --> 00:01:34.680
+aggregates are called neumes, neumes that
+represented a collection of pitches.
+
+22
+00:01:34.680 --> 00:01:39.060
+If the voice produced a high pitch,
+they wrote a visually higher symbol.
+
+23
+00:01:40.710 --> 00:01:45.950
+Eventually, these neumes were separated
+into individual discrete pitches
+
+24
+00:01:46.950 --> 00:01:52.420
+called notae, hence our word note,
+a symbol for a pitch.
+
+25
+00:01:52.420 --> 00:01:58.330
+But these notes, originally, were only
+indicators of pitch, not duration.
+
+26
+00:01:59.390 --> 00:02:04.030
+Eventually, as you can see by both
+the left and right hand image here,
+
+27
+00:02:04.030 --> 00:02:07.190
+eventually musicians introduced
+the practice of assigning
+
+28
+00:02:07.190 --> 00:02:12.220
+each note a particular note
+shape to indicate its duration.
+
+29
+00:02:12.220 --> 00:02:17.560
+The note could have tail on it or a flag,
+or could be filled in or it could be open.
+
+30
+00:02:17.560 --> 00:02:20.100
+It could have a dot after it and so on.
+
+31
+00:02:20.100 --> 00:02:24.517
+It took several hundred years
+from roughly 1200 to 1600 for
+
+32
+00:02:24.517 --> 00:02:30.940
+this system of symbols representing
+duration to quite literally take shape.
+
+33
+00:02:32.330 --> 00:02:36.460
+So now we understand something of
+the origins of these notational symbols
+
+34
+00:02:36.460 --> 00:02:37.390
+in the West.
+
+35
+00:02:37.390 --> 00:02:39.270
+And they are just symbols of something.
+
+36
+00:02:39.270 --> 00:02:43.340
+They represent something,
+pitch and duration.
+
+37
+00:02:43.340 --> 00:02:45.190
+Let's look at how we use them today.
+
+38
+00:02:46.210 --> 00:02:50.720
+Originally the beat in music was
+carried by this thing, the open circle,
+
+39
+00:02:50.720 --> 00:02:54.315
+the whole note,
+as you see on the left of the screen.
+
+40
+00:02:54.315 --> 00:02:58.440
+Then as more and more texts was added
+to the music over the centuries
+
+41
+00:02:58.440 --> 00:03:03.680
+the beat fell down to the half
+note as the beat carrier.
+
+42
+00:03:03.680 --> 00:03:07.630
+And today, most music is represented by
+the symbol in the middle of the page,
+
+43
+00:03:07.630 --> 00:03:10.620
+the quarter note as carrying the beat.
+
+44
+00:03:10.620 --> 00:03:12.830
+The quarter note as beat carrying unit.
+
+45
+00:03:14.590 --> 00:03:19.000
+Notice here that we have
+a duple division in the music.
+
+46
+00:03:19.000 --> 00:03:22.100
+Whole note is divided into two halves,
+half note into two quarters,
+
+47
+00:03:22.100 --> 00:03:24.550
+quarter note into two eighths, and so on.
+
+48
+00:03:24.550 --> 00:03:26.750
+There's also a triple division,
+
+49
+00:03:26.750 --> 00:03:32.420
+which is affected by means of a dot
+that adds 50% of the value to the note.
+
+50
+00:03:32.420 --> 00:03:36.320
+This makes a half note equal to two,
+not three quarter notes.
+
+51
+00:03:36.320 --> 00:03:41.440
+The dotted quarter equal to three
+eighth notes, not just two, and so on.
+
+52
+00:03:41.440 --> 00:03:44.210
+And this is how we get
+triple meter in music.
+
+53
+00:03:46.210 --> 00:03:51.070
+We can see how this works in a patriotic
+song, known in the US as My Country
+
+54
+00:03:51.070 --> 00:03:55.680
+'Tis of Thee, elsewhere as God Save
+the King or God Save the Queen.
+
+55
+00:03:56.750 --> 00:03:59.290
+On the top, you see the text.
+
+56
+00:03:59.290 --> 00:04:02.590
+Beneath it,
+horizontal dashes to show duration.
+
+57
+00:04:02.590 --> 00:04:05.440
+Then duration appears in a different way.
+
+58
+00:04:05.440 --> 00:04:06.870
+In musical symbols.
+
+59
+00:04:06.870 --> 00:04:09.660
+Then the beat is shown by
+quarter notes below it.
+
+60
+00:04:09.660 --> 00:04:13.380
+Again, the quarter notes
+represent the beat in most music.
+
+61
+00:04:13.380 --> 00:04:17.500
+Finally, we see the position of
+the quarter note within each measure.
+
+62
+00:04:18.950 --> 00:04:21.395
+But we don't want to make
+things too complex here.
+
+63
+00:04:21.395 --> 00:04:24.440
+This should be a course about emotions and
+feelings.
+
+64
+00:04:24.440 --> 00:04:29.020
+You don't have to read musical
+notation to feel and to have emotions.
+
+65
+00:04:29.020 --> 00:04:32.500
+You don't have to read musical notation
+to get a great deal out of music,
+
+66
+00:04:32.500 --> 00:04:35.200
+to get a great deal out of this course.
+
+67
+00:04:36.700 --> 00:04:39.650
+Generally speaking,
+here's all you have to know.
+
+68
+00:04:39.650 --> 00:04:44.650
+Whenever you see a musical example,
+musical notation signs
+
+69
+00:04:44.650 --> 00:04:50.020
+placed higher vertically
+represent high sounding pitches.
+
+70
+00:04:50.020 --> 00:04:54.280
+Lower signs mean lower sounding pitches.
+
+71
+00:04:54.280 --> 00:04:58.770
+Notation that gets increasingly darker
+with more flags on it represents
+
+72
+00:04:58.770 --> 00:05:04.050
+that that music is moving faster up and
+down, left to right.
+
+73
+00:05:04.050 --> 00:05:05.453
+Darker means faster.
+
+74
+00:05:05.453 --> 00:05:07.734
+I'll play it for you.
+
+75
+00:05:07.734 --> 00:05:17.734
+[MUSIC]
+
+76
+00:05:22.767 --> 00:05:27.986
+You can imagine how the reverse of
+that operates coming back down.
+
+77
+00:05:27.986 --> 00:05:34.774
+Voila, that's all you need to
+know about musical notation.
+
+78
+00:05:34.774 --> 00:05:44.774
+[MUSIC]

@@ -1,0 +1,582 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.212
+[MUSIC]
+
+2
+00:00:10.212 --> 00:00:13.470
+Beat and
+meter are rather easy to understand.
+
+3
+00:00:13.470 --> 00:00:16.710
+Oddly rhythm is a bit more complicated.
+
+4
+00:00:16.710 --> 00:00:22.260
+Rhythm is the organization of time
+into compelling patterns of long and
+
+5
+00:00:22.260 --> 00:00:22.900
+short sounds.
+
+6
+00:00:24.010 --> 00:00:28.760
+Here's a famous melody, one created
+by the French composer, Maurice Ravel
+
+7
+00:00:28.760 --> 00:00:33.720
+from his ballet, Bolero of 1928.
+
+8
+00:00:33.720 --> 00:00:40.460
+There's a tune, a succession of higher and
+lower pitches shown vertically.
+
+9
+00:00:40.460 --> 00:00:44.210
+And there's a rhythm moving left to right.
+
+10
+00:00:44.210 --> 00:00:48.750
+Now let's strip away pitch and
+leave the rhythm alone.
+
+11
+00:00:48.750 --> 00:00:52.320
+And it will look like this
+as we see on our next slide.
+
+12
+00:00:54.710 --> 00:00:59.740
+But what we hear first at the beginning
+of Bolero is not the melody but
+
+13
+00:00:59.740 --> 00:01:00.890
+another rhythm.
+
+14
+00:01:00.890 --> 00:01:01.390
+This one.
+
+15
+00:01:03.650 --> 00:01:05.940
+And it's played by a snare drum.
+
+16
+00:01:05.940 --> 00:01:09.320
+Now a snare drum, as you may know,
+has no particular pitch.
+
+17
+00:01:09.320 --> 00:01:11.586
+It just plays a rhythm, pure rhythm.
+
+18
+00:01:11.586 --> 00:01:12.421
+I'll tap it.
+
+19
+00:01:12.421 --> 00:01:22.421
+[MUSIC]
+
+20
+00:01:25.130 --> 00:01:27.920
+And that's all the snare drum player does.
+
+21
+00:01:27.920 --> 00:01:31.273
+So he better like that pattern,
+he's gonna be doing it for the next 14 and
+
+22
+00:01:31.273 --> 00:01:32.030
+a half minutes.
+
+23
+00:01:33.130 --> 00:01:35.625
+Now beneath the snare drum pattern,
+
+24
+00:01:35.625 --> 00:01:40.462
+low strings play another rhythm that
+provides something of a harmony.
+
+25
+00:01:40.462 --> 00:01:42.379
+Let's take a look at that now.
+
+26
+00:01:42.379 --> 00:01:43.421
+Bum.
+
+27
+00:01:43.421 --> 00:01:53.004
+[MUSIC]
+
+28
+00:01:53.004 --> 00:01:54.296
+And so on.
+
+29
+00:01:54.296 --> 00:02:00.120
+Eventually, the flute enters,
+adding the enchanting melody.
+
+30
+00:02:00.120 --> 00:02:03.050
+So now we have three
+rhythms operating here.
+
+31
+00:02:03.050 --> 00:02:05.410
+One in the flute,
+which also carries the melody.
+
+32
+00:02:05.410 --> 00:02:08.420
+One in the snare drum,
+which is a simple, or pure rhythm.
+
+33
+00:02:08.420 --> 00:02:09.790
+And a third in the bass,
+
+34
+00:02:09.790 --> 00:02:14.200
+which is providing something of
+a harmony below the melody up above.
+
+35
+00:02:14.200 --> 00:02:18.320
+So, we have three rhythms
+that are staying within and
+
+36
+00:02:18.320 --> 00:02:21.380
+emphasizing the structure of the measure.
+
+37
+00:02:21.380 --> 00:02:24.460
+Three different rhythms
+sounding simultaneously,
+
+38
+00:02:24.460 --> 00:02:27.310
+three different patterns of longs and
+shorts.
+
+39
+00:02:27.310 --> 00:02:30.640
+Let's give a listen to
+the South Korean Phil Harmonic Orchestra
+
+40
+00:02:30.640 --> 00:02:32.020
+as it performs this work.
+
+41
+00:02:33.180 --> 00:02:35.951
+I like the recording engineering here,
+
+42
+00:02:35.951 --> 00:02:39.297
+it's very easy to hear
+the three musical parts.
+
+43
+00:02:39.297 --> 00:02:49.297
+[MUSIC]
+
+44
+00:03:35.087 --> 00:03:37.230
+So who's playing the beat here?
+
+45
+00:03:37.230 --> 00:03:39.810
+Well, no one is actually playing the beat.
+
+46
+00:03:39.810 --> 00:03:42.930
+About the only time an instrument
+plays the beat in the music is when
+
+47
+00:03:42.930 --> 00:03:45.930
+the bass drum in a marching
+band plays the beat.
+
+48
+00:03:45.930 --> 00:03:49.570
+Or maybe a drummer in a rock band
+playing the bass drum by means
+
+49
+00:03:49.570 --> 00:03:51.540
+of left foot on a pedal.
+
+50
+00:03:51.540 --> 00:03:54.338
+So how is it then that we hear the beat?
+
+51
+00:03:54.338 --> 00:03:55.379
+Well, we hear.
+
+52
+00:03:55.379 --> 00:04:05.671
+[MUSIC]
+
+53
+00:04:05.671 --> 00:04:11.098
+Well, our ear, actually our brain,
+digest this complex of information and
+
+54
+00:04:11.098 --> 00:04:16.740
+extrapolates it from it a basic structural
+framework underlying the music.
+
+55
+00:04:16.740 --> 00:04:19.470
+So kinda platonic mental reality
+
+56
+00:04:19.470 --> 00:04:22.770
+over arching structure that
+no one actually hears.
+
+57
+00:04:22.770 --> 00:04:25.640
+No one actually sees but it's there.
+
+58
+00:04:26.870 --> 00:04:28.390
+But we do hear the beat.
+
+59
+00:04:28.390 --> 00:04:31.220
+And we hear the beats organized
+into groups of three.
+
+60
+00:04:31.220 --> 00:04:37.325
+One two three, one two three, and so on.
+
+61
+00:04:37.325 --> 00:04:40.270
+Bollero is written in triple meter.
+
+62
+00:04:40.270 --> 00:04:44.370
+We feel the triple meter, and
+that's all that really counts.
+
+63
+00:04:45.790 --> 00:04:50.370
+But if we want confirmation of this,
+we can look at the musical notation,
+
+64
+00:04:50.370 --> 00:04:54.540
+particularly the base, where we
+see clearly three quarter notes or
+
+65
+00:04:54.540 --> 00:04:58.170
+the equivalent of three
+quarter notes in each measure.
+
+66
+00:05:02.220 --> 00:05:03.670
+Why do we hear?
+
+67
+00:05:03.670 --> 00:05:05.260
+It is triple meter.
+
+68
+00:05:05.260 --> 00:05:09.754
+To see how that works,
+let's turn to a class video demonstration.
+
+69
+00:05:09.754 --> 00:05:17.879
+[MUSIC]
+
+70
+00:05:17.879 --> 00:05:19.461
+What's the key here?
+
+71
+00:05:19.461 --> 00:05:20.629
+What do you listen to?
+
+72
+00:05:20.629 --> 00:05:22.504
+How many think it's in duple meter?
+
+73
+00:05:22.504 --> 00:05:23.379
+Raise your hand.
+
+74
+00:05:23.379 --> 00:05:24.400
+How many think it's in triple meter?
+
+75
+00:05:25.900 --> 00:05:29.480
+Okay, almost everybody thinks it's
+a duple meter, and that's correct.
+
+76
+00:05:29.480 --> 00:05:31.990
+Now, we worked through this
+just a little bit once before,
+
+77
+00:05:31.990 --> 00:05:34.950
+what is it that tells us
+that it's in duple meter?
+
+78
+00:05:34.950 --> 00:05:35.962
+It's the?
+
+79
+00:05:35.962 --> 00:05:36.462
+>> Bass.
+
+80
+00:05:36.462 --> 00:05:37.212
+>> Bass.
+
+81
+00:05:37.212 --> 00:05:38.754
+[MUSIC]
+
+82
+00:05:38.754 --> 00:05:43.040
+Because it's organizing itself
+very strongly in duple patterns.
+
+83
+00:05:43.040 --> 00:05:45.910
+There's one other
+interesting thing in here.
+
+84
+00:05:45.910 --> 00:05:49.962
+This would be, well, let's think
+through that in one additional way.
+
+85
+00:05:49.962 --> 00:05:53.461
+And that is, notice that in duple
+meter we have a strong beat.
+
+86
+00:05:53.461 --> 00:05:54.046
+Right?
+
+87
+00:05:54.046 --> 00:05:59.212
+Strong, weak, strong, weak, strong,
+weak, strong, weak, in that sense.
+
+88
+00:05:59.212 --> 00:06:03.921
+Or if we have triple, it would be
+strong weak, weak, strong, weak, weak.
+
+89
+00:06:03.921 --> 00:06:08.921
+There would be two weak beats, or two
+unstressed beats between each strong beat.
+
+90
+00:06:08.921 --> 00:06:10.128
+We could do this.
+
+91
+00:06:10.128 --> 00:06:20.128
+[MUSIC]
+
+92
+00:06:22.962 --> 00:06:25.587
+And we'd have the waltz of the bulldog.
+
+93
+00:06:25.587 --> 00:06:27.046
+It'd be pretty cool to see actually.
+
+94
+00:06:27.046 --> 00:06:28.113
+>> [LAUGH]
+>> So there,
+
+95
+00:06:28.113 --> 00:06:32.450
+I'm simply taking the Cole Porter piece
+and throwing in an extra beat in each
+
+96
+00:06:32.450 --> 00:06:36.879
+measure, an unstressed beat in each
+measure, and it works out pretty well.
+
+97
+00:06:36.879 --> 00:06:41.631
+Notice, this would be, Harvard would've
+had a field day with this melody if
+
+98
+00:06:41.631 --> 00:06:43.837
+Cole Porter had not done one thing.
+
+99
+00:06:43.837 --> 00:06:49.296
+He makes this really rather snappy
+by the use of this kind of stuff.
+
+100
+00:06:49.296 --> 00:06:51.962
+[MUSIC]
+
+101
+00:06:51.962 --> 00:06:56.637
+We're coming in on bum, bum, bum,
+bum, and it's dun, dun, dun, dun,
+
+102
+00:06:56.637 --> 00:06:58.710
+da-dun, dun, dun, da-dun.
+
+103
+00:06:58.710 --> 00:06:59.800
+What's that a good example of?
+
+104
+00:07:01.230 --> 00:07:02.010
+Syncopation.
+
+105
+00:07:02.010 --> 00:07:03.290
+Yeah, terms on the board up there.
+
+106
+00:07:03.290 --> 00:07:05.000
+But it's a good example of syncopation.
+
+107
+00:07:05.000 --> 00:07:08.750
+Sort of jumping in ahead of time, cutting
+off the beginning in there ahead of time.
+
+108
+00:07:08.750 --> 00:07:13.630
+And throwing off the metrical balance for
+a very short period of time.
+
+109
+00:07:13.630 --> 00:07:19.546
+Okay, let's see now if you can hear the
+difference between duple and triple meter.
+
+110
+00:07:19.546 --> 00:07:22.587
+I'll play two examples.
+
+111
+00:07:25.129 --> 00:07:35.129
+[MUSIC]
+
+112
+00:08:00.504 --> 00:08:04.212
+That's number one, here's another one.
+
+113
+00:08:04.212 --> 00:08:06.212
+Which is duple, which is triple?
+
+114
+00:08:06.212 --> 00:08:16.212
+[MUSIC]
+
+115
+00:08:32.921 --> 00:08:33.628
+Right.
+
+116
+00:08:33.628 --> 00:08:39.170
+The first one was triple,
+second one was duple.
+
+117
+00:08:39.170 --> 00:08:40.504
+How'd you do?
+
+118
+00:08:40.504 --> 00:08:41.546
+Well here's one more.
+
+119
+00:08:41.546 --> 00:08:45.212
+Let's try another, one last one of these.
+
+120
+00:08:45.212 --> 00:08:45.962
+You'll like it.
+
+121
+00:08:45.962 --> 00:08:49.171
+First there was music by Hendel.
+
+122
+00:08:49.171 --> 00:08:50.379
+That was this piece.
+
+123
+00:08:50.379 --> 00:08:54.504
+[MUSIC]
+
+124
+00:08:54.504 --> 00:08:58.171
+That's our triple meter piece and
+we had music by Schubert.
+
+125
+00:08:58.171 --> 00:08:59.461
+This is our duple meter piece.
+
+126
+00:08:59.461 --> 00:09:04.421
+[MUSIC]
+
+127
+00:09:04.421 --> 00:09:06.587
+Let's try one other one.
+
+128
+00:09:06.587 --> 00:09:07.837
+What about this one?
+
+129
+00:09:07.837 --> 00:09:17.837
+[MUSIC]
+
+130
+00:09:41.212 --> 00:09:43.129
+And so on.
+
+131
+00:09:43.129 --> 00:09:44.921
+Right again.
+
+132
+00:09:44.921 --> 00:09:46.213
+Triple meter.

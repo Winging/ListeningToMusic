@@ -1,0 +1,670 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:11.531 --> 00:00:14.596
+Okay, so that's how chords work.
+
+3
+00:00:14.596 --> 00:00:20.340
+Let's talk more about these triads,
+those essential building blocks of music.
+
+4
+00:00:20.340 --> 00:00:24.910
+We have three primary triads, as said,
+the tonic, built on the first degree,
+
+5
+00:00:24.910 --> 00:00:28.260
+the scale, the dominant build on
+the fifth pitch of the scale, and
+
+6
+00:00:28.260 --> 00:00:33.010
+the subdominant built on the fourth
+pitch or degree of the scale.
+
+7
+00:00:33.010 --> 00:00:36.975
+These chords account for a surprising
+amount of the harmony that we hear.
+
+8
+00:00:36.975 --> 00:00:39.420
+Let's take a common tune, Jingle Bells.
+
+9
+00:00:39.420 --> 00:00:44.260
+Let me just play Jingle Bells and keep
+the chords steady underneath, the triads.
+
+10
+00:00:44.260 --> 00:00:53.532
+[MUSIC]
+
+11
+00:00:53.532 --> 00:00:57.394
+Tonic.
+[MUSIC]
+
+12
+00:00:57.394 --> 00:00:59.257
+Subdominant.
+
+13
+00:00:59.257 --> 00:01:00.374
+Tonic.
+
+14
+00:01:00.374 --> 00:01:01.858
+[MUSIC]
+
+15
+00:01:01.858 --> 00:01:02.421
+Dominant.
+
+16
+00:01:02.421 --> 00:01:04.562
+Tonic.
+
+17
+00:01:06.850 --> 00:01:09.700
+So those triads keep changing
+underneath the melody.
+
+18
+00:01:09.700 --> 00:01:12.730
+But why do they change
+underneath the melody?
+
+19
+00:01:12.730 --> 00:01:17.810
+Why can't we just harmonize the melody
+using one chord, one triad?
+
+20
+00:01:17.810 --> 00:01:19.670
+Well, if we did, here's what would happen.
+
+21
+00:01:19.670 --> 00:01:28.969
+[MUSIC]
+
+22
+00:01:28.969 --> 00:01:31.560
+And so, doesn't really work, does it?
+
+23
+00:01:33.530 --> 00:01:37.210
+We violated one of our
+rules of musical syntax.
+
+24
+00:01:37.210 --> 00:01:40.080
+Harmony must change to fit the melody.
+
+25
+00:01:40.080 --> 00:01:43.250
+As a melody moves through the pitches
+of the scale, it moves in and
+
+26
+00:01:43.250 --> 00:01:45.780
+out of the pitches at different triads.
+
+27
+00:01:45.780 --> 00:01:49.480
+If a melody pitch is part of a triad,
+we have a consonance.
+
+28
+00:01:49.480 --> 00:01:53.840
+But if it moves out of that triad,
+then we heard a dissonance.
+
+29
+00:01:53.840 --> 00:01:55.690
+We have a dissonance.
+
+30
+00:01:55.690 --> 00:02:01.500
+So the melody much change to be harmonious
+with, sound good with the melody.
+
+31
+00:02:03.030 --> 00:02:06.780
+When triads change,
+bringing a consonance support to a melody,
+
+32
+00:02:06.780 --> 00:02:10.110
+they build up a certain momentum,
+they come in a purposeful way,
+
+33
+00:02:10.110 --> 00:02:16.110
+a purposeful march, that works in sync
+with the direction of the melody.
+
+34
+00:02:16.110 --> 00:02:22.000
+Chords moving in this purposeful fashion
+create what we call a chord progression.
+
+35
+00:02:22.000 --> 00:02:25.850
+They seem to pull along,
+one to the next, moving toward and
+
+36
+00:02:25.850 --> 00:02:30.408
+eventually arriving at the tonic,
+the tonic triad, the home triad.
+
+37
+00:02:30.408 --> 00:02:31.894
+Let me play a chord progression.
+
+38
+00:02:31.894 --> 00:02:39.488
+[MUSIC]
+
+39
+00:02:39.488 --> 00:02:44.800
+So that's a very straightforward
+chord progression.
+
+40
+00:02:44.800 --> 00:02:49.610
+The end of a chord progression
+is called a cadence, a fall,
+
+41
+00:02:49.610 --> 00:02:54.600
+the final move, built possibly on
+the fourth degree of the scale that
+
+42
+00:02:54.600 --> 00:02:59.600
+goes to the fifth degree of the scale
+that ultimately moves to the tonic.
+
+43
+00:02:59.600 --> 00:03:02.260
+As you can see on the screen
+here called four, five,
+
+44
+00:03:02.260 --> 00:03:05.700
+one or subdominant, dominant, tonic.
+
+45
+00:03:05.700 --> 00:03:07.380
+Same sort of thing.
+
+46
+00:03:07.380 --> 00:03:11.030
+Let me play that for you.
+
+47
+00:03:11.030 --> 00:03:15.330
+[MUSIC]
+
+48
+00:03:15.330 --> 00:03:18.310
+So that's a cadence, a fall to the end.
+
+49
+00:03:19.430 --> 00:03:24.380
+Remember that flashy end of the opening
+Richard Strauss's Zarathustra from our
+
+50
+00:03:24.380 --> 00:03:25.590
+first session.
+
+51
+00:03:25.590 --> 00:03:26.730
+It ends this way.
+
+52
+00:03:26.730 --> 00:03:27.700
+Remember this melody?
+
+53
+00:03:27.700 --> 00:03:32.715
+[MUSIC]
+
+54
+00:03:32.715 --> 00:03:34.385
+But the final cadence goes,
+
+55
+00:03:34.385 --> 00:03:42.014
+[MUSIC]
+
+56
+00:03:42.014 --> 00:03:46.271
+That's just another cadence,
+another end of the musical phrase,
+
+57
+00:03:46.271 --> 00:03:49.850
+end of a passage with a chord progression.
+
+58
+00:03:49.850 --> 00:03:55.081
+Often in classical music,
+the composer will signal the termination
+
+59
+00:03:55.081 --> 00:04:00.687
+of a piece by alternating five and
+one triad, dominant and tonic triads.
+
+60
+00:04:00.687 --> 00:04:04.077
+It's a very simple cadence, goes this way.
+
+61
+00:04:04.077 --> 00:04:11.305
+[MUSIC]
+
+62
+00:04:11.305 --> 00:04:12.190
+Something like that.
+
+63
+00:04:13.830 --> 00:04:16.900
+The end, the end, the end.
+
+64
+00:04:16.900 --> 00:04:20.440
+You might just as well hold up a sign.
+
+65
+00:04:20.440 --> 00:04:21.460
+Hold up a sign like this.
+
+66
+00:04:22.960 --> 00:04:23.480
+The end.
+
+67
+00:04:24.610 --> 00:04:28.140
+So you can have a visual
+sign that conveys meaning.
+
+68
+00:04:28.140 --> 00:04:31.270
+These letters allow us to generate
+a sound that conveys meaning.
+
+69
+00:04:31.270 --> 00:04:34.200
+A word is part of a language.
+
+70
+00:04:34.200 --> 00:04:39.360
+Or you can have a musical sign
+that also conveys meaning.
+
+71
+00:04:39.360 --> 00:04:42.930
+Music, too, is a language of music.
+
+72
+00:04:42.930 --> 00:04:43.880
+The end.
+
+73
+00:04:47.540 --> 00:04:52.450
+This kind of fifth degree to
+tonic degree or one degree, five,
+
+74
+00:04:52.450 --> 00:04:57.100
+one cadence moving tonic to
+dominant again or subdominant,
+
+75
+00:04:57.100 --> 00:05:01.830
+dominant, tonic is called
+an authentic cadence and
+
+76
+00:05:01.830 --> 00:05:08.790
+is most common in Western classical music
+and equally common in Western pop music.
+
+77
+00:05:11.140 --> 00:05:14.710
+Here's another kind of cadence,
+it's called a deceptive cadence.
+
+78
+00:05:14.710 --> 00:05:16.755
+Here the composer fools you,
+
+79
+00:05:16.755 --> 00:05:21.625
+makes you think that you're going
+to go home to the basic tonic.
+
+80
+00:05:21.625 --> 00:05:25.545
+But he sort of kidnaps you and takes you
+away somewhere else by substituting at
+
+81
+00:05:25.545 --> 00:05:30.625
+the last moment another point of arrival
+for the tonic that you expected.
+
+82
+00:05:30.625 --> 00:05:33.710
+Let me play a deceptive cadence here for
+you.
+
+83
+00:05:33.710 --> 00:05:35.104
+Let's see.
+
+84
+00:05:35.104 --> 00:05:45.605
+[MUSIC]
+
+85
+00:05:45.605 --> 00:05:47.466
+Oh, that wasn't expected.
+
+86
+00:05:47.466 --> 00:05:48.719
+Or it could go,
+
+87
+00:05:48.719 --> 00:05:58.719
+[MUSIC]
+
+88
+00:05:59.809 --> 00:06:02.530
+Oh, that was even more unexpected.
+
+89
+00:06:04.250 --> 00:06:07.910
+So although you've been
+aurally kidnapped here,
+
+90
+00:06:07.910 --> 00:06:13.520
+spirited away somewhat unexpectedly to
+a new musical chord, there's good news.
+
+91
+00:06:13.520 --> 00:06:15.270
+You will be rescued.
+
+92
+00:06:15.270 --> 00:06:18.530
+A piece that moves to a deceptive
+cadence invariably will
+
+93
+00:06:18.530 --> 00:06:20.600
+work its way back to the tonic.
+
+94
+00:06:20.600 --> 00:06:21.670
+After the deception,
+
+95
+00:06:21.670 --> 00:06:26.580
+the piece has to keep on going until it
+reaches some kind of authentic cadence.
+
+96
+00:06:26.580 --> 00:06:29.500
+Almost all music has this
+kind of happy ending.
+
+97
+00:06:30.610 --> 00:06:32.590
+Having been deceived by the musical world,
+
+98
+00:06:32.590 --> 00:06:36.580
+the musical traveler must
+now arrive back at home.
+
+99
+00:06:36.580 --> 00:06:38.865
+So after a deceptive cadence,
+
+100
+00:06:38.865 --> 00:06:47.958
+[MUSIC]
+
+101
+00:06:47.958 --> 00:06:48.933
+Maybe continuing.
+
+102
+00:06:48.933 --> 00:06:53.512
+[MUSIC]
+
+103
+00:06:53.512 --> 00:06:56.940
+Ending up with some sort
+of authentic cadence.
+
+104
+00:06:58.770 --> 00:07:03.980
+There's a third kind of cadence to which
+we apply the nickname amen because it's
+
+105
+00:07:03.980 --> 00:07:10.930
+used in much religious music, particularly
+music of the hymns of the church,
+
+106
+00:07:10.930 --> 00:07:15.180
+the ending of hymns, and
+hymns in universities as well.
+
+107
+00:07:15.180 --> 00:07:17.890
+They're sung at commencement or whatever.
+
+108
+00:07:17.890 --> 00:07:22.450
+An amen cadence is one that
+you'll likely recognize.
+
+109
+00:07:22.450 --> 00:07:26.452
+It moves from a chord build on the fourth
+degree of the scale to one built on
+
+110
+00:07:26.452 --> 00:07:28.174
+the first degree of the scale.
+
+111
+00:07:28.174 --> 00:07:38.671
+[MUSIC]
+
+112
+00:07:38.671 --> 00:07:42.440
+And you can here people
+singing the Hebrew word amen.
+
+113
+00:07:43.880 --> 00:07:47.970
+Finally, the last of our four
+cadence types, the half cadence.
+
+114
+00:07:49.240 --> 00:07:54.858
+Here the music just seems to stop,
+specifically on a dominant chord.
+
+115
+00:07:54.858 --> 00:07:57.787
+The music seems suspended,
+but at the same,
+
+116
+00:07:57.787 --> 00:08:00.640
+it implies that we have to move on more.
+
+117
+00:08:00.640 --> 00:08:03.390
+Maybe we should call it
+then a pause cadence
+
+118
+00:08:03.390 --> 00:08:05.570
+because that's really what it wants to do.
+
+119
+00:08:05.570 --> 00:08:08.820
+It pauses momentarily freezing the action.
+
+120
+00:08:08.820 --> 00:08:11.290
+Hold it right there, and then it moves on.
+
+121
+00:08:11.290 --> 00:08:12.510
+Let me play a half cadence.
+
+122
+00:08:12.510 --> 00:08:15.695
+Let me see if I can find that
+Beethoven that we heard earlier.
+
+123
+00:08:15.695 --> 00:08:19.271
+So here's the Beethoven,
+he's coming along.
+
+124
+00:08:19.271 --> 00:08:30.265
+[MUSIC]
+
+125
+00:08:30.265 --> 00:08:31.385
+And you want to hear,
+
+126
+00:08:31.385 --> 00:08:35.172
+[MUSIC]
+
+127
+00:08:35.172 --> 00:08:36.199
+And indeed, he gives us that.
+
+128
+00:08:36.199 --> 00:08:40.000
+But that moment we pause there, that's
+a half cadence, that's a pause cadence.
+
+129
+00:08:41.600 --> 00:08:46.570
+So let's review, with me playing
+a standard chord progression.
+
+130
+00:08:46.570 --> 00:08:50.740
+Indeed, the Pachelbel Canon Harmony, and
+
+131
+00:08:50.740 --> 00:08:55.220
+I'll work through all four cadential
+types in one way or another.
+
+132
+00:08:55.220 --> 00:08:56.098
+Let me try this.
+
+133
+00:08:56.098 --> 00:08:59.310
+What key?
+
+134
+00:08:59.310 --> 00:09:00.386
+Let's try this key.
+
+135
+00:09:00.386 --> 00:09:10.386
+[MUSIC]
+
+136
+00:09:11.709 --> 00:09:14.695
+Mm.
+Well, that would be our deceptive cadence.
+
+137
+00:09:14.695 --> 00:09:15.630
+We could try it again.
+
+138
+00:09:15.630 --> 00:09:25.630
+[MUSIC]
+
+139
+00:09:29.000 --> 00:09:33.504
+Just stop there, and that would be
+our pause cadence, our half cadence.
+
+140
+00:09:33.504 --> 00:09:35.410
+Or we could continue on.
+
+141
+00:09:35.410 --> 00:09:44.337
+[MUSIC]
+
+142
+00:09:44.337 --> 00:09:48.937
+Come back home, that'd be our
+authentic cadence, or we could go,
+
+143
+00:09:48.937 --> 00:09:58.937
+[MUSIC]
+
+144
+00:10:04.174 --> 00:10:08.570
+So cadences have their own
+emotional vibe to them.
+
+145
+00:10:09.610 --> 00:10:12.844
+But they also help tell you
+where you are in the music.
+
+146
+00:10:12.844 --> 00:10:14.841
+If you hear this,
+
+147
+00:10:14.841 --> 00:10:19.898
+[MUSIC]
+
+148
+00:10:19.898 --> 00:10:20.918
+Or this.
+
+149
+00:10:20.918 --> 00:10:30.738
+[MUSIC]
+
+150
+00:10:30.738 --> 00:10:33.126
+You know darn well that you're at the end.

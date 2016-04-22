@@ -1,0 +1,710 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.046
+[MUSIC]
+
+2
+00:00:06.046 --> 00:00:10.158
+I'd like to turn now to a very brief
+overview of the development of the western
+
+3
+00:00:10.158 --> 00:00:12.280
+symphony orchestra.
+
+4
+00:00:12.280 --> 00:00:16.540
+Here's a seating plan for modern
+symphony orchestra and its instruments.
+
+5
+00:00:16.540 --> 00:00:19.390
+It's just one of several
+commonly used arrangements.
+
+6
+00:00:21.040 --> 00:00:22.220
+As we look at it,
+
+7
+00:00:22.220 --> 00:00:26.490
+let's think about how our modern
+symphony orchestra began to take shape.
+
+8
+00:00:26.490 --> 00:00:30.730
+The nucleus was provided by
+the strings during the 17th century,
+
+9
+00:00:30.730 --> 00:00:33.610
+when the violin came into prominence.
+
+10
+00:00:33.610 --> 00:00:37.870
+It and other members of the violin family,
+a cousin,
+
+11
+00:00:37.870 --> 00:00:42.300
+came to form the core of the ensemble,
+the string core.
+
+12
+00:00:42.300 --> 00:00:46.460
+Violins, violas, cellos,
+double basses, and occasionally harps.
+
+13
+00:00:47.480 --> 00:00:50.440
+Soon, some woodwind
+instruments were added.
+
+14
+00:00:50.440 --> 00:00:52.470
+Usually oboes and bassoons.
+
+15
+00:00:52.470 --> 00:00:57.320
+Often doubling, playing the same
+pitches as doubling the string parts.
+
+16
+00:00:57.320 --> 00:00:59.200
+By the end of the 17th century,
+
+17
+00:00:59.200 --> 00:01:04.080
+French horns could be added to give
+greater body or substance to the sound.
+
+18
+00:01:04.080 --> 00:01:08.880
+Around 1700, should a composer want to
+create a particularly splendid sound,
+
+19
+00:01:08.880 --> 00:01:11.270
+he might add trumpets and tympani.
+
+20
+00:01:12.470 --> 00:01:16.850
+Flutes and clarinets didn't join
+the orchestra until the 18th century, and
+
+21
+00:01:16.850 --> 00:01:18.990
+the trombone and tuba not until the 19th.
+
+22
+00:01:20.130 --> 00:01:25.400
+Other percussive instruments,
+not until the 20th century.
+
+23
+00:01:25.400 --> 00:01:26.950
+Notice that the brass and
+
+24
+00:01:26.950 --> 00:01:30.850
+the percussion here, are all the way
+at the back of the orchestra.
+
+25
+00:01:30.850 --> 00:01:32.550
+That's where they almost always go.
+
+26
+00:01:32.550 --> 00:01:34.580
+Because they can be very loud.
+
+27
+00:01:36.530 --> 00:01:39.970
+That's a quick thumbnail sketch of
+how the orchestra developed for
+
+28
+00:01:39.970 --> 00:01:42.370
+classical music in the west.
+
+29
+00:01:42.370 --> 00:01:45.447
+It grew from a group of about
+15 in the 17th century,
+
+30
+00:01:45.447 --> 00:01:49.100
+to more than a hundred by
+the end of the 19th century.
+
+31
+00:01:49.100 --> 00:01:55.700
+Today the New York Philharmonic, a typical
+well established orchestra has by contract
+
+32
+00:01:55.700 --> 00:02:02.022
+with the musicians union, exactly 106
+members, not including the conductor.
+
+33
+00:02:03.500 --> 00:02:05.420
+But what does a conductor do?
+
+34
+00:02:05.420 --> 00:02:09.440
+Obviously, he or
+she is something of a musical traffic cop.
+
+35
+00:02:09.440 --> 00:02:14.170
+Leading the orchestra, setting the tempo,
+assuring the proper dynamic level,
+
+36
+00:02:14.170 --> 00:02:18.340
+waving in a soloist now and then,
+balancing the various sections,
+
+37
+00:02:18.340 --> 00:02:21.250
+making sure that all
+the pitches are in tune.
+
+38
+00:02:22.500 --> 00:02:23.300
+All of this so
+
+39
+00:02:23.300 --> 00:02:28.560
+that the essential message of the music
+is heard in a convincing fashion.
+
+40
+00:02:31.150 --> 00:02:35.060
+Here's a picture of my friend
+Toshi Shimada, whose conducted many first
+
+41
+00:02:35.060 --> 00:02:40.360
+line orchestras in the United States,
+Europe, and the Far East.
+
+42
+00:02:40.360 --> 00:02:45.690
+The orchestra is a medium,
+it's a medium between the creator and
+
+43
+00:02:45.690 --> 00:02:50.950
+the perceiver of a work of art,
+between the composer and the listener.
+
+44
+00:02:50.950 --> 00:02:54.280
+It's the job of
+the conductor to facilitate
+
+45
+00:02:54.280 --> 00:02:58.940
+the communication between these two,
+between creator and receiver.
+
+46
+00:03:00.110 --> 00:03:03.450
+Notice the arrow pointing
+to the conductor's score.
+
+47
+00:03:03.450 --> 00:03:05.610
+It's kind of a musical road map.
+
+48
+00:03:05.610 --> 00:03:08.880
+The conductor will glance at this
+from time to time to remember
+
+49
+00:03:08.880 --> 00:03:13.250
+when to throw a cue to a player, or
+perhaps to beat an especially clear
+
+50
+00:03:13.250 --> 00:03:17.290
+beat pattern to set an unambiguous tempo.
+
+51
+00:03:18.630 --> 00:03:21.920
+Let's zero in on what
+a conductor's score looks like.
+
+52
+00:03:21.920 --> 00:03:23.860
+We could also call it the full score.
+
+53
+00:03:23.860 --> 00:03:26.010
+Conductor's score, full score, same thing.
+
+54
+00:03:26.010 --> 00:03:26.890
+Let's see what it looks like.
+
+55
+00:03:27.990 --> 00:03:30.260
+Here, the woodwinds are on top.
+
+56
+00:03:30.260 --> 00:03:32.310
+The first four lines at the top there,
+
+57
+00:03:32.310 --> 00:03:36.250
+the woodwind parts,
+running down from flute to a bassoon.
+
+58
+00:03:38.770 --> 00:03:43.690
+Then we have in the middle the brasses,
+followed by the percussion.
+
+59
+00:03:43.690 --> 00:03:46.790
+And the bottom four parts
+are the string parts.
+
+60
+00:03:46.790 --> 00:03:53.070
+First and second violins and violas and
+in this case cellos and basses together.
+
+61
+00:03:54.870 --> 00:03:59.080
+The players in the orchestra,
+they have only their individual parts.
+
+62
+00:03:59.080 --> 00:04:04.296
+Just one line on their stands, but the
+conductor has a composite of all of them.
+
+63
+00:04:04.296 --> 00:04:08.462
+Now I choose here an image from
+Beethoven's Symphony Number 3.
+
+64
+00:04:08.462 --> 00:04:11.920
+Because that's what we're
+about to hear next.
+
+65
+00:04:11.920 --> 00:04:16.360
+But notice in passing how many
+different lines are playing at once.
+
+66
+00:04:17.360 --> 00:04:19.720
+Does the conductor hear all of this?
+
+67
+00:04:19.720 --> 00:04:21.950
+Well a good one will.
+
+68
+00:04:21.950 --> 00:04:26.740
+But even so, he or she is still
+responsible for, still gotta concentrate
+
+69
+00:04:26.740 --> 00:04:31.320
+on the essential part of the musical
+message, and that's usually the melody.
+
+70
+00:04:33.070 --> 00:04:37.620
+Having discussed the tone color of
+the various orchestral instruments and
+
+71
+00:04:37.620 --> 00:04:40.250
+briefly how the orchestra
+came to be formed,
+
+72
+00:04:40.250 --> 00:04:44.350
+let's see how they can work together
+to create a glorious effect.
+
+73
+00:04:45.610 --> 00:04:49.970
+We turn now to a performance part of
+the end of Beethoven's Symphony Number 3,
+
+74
+00:04:49.970 --> 00:04:51.490
+the Eroica symphony.
+
+75
+00:04:51.490 --> 00:04:55.420
+We'll talk more about the history of
+this work when we get to Beethoven.
+
+76
+00:04:55.420 --> 00:04:58.670
+But for the moment,
+let's just concentrate on the music.
+
+77
+00:04:58.670 --> 00:05:02.670
+Toward the end of this four movement,
+and by that,
+
+78
+00:05:02.670 --> 00:05:05.610
+we simply mean four section symphony.
+
+79
+00:05:05.610 --> 00:05:07.640
+Movement is simply an independent section.
+
+80
+00:05:08.650 --> 00:05:12.280
+The end of this four movement symphony.
+
+81
+00:05:12.280 --> 00:05:16.130
+Toward the end of it,
+we hear these sorts of sounds.
+
+82
+00:05:16.130 --> 00:05:21.296
+We'll be following along here
+with the conductor's score.
+
+83
+00:05:21.296 --> 00:05:31.962
+[MUSIC]
+
+84
+00:05:31.962 --> 00:05:35.120
+This is a good example of a half-cadence.
+
+85
+00:05:35.120 --> 00:05:38.190
+We could call it a pause cadence
+because that's what it does,
+
+86
+00:05:38.190 --> 00:05:41.730
+creates a sense of delay, an expectation.
+
+87
+00:05:41.730 --> 00:05:46.270
+The music stops here, but we really
+want it to go on, we want to hear more.
+
+88
+00:05:46.270 --> 00:05:50.810
+And what we hear then is a beautiful soft,
+melodious passage played
+
+89
+00:05:50.810 --> 00:05:54.580
+by the woodwinds and
+you'll never believe what you're hearing.
+
+90
+00:05:54.580 --> 00:05:56.990
+These are students playing,
+undergraduates.
+
+91
+00:05:56.990 --> 00:06:03.172
+This is the Undergraduate Yale
+Symphony Orchestra, let's listen.
+
+92
+00:06:03.172 --> 00:06:13.172
+[MUSIC]
+
+93
+00:06:26.837 --> 00:06:29.587
+Then, across the page.
+
+94
+00:06:29.587 --> 00:06:34.005
+[MUSIC]
+
+95
+00:06:36.087 --> 00:06:40.832
+Then I ask the players to take this apart,
+this same passage, to show the tone
+
+96
+00:06:40.832 --> 00:06:45.879
+colors of the various instruments, and
+how the instruments blend their sounds.
+
+97
+00:06:45.879 --> 00:06:50.295
+We'll start with the oboe
+as it plays the melody.
+
+98
+00:06:50.295 --> 00:07:00.295
+[MUSIC]
+
+99
+00:07:18.879 --> 00:07:23.379
+Next, the bassoon,
+as it plays the bass line.
+
+100
+00:07:23.379 --> 00:07:33.379
+[MUSIC]
+
+101
+00:07:52.296 --> 00:07:58.796
+Then oboe and bassoon as they
+play base and melody together.
+
+102
+00:07:58.796 --> 00:08:02.172
+[MUSIC]
+
+103
+00:08:02.172 --> 00:08:06.460
+Notice here, that they're often
+going in opposite directions.
+
+104
+00:08:06.460 --> 00:08:08.380
+This is called counterpoint.
+
+105
+00:08:08.380 --> 00:08:12.010
+Points moving against each other or
+pitches moving against each other.
+
+106
+00:08:13.050 --> 00:08:17.860
+This is the kind of thing they teach you
+to do in basic music composition courses.
+
+107
+00:08:17.860 --> 00:08:18.837
+Make good counter points.
+
+108
+00:08:18.837 --> 00:08:27.172
+[MUSIC]
+
+109
+00:08:27.172 --> 00:08:30.248
+There are also two clarinets
+playing in this passage.
+
+110
+00:08:30.248 --> 00:08:35.754
+They help fill out the harmony
+in the middle of the texture.
+
+111
+00:08:35.754 --> 00:08:38.020
+[MUSIC]
+
+112
+00:08:38.020 --> 00:08:40.620
+Notice that they generally move together.
+
+113
+00:08:40.620 --> 00:08:45.504
+They're not creating the essential
+counterpoint of the melody and bass.
+
+114
+00:08:45.504 --> 00:08:52.352
+Internal filler would be
+closer to the mark here.
+
+115
+00:08:52.352 --> 00:09:02.352
+[MUSIC]
+
+116
+00:09:06.340 --> 00:09:07.450
+All right.
+
+117
+00:09:07.450 --> 00:09:10.963
+Now let's put this all
+back together again.
+
+118
+00:09:10.963 --> 00:09:15.981
+Another bassoon is added, and
+
+119
+00:09:15.981 --> 00:09:21.578
+toward the end a French horn sneaks
+
+120
+00:09:21.578 --> 00:09:28.140
+in to give even more weight to the sound,
+
+121
+00:09:28.140 --> 00:09:33.544
+let's see if we can pick it up with
+
+122
+00:09:33.544 --> 00:09:38.378
+the woodwinds all together.
+
+123
+00:09:38.378 --> 00:09:42.420
+[MUSIC]
+
+124
+00:09:42.420 --> 00:09:49.129
+Here comes the french horn.
+
+125
+00:09:49.129 --> 00:09:51.296
+[MUSIC]
+
+126
+00:09:54.629 --> 00:09:59.797
+Now, at this point Beethoven extends
+the music to the string section
+
+127
+00:09:59.797 --> 00:10:05.530
+with solos being inserted for
+clarinet and then one for the oboe.
+
+128
+00:10:05.530 --> 00:10:09.335
+So, let's back up here, and
+hear this entire section again.
+
+129
+00:10:09.335 --> 00:10:13.665
+Strings lead up to a pause, the half
+cadence that we heard then the beautiful
+
+130
+00:10:13.665 --> 00:10:18.615
+soft passage for wood winds then the
+strings take the lead take the music back
+
+131
+00:10:18.615 --> 00:10:24.795
+again, and out of it grows the solo
+first for clarinet and then for oboe.
+
+132
+00:10:24.795 --> 00:10:29.129
+And again let's follow the full score
+here just as the conductor would see it.
+
+133
+00:10:29.129 --> 00:10:34.867
+Almost no one can read
+all this music at once,
+
+134
+00:10:34.867 --> 00:10:39.548
+but I thought you might enjoy a peek at
+
+135
+00:10:39.548 --> 00:10:44.087
+what the conductor actually sees.
+
+136
+00:10:44.087 --> 00:10:47.337
+[MUSIC]
+
+137
+00:10:47.337 --> 00:10:48.546
+Cadence.
+
+138
+00:10:48.546 --> 00:10:58.546
+[MUSIC]
+
+139
+00:11:27.254 --> 00:11:28.423
+Clarinet solo.
+
+140
+00:11:28.423 --> 00:11:36.296
+[MUSIC]
+
+141
+00:11:36.296 --> 00:11:37.254
+Oboe Solo
+
+142
+00:11:37.254 --> 00:11:47.254
+[MUSIC]
+
+143
+00:11:58.796 --> 00:12:03.466
+A beautiful passage by Beethoven, in which
+we get to hear many of the tone colors of
+
+144
+00:12:03.466 --> 00:12:05.510
+the instruments of the orchestra.
+
+145
+00:12:05.510 --> 00:12:09.630
+All beautifully played by young people,
+18, 19, 20, 21 years old.
+
+146
+00:12:09.630 --> 00:12:11.130
+Just students.
+
+147
+00:12:11.130 --> 00:12:12.240
+A soccer or
+
+148
+00:12:12.240 --> 00:12:17.210
+a football team, in an American football
+team each has eleven players on it.
+
+149
+00:12:17.210 --> 00:12:20.790
+A baseball team, nine, and
+a basketball team only five.
+
+150
+00:12:20.790 --> 00:12:25.130
+But a symphony orchestra has upward
+of a hundred players participating,
+
+151
+00:12:25.130 --> 00:12:26.280
+all at once.
+
+152
+00:12:26.280 --> 00:12:29.576
+Playing as many as 25
+different instruments.
+
+153
+00:12:29.576 --> 00:12:31.434
+It's intricate.
+
+154
+00:12:31.434 --> 00:12:33.030
+It's complex.
+
+155
+00:12:33.030 --> 00:12:37.797
+But as we have just heard it can also
+be very powerful and very beautiful.

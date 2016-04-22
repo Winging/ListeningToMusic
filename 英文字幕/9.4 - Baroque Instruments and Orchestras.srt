@@ -1,0 +1,1379 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.504
+[MUSIC]
+
+2
+00:00:10.504 --> 00:00:15.247
+So far in our discussion of Baroque music
+we've talked about opera and voices,
+
+3
+00:00:15.247 --> 00:00:17.125
+now its time for instruments.
+
+4
+00:00:17.125 --> 00:00:21.830
+Let's start with a melody and base, and
+this brings us to the two instruments
+
+5
+00:00:21.830 --> 00:00:26.870
+that dominated Baroque instrumental sound,
+the violin and the harpsichord.
+
+6
+00:00:26.870 --> 00:00:28.260
+The violin to the melody.
+
+7
+00:00:28.260 --> 00:00:30.460
+Harpsichord, for the bass and harmony.
+
+8
+00:00:30.460 --> 00:00:36.280
+And we'll throw in another bass
+harmony type instrument, the theorbo.
+
+9
+00:00:36.280 --> 00:00:38.110
+Now let's start with the violin.
+
+10
+00:00:39.660 --> 00:00:42.920
+Actually the term violin is diminutive.
+
+11
+00:00:42.920 --> 00:00:50.730
+Little viol, violino, violino; but as the
+violin is the little viol, what's a viol?
+
+12
+00:00:50.730 --> 00:00:53.370
+Well, it's an early six string instrument.
+
+13
+00:00:53.370 --> 00:00:57.429
+Or in some cases, here as you see on the
+screen to the left, even a seven string
+
+14
+00:00:57.429 --> 00:01:02.004
+instrument that prevailed in Western
+Europe during the 15th and 16th centuries.
+
+15
+00:01:02.004 --> 00:01:07.010
+It was also fretted like
+the guitar of today.
+
+16
+00:01:08.340 --> 00:01:12.378
+In the mid 16th century,
+there arose a small cousin of the viol.
+
+17
+00:01:12.378 --> 00:01:15.570
+Violin, or little viol.
+
+18
+00:01:15.570 --> 00:01:18.730
+You can see the difference,
+comparing left and right.
+
+19
+00:01:18.730 --> 00:01:22.380
+Only four strings to the right,
+and no frets.
+
+20
+00:01:22.380 --> 00:01:26.400
+And it has sounding holes in
+the shape of an F rather than a C,
+
+21
+00:01:26.400 --> 00:01:28.580
+which makes a slight
+difference acoustically.
+
+22
+00:01:29.690 --> 00:01:33.890
+The violin was originally a low class
+tavern instrument, played by dancing
+
+23
+00:01:33.890 --> 00:01:39.670
+masters, dancing teachers,
+to entertain with dances in taverns and
+
+24
+00:01:39.670 --> 00:01:44.330
+in public houses, bars and effect.
+
+25
+00:01:44.330 --> 00:01:48.450
+Looking at this map we see that
+the center of violin construction
+
+26
+00:01:48.450 --> 00:01:52.580
+was then in Northern Italy,
+specifically in Cremona.
+
+27
+00:01:52.580 --> 00:01:56.660
+And that's where the center of
+violin making is still today,
+
+28
+00:01:56.660 --> 00:02:00.930
+in Cremona, to the left there,
+to the west of Mantua.
+
+29
+00:02:00.930 --> 00:02:05.180
+And here we see a woman in
+one of these many small shops
+
+30
+00:02:05.180 --> 00:02:07.900
+that you can visit in Cremona.
+
+31
+00:02:07.900 --> 00:02:10.230
+Now, there's one thing
+that's always surprised me.
+
+32
+00:02:10.230 --> 00:02:12.590
+Yes, violins are made of maple and spruce.
+
+33
+00:02:12.590 --> 00:02:16.750
+That much I knew, but
+all violins seem to look
+
+34
+00:02:16.750 --> 00:02:19.820
+remarkably similar in size and
+shape and general design.
+
+35
+00:02:19.820 --> 00:02:23.130
+They're all pretty much alike,
+pretty much identical.
+
+36
+00:02:23.130 --> 00:02:26.560
+Here we see violins from different
+times and different places.
+
+37
+00:02:26.560 --> 00:02:30.490
+One from 17th century Italy,
+18th century Germany,
+
+38
+00:02:30.490 --> 00:02:34.130
+20th century Germany, but
+they're all identical.
+
+39
+00:02:34.130 --> 00:02:35.360
+How did they do that?
+
+40
+00:02:35.360 --> 00:02:37.280
+How do they do that?
+
+41
+00:02:37.280 --> 00:02:38.890
+Well, let's see, this way.
+
+42
+00:02:39.920 --> 00:02:41.130
+They do it with a mold or a a frame.
+
+43
+00:02:41.130 --> 00:02:46.016
+There was a standard mold that
+every Luthier, in other words,
+
+44
+00:02:46.016 --> 00:02:52.390
+instrument maker, had and passed along
+that led to this standard size and shape.
+
+45
+00:02:53.440 --> 00:03:00.560
+All right, so the violin is the primary
+melody carrying instrument of the Boroque.
+
+46
+00:03:00.560 --> 00:03:02.910
+But what about the bass and the harmony?
+
+47
+00:03:02.910 --> 00:03:06.320
+Well at first,
+that was provided by a large,
+
+48
+00:03:06.320 --> 00:03:10.719
+loot like instrument called the theorbo,
+and then by the harpsichord.
+
+49
+00:03:11.760 --> 00:03:15.490
+For demonstration of both of these,
+let's go back to my colleague and
+
+50
+00:03:15.490 --> 00:03:20.200
+professional early music performer
+extraordinaire, Grant Herod.
+
+51
+00:03:21.370 --> 00:03:25.108
+>> So here we are back again with my
+friend and colleague, Grant Herod, and
+
+52
+00:03:25.108 --> 00:03:28.360
+we're going to be talking today
+about baroque instruments and
+
+53
+00:03:28.360 --> 00:03:29.540
+baroque orchestras.
+
+54
+00:03:29.540 --> 00:03:31.704
+But first, the baroque instruments.
+
+55
+00:03:31.704 --> 00:03:36.580
+We left off last time, we're gonna show
+this slide now, we left off last time with
+
+56
+00:03:36.580 --> 00:03:41.905
+a slide coming from the National Gallery
+in London of a lute.
+
+57
+00:03:41.905 --> 00:03:46.805
+And then we're going to turn to the next
+slide which actually comes from
+
+58
+00:03:46.805 --> 00:03:52.815
+an American collection out in Columbus,
+Ohio, an art museum there,
+
+59
+00:03:52.815 --> 00:03:55.885
+showing this instrument called,
+oh what is this thing called?
+
+60
+00:03:55.885 --> 00:03:57.705
+>> This is the theorbo.
+
+61
+00:03:57.705 --> 00:04:05.730
+And it's a kind of a bass lute, from about
+here to the end of the peg box here.
+
+62
+00:04:05.730 --> 00:04:09.462
+It's just a large loot,
+bass loot, and the strings
+
+63
+00:04:09.462 --> 00:04:13.129
+[MUSIC]
+
+64
+00:04:13.129 --> 00:04:16.500
+are tuned like a loot
+except it's too long.
+
+65
+00:04:16.500 --> 00:04:17.615
+So the top two strings
+
+66
+00:04:17.615 --> 00:04:19.962
+[MUSIC]
+
+67
+00:04:19.962 --> 00:04:22.220
+are tuned down an octave
+from the loot tuning.
+
+68
+00:04:22.220 --> 00:04:28.470
+So the highest sounding string is
+the third string from the edge there
+
+69
+00:04:29.980 --> 00:04:35.982
+which gives it a peculiar technique and
+a very bassy or tenor-like range.
+
+70
+00:04:35.982 --> 00:04:40.951
+Then we have an extension neck
+set on it that accommodates
+
+71
+00:04:40.951 --> 00:04:43.337
+these seven bass strings.
+
+72
+00:04:43.337 --> 00:04:49.750
+[MUSIC]
+
+73
+00:04:49.750 --> 00:04:52.260
+Tune to some sort of a scale usually.
+
+74
+00:04:52.260 --> 00:04:53.260
+>> Mm.
+
+75
+00:04:53.260 --> 00:04:58.781
+>> And this was an attempt
+to give the lute a little
+
+76
+00:04:58.781 --> 00:05:03.879
+more volume, a bigger range obviously and
+
+77
+00:05:03.879 --> 00:05:07.713
+more of a base presence so that.
+
+78
+00:05:07.713 --> 00:05:14.504
+[MUSIC]
+
+79
+00:05:14.504 --> 00:05:19.040
+The lute was just more suited to
+play the music of this early baroque
+
+80
+00:05:19.040 --> 00:05:23.710
+period that featured the baseline
+more than renaissance music.
+
+81
+00:05:23.710 --> 00:05:28.400
+>> Yeah, that's a very important
+observation, because we have been talking
+
+82
+00:05:28.400 --> 00:05:32.360
+about and will be talking more about
+this whole idea of the basso continuo.
+
+83
+00:05:32.360 --> 00:05:37.170
+Well, this instrument could really by
+itself provide all of the bass and
+
+84
+00:05:37.170 --> 00:05:38.030
+the harmony.
+
+85
+00:05:38.030 --> 00:05:39.040
+In an odd way,
+
+86
+00:05:39.040 --> 00:05:43.970
+it's like a piano in a jazz band today
+except it's a lot more portable.
+
+87
+00:05:43.970 --> 00:05:47.230
+Or like a harpsichord would
+have been in the early Baroque.
+
+88
+00:05:47.230 --> 00:05:49.570
+Except again, it's a lot more portable.
+
+89
+00:05:49.570 --> 00:05:54.004
+Strum a chord or two more just to
+show them the sound of that bass.
+
+90
+00:05:54.004 --> 00:06:04.004
+[MUSIC]
+
+91
+00:06:09.754 --> 00:06:14.133
+Beautiful, beautiful sound, and
+one of the things it would do,
+
+92
+00:06:14.133 --> 00:06:17.875
+of course,
+is play something called the figured bass,
+
+93
+00:06:17.875 --> 00:06:22.672
+and you will see a slide a little bit
+later on showing you how this works.
+
+94
+00:06:22.672 --> 00:06:26.769
+But maybe you could give us
+a demonstration whereby you the performer,
+
+95
+00:06:26.769 --> 00:06:29.568
+Grant, have just a bassline and
+some numbers and
+
+96
+00:06:29.568 --> 00:06:33.000
+you're supposed to know how to
+flesh out a chord from that.
+
+97
+00:06:33.000 --> 00:06:34.970
+>> Right.
+>> So can you play a bass line?
+
+98
+00:06:34.970 --> 00:06:37.879
+>> Yeah, so
+a simple bass line might sound like this.
+
+99
+00:06:37.879 --> 00:06:48.296
+[MUSIC]
+
+100
+00:06:48.296 --> 00:06:52.753
+I harmonize that bass line according
+to the numbers in the figured bass.
+
+101
+00:06:52.753 --> 00:07:02.753
+[MUSIC]
+
+102
+00:07:08.962 --> 00:07:10.921
+So it's almost like an entire orchestra.
+
+103
+00:07:10.921 --> 00:07:16.210
+Sound big booming and it could very
+well support a baroque singer.
+
+104
+00:07:18.260 --> 00:07:20.910
+Now let me formally introduce two terms.
+
+105
+00:07:20.910 --> 00:07:26.780
+Basso continuo, continuous bass,
+and figured bass.
+
+106
+00:07:26.780 --> 00:07:33.520
+A basso continuo is the Baroque term for
+a strong bass and chordal accompaniment.
+
+107
+00:07:33.520 --> 00:07:37.370
+Created by, usually by a stringed
+instrument, such as the cello, and
+
+108
+00:07:37.370 --> 00:07:43.850
+by a chording instrument,
+such as the theorbo, that we'll see again.
+
+109
+00:07:43.850 --> 00:07:50.556
+We just saw, or perhaps the harpsichord,
+or sometimes even the organ.
+
+110
+00:07:50.556 --> 00:07:54.572
+And this string instrument plus
+the chording instrument play throughout
+
+111
+00:07:54.572 --> 00:07:55.226
+the piece.
+
+112
+00:07:55.226 --> 00:07:56.477
+That's why it's a continuate.
+
+113
+00:07:56.477 --> 00:07:59.804
+Plays continually,
+a strong continual bass.
+
+114
+00:07:59.804 --> 00:08:01.888
+The string plays the bass line and
+
+115
+00:08:01.888 --> 00:08:06.810
+the chording instrument flushes
+out a rock solid harmony above it.
+
+116
+00:08:06.810 --> 00:08:11.300
+Here's an all female quartet from the 18th
+century in which the melody is played
+
+117
+00:08:11.300 --> 00:08:16.740
+by flute and violin and the basso
+continuo by harpsichord and cello.
+
+118
+00:08:16.740 --> 00:08:20.619
+Let's review and go on to figured bass.
+
+119
+00:08:21.900 --> 00:08:26.850
+So, looking at the slide to review Basso
+continuo a small ensemble of at least two
+
+120
+00:08:26.850 --> 00:08:31.230
+instruments which provide a foundation for
+the melody heard above and
+
+121
+00:08:31.230 --> 00:08:33.620
+played continually throughout the piece.
+
+122
+00:08:33.620 --> 00:08:38.104
+Okay now figured bass,
+well figured bass is a numerical
+
+123
+00:08:38.104 --> 00:08:45.120
+shorthand placed below the base line
+
+124
+00:08:45.120 --> 00:08:51.550
+that an experienced musician
+who's studied music theory and
+
+125
+00:08:51.550 --> 00:08:56.430
+knows how to play the keyboard will be
+able to look at these numbers associated
+
+126
+00:08:56.430 --> 00:09:01.550
+with the bass line and
+fill out a chordal accompaniment with it.
+
+127
+00:09:01.550 --> 00:09:06.530
+So, let me see if I can generate this for
+you on the keyboard.
+
+128
+00:09:06.530 --> 00:09:07.780
+Here's the bass line.
+
+129
+00:09:07.780 --> 00:09:15.639
+[MUSIC]
+
+130
+00:09:15.639 --> 00:09:18.680
+And an experienced musician
+would flush it out this way.
+
+131
+00:09:18.680 --> 00:09:27.271
+[MUSIC]
+
+132
+00:09:27.271 --> 00:09:32.920
+Like that and here's an example of
+an early keyboard piece by J.S.
+
+133
+00:09:32.920 --> 00:09:36.000
+Bach with a figured bass.
+
+134
+00:09:36.000 --> 00:09:41.230
+I'll play the bass and
+then I'll realize it for you here again.
+
+135
+00:09:41.230 --> 00:09:45.660
+In our studio let me get
+the music here is what wrote just
+
+136
+00:09:45.660 --> 00:09:50.522
+the bass line you have both
+the above the realization below.
+
+137
+00:09:50.522 --> 00:10:00.088
+[MUSIC]
+
+138
+00:10:00.088 --> 00:10:04.488
+Okay now here's what Bach
+wanted to have performed.
+
+139
+00:10:04.488 --> 00:10:14.488
+[MUSIC]
+
+140
+00:10:21.065 --> 00:10:26.241
+All right let's go on now to talk
+about the workhorse of the baroque,
+
+141
+00:10:26.241 --> 00:10:31.850
+the harpsichord and we'll begin
+with a few introductory slides.
+
+142
+00:10:31.850 --> 00:10:36.310
+Here's a typical harpsichord of the early
+baroque with just one keyboard.
+
+143
+00:10:38.130 --> 00:10:40.270
+Much later, much bigger harps accord.
+
+144
+00:10:40.270 --> 00:10:45.330
+This one is about 1750 I believe,
+with two manuals and three registers.
+
+145
+00:10:45.330 --> 00:10:47.320
+By registers I mean sets of strings.
+
+146
+00:10:48.490 --> 00:10:52.750
+Now here's a modern reproduction
+of the Harps accord at Yale.
+
+147
+00:10:52.750 --> 00:10:57.630
+Two keyboards,
+two long sets of strings called eight
+
+148
+00:10:57.630 --> 00:11:02.960
+foot strings and one set of short strings,
+called four foot strings.
+
+149
+00:11:02.960 --> 00:11:09.410
+So, you can sound one pitch by plucking
+one of the three strings or you
+
+150
+00:11:09.410 --> 00:11:15.970
+can sound two pitches by plucking, you can
+sound two strings and get the same pitch.
+
+151
+00:11:15.970 --> 00:11:22.000
+Sort of double down or double up or
+you can bring three strings into play and
+
+152
+00:11:22.000 --> 00:11:27.010
+sort of get a trifecta here
+a wammie of three strings all
+
+153
+00:11:27.010 --> 00:11:30.800
+playing at once, but
+no matter how many strings are playing,
+
+154
+00:11:30.800 --> 00:11:34.300
+they're all plucked by
+the same thing called a jack.
+
+155
+00:11:34.300 --> 00:11:36.500
+Let's take a look at the jacks now.
+
+156
+00:11:38.140 --> 00:11:43.710
+So, here we see the jacks on
+an actual harpsichord, to the right
+
+157
+00:11:43.710 --> 00:11:49.810
+and a diagram of how the jack works.
+
+158
+00:11:49.810 --> 00:11:53.030
+As you can see, you press the key,
+a fulcrum goes up, and
+
+159
+00:11:53.030 --> 00:11:55.870
+drives the jack up and up.
+
+160
+00:11:55.870 --> 00:11:58.790
+As the jacks go up,
+they pluck the strings.
+
+161
+00:11:58.790 --> 00:12:01.320
+Now, to make some sense out of this,
+
+162
+00:12:01.320 --> 00:12:05.460
+we'll go to another
+explanation from Grant Harrid.
+
+163
+00:12:05.460 --> 00:12:06.420
+Well welcome back.
+
+164
+00:12:06.420 --> 00:12:08.010
+Now we're gonna talk
+about the harpsichord.
+
+165
+00:12:08.010 --> 00:12:11.760
+Harpsichord was the workhorse
+of the baroque era.
+
+166
+00:12:11.760 --> 00:12:16.340
+It was the literally the basis
+of virtually all music that was
+
+167
+00:12:16.340 --> 00:12:20.250
+made from roughly 1650 up to 17 50,
+17, 70, or
+
+168
+00:12:20.250 --> 00:12:24.760
+so, and we're going to turn
+once again to Grant Herod.
+
+169
+00:12:24.760 --> 00:12:27.490
+Just when you thought that Grant had
+
+170
+00:12:27.490 --> 00:12:31.720
+demonstrated everything possible to
+demonstrate by way of musical instruments,
+
+171
+00:12:31.720 --> 00:12:34.610
+yet, here is Grant again
+demonstrating another instrument.
+
+172
+00:12:34.610 --> 00:12:36.340
+This time, the harpsichord.
+
+173
+00:12:36.340 --> 00:12:40.290
+>> Just to explain a few things about
+this 18th century style harpsichord and
+
+174
+00:12:40.290 --> 00:12:42.600
+some of the bells and whistles it has.
+
+175
+00:12:42.600 --> 00:12:47.400
+First of all, of course the sound of
+a harpsichord with its metal strings
+
+176
+00:12:47.400 --> 00:12:52.350
+is created by a bit of
+a feather plucking the string.
+
+177
+00:12:53.470 --> 00:12:58.340
+The feather is attached to a jack and
+
+178
+00:12:58.340 --> 00:13:01.150
+under this jack rail
+are the rows of jacks.
+
+179
+00:13:01.150 --> 00:13:05.070
+Three rows for the three different
+registers of this harpsichord.
+
+180
+00:13:05.070 --> 00:13:09.010
+As I pluck the string or press the key,
+
+181
+00:13:09.010 --> 00:13:14.205
+it sends the jack up and the little
+tangent plucks the string on its way up.
+
+182
+00:13:14.205 --> 00:13:18.599
+[SOUND] The jack rail is
+in place to make sure
+
+183
+00:13:18.599 --> 00:13:23.255
+that they don't jump out of their sockets.
+
+184
+00:13:23.255 --> 00:13:25.124
+>> [INAUDIBLE] on the way back down?
+
+185
+00:13:25.124 --> 00:13:28.718
+>> There's a system of,
+if it's slightly weighted so
+
+186
+00:13:28.718 --> 00:13:32.150
+that on its way back down
+it rocks slightly away and
+
+187
+00:13:32.150 --> 00:13:36.910
+the tension actually doesn't
+come in contact with the string.
+
+188
+00:13:36.910 --> 00:13:39.931
+Very sophisticated but
+
+189
+00:13:39.931 --> 00:13:45.220
+sort of simple mechanism and
+I can [SOUND].
+
+190
+00:13:45.220 --> 00:13:47.276
+Play the upper keyboard as well.
+
+191
+00:13:47.276 --> 00:13:52.092
+You notice the different
+jack is activated.
+
+192
+00:13:52.092 --> 00:13:55.459
+[MUSIC]
+
+193
+00:13:55.459 --> 00:13:59.894
+>> So, there are three jacks then for
+each pitch?
+
+194
+00:13:59.894 --> 00:14:03.363
+Or is that-
+>> Each key, yes and each pitch because I
+
+195
+00:14:03.363 --> 00:14:08.494
+can also add a little, the shorter
+set of strings that are sounding at
+
+196
+00:14:08.494 --> 00:14:13.558
+four foot pitch rather than eight
+foot pitch, so an octave higher.
+
+197
+00:14:13.558 --> 00:14:18.318
+[MUSIC]
+
+198
+00:14:18.318 --> 00:14:21.557
+I can get a contrast
+between the upper keyboard
+
+199
+00:14:21.557 --> 00:14:24.633
+[MUSIC]
+
+200
+00:14:24.633 --> 00:14:28.886
+Which because it's plucking
+the string a little closer to
+
+201
+00:14:28.886 --> 00:14:31.679
+the bridge is slightly more brittle.
+
+202
+00:14:31.679 --> 00:14:42.417
+[MUSIC]
+
+203
+00:14:42.417 --> 00:14:45.471
+And of course,
+the two keyboards can be coupled together.
+
+204
+00:14:45.471 --> 00:14:49.069
+[MUSIC]
+
+205
+00:14:49.069 --> 00:14:53.237
+And adding the back in,
+we have the whole sound.
+
+206
+00:14:53.237 --> 00:14:57.010
+[MUSIC]
+
+207
+00:14:57.010 --> 00:15:00.016
+A sort of orchestral
+sound of the harpsichord.
+
+208
+00:15:00.016 --> 00:15:06.037
+>> So, just to review, we actually have
+three sets of strings on this instrument?.
+
+209
+00:15:06.037 --> 00:15:09.110
+>> Yes,
+two at what we call eight foot pitch and
+
+210
+00:15:09.110 --> 00:15:13.289
+then one set of strings at four
+foot pitch, an octave higher.
+
+211
+00:15:13.289 --> 00:15:16.045
+>> Obviously as Grant just said,
+an octave higher,
+
+212
+00:15:16.045 --> 00:15:19.585
+and we have two keyboards so
+how does that work?
+
+213
+00:15:19.585 --> 00:15:25.085
+One keyboard plays two sets of strings
+has the capacity to play two at one time?
+
+214
+00:15:25.085 --> 00:15:26.708
+>> The lower keyboard can play the
+
+215
+00:15:26.708 --> 00:15:27.428
+[MUSIC]
+
+216
+00:15:27.428 --> 00:15:30.931
+one of the eight foot sets of strings or
+
+217
+00:15:30.931 --> 00:15:35.866
+registers and, again,
+we can engage the forefoot.
+
+218
+00:15:35.866 --> 00:15:37.805
+[MUSIC]
+
+219
+00:15:37.805 --> 00:15:39.546
+So, we have octave sounding there.
+
+220
+00:15:39.546 --> 00:15:43.726
+That's on the lower keyboard and then
+the upper keyboard can play by itself.
+
+221
+00:15:43.726 --> 00:15:45.557
+[MUSIC]
+
+222
+00:15:45.557 --> 00:15:49.519
+With a slightly more brittle sound or
+if they're joined together,
+
+223
+00:15:49.519 --> 00:15:54.259
+just by playing the lower keyboard I can
+engage both of the eight foot registers.
+
+224
+00:15:54.259 --> 00:15:59.266
+[MUSIC]
+
+225
+00:15:59.266 --> 00:16:03.300
+So quite a variety in a single instrument.
+
+226
+00:16:03.300 --> 00:16:07.750
+>> So, one hears that the reason that
+the harpsichord fell by the wayside
+
+227
+00:16:07.750 --> 00:16:12.670
+around 1750 to 1770, is that it had no
+capacity for the gradation of sound.
+
+228
+00:16:12.670 --> 00:16:14.270
+And in some ways, that's true.
+
+229
+00:16:14.270 --> 00:16:18.668
+If you punch hard, [SOUND] okay.
+
+230
+00:16:18.668 --> 00:16:22.237
+And now play very softly,
+push very softly.
+
+231
+00:16:22.237 --> 00:16:27.086
+[SOUND] The same volume sound,
+basically the same volume sound.
+
+232
+00:16:27.086 --> 00:16:28.540
+>> Basically yes.
+>> Because it doesn't,
+
+233
+00:16:30.210 --> 00:16:34.240
+the impact of the plucking,
+the force of it in no way
+
+234
+00:16:34.240 --> 00:16:39.255
+impacts the volume that's generated
+from that particular string.
+
+235
+00:16:39.255 --> 00:16:43.890
+So what you can't do, what's difficult
+to do is to shape a phrase in a way on
+
+236
+00:16:43.890 --> 00:16:49.180
+a harpsichord quite the way you can on
+a piano with little gradations of loud and
+
+237
+00:16:49.180 --> 00:16:52.030
+soft going up and back.
+
+238
+00:16:52.030 --> 00:16:53.400
+Could I take it for a test drive here?
+
+239
+00:16:54.410 --> 00:16:59.098
+So start me out here, you be my
+instructor, let's say I want to play
+
+240
+00:16:59.098 --> 00:17:04.308
+something baroque that's very soft and
+light, this thing [SOUND] of Bach.
+
+241
+00:17:04.308 --> 00:17:08.905
+Now that sounds awfully loud, so how could
+I back that down to maybe just the four?
+
+242
+00:17:08.905 --> 00:17:15.510
+I've played on this keyboard here and
+you disengage some of the eights, or.
+
+243
+00:17:15.510 --> 00:17:17.697
+>> We can take the eight off here and
+
+244
+00:17:17.697 --> 00:17:21.029
+that will leave you with
+just the four foot here.
+
+245
+00:17:21.029 --> 00:17:22.586
+[MUSIC]
+
+246
+00:17:22.586 --> 00:17:25.982
+let me disengage this keyboard as well,
+by pulling that out, and
+
+247
+00:17:25.982 --> 00:17:27.786
+that should just be the four foot.
+
+248
+00:17:27.786 --> 00:17:29.446
+[MUSIC]
+
+249
+00:17:29.446 --> 00:17:30.440
+>> Wow.
+
+250
+00:17:30.440 --> 00:17:35.440
+That is very quiet, all right so
+let's build up our sound now.
+
+251
+00:17:35.440 --> 00:17:37.460
+So that's just the four.
+
+252
+00:17:37.460 --> 00:17:40.855
+>> If we add an eight foot to that,
+we'd get this sound.
+
+253
+00:17:40.855 --> 00:17:42.940
+>> Let's see.
+
+254
+00:17:42.940 --> 00:17:52.940
+[MUSIC]
+
+255
+00:17:53.979 --> 00:17:55.653
+And then by the big band sound.
+
+256
+00:17:55.653 --> 00:17:58.694
+>> Right, engaging the other set of eight.
+
+257
+00:17:58.694 --> 00:18:00.958
+[MUSIC]
+
+258
+00:18:00.958 --> 00:18:01.539
+>> So it is a little bit bigger.
+
+259
+00:18:01.539 --> 00:18:05.253
+[MUSIC]
+
+260
+00:18:05.253 --> 00:18:06.635
+I bet it sounds good with some.
+
+261
+00:18:06.635 --> 00:18:17.118
+[MUSIC]
+
+262
+00:18:17.118 --> 00:18:21.511
+The Pachelbel bass that we're going
+to explore in another segment.
+
+263
+00:18:22.870 --> 00:18:28.060
+So as we saw, the harpsichord
+has some capacity to increase or
+
+264
+00:18:28.060 --> 00:18:33.000
+diminish the sound according to
+how many registers of strings,
+
+265
+00:18:33.000 --> 00:18:37.310
+one, two, or three, are brought into play.
+
+266
+00:18:37.310 --> 00:18:40.310
+But no matter how hard
+you strike any one key,
+
+267
+00:18:40.310 --> 00:18:44.420
+you're always gonna get the same
+volume with the harpsichord.
+
+268
+00:18:44.420 --> 00:18:50.230
+And that limitation of volume and
+inability to shape a phrase by
+
+269
+00:18:50.230 --> 00:18:54.900
+means of volume was the liability of the
+harpsichord and gradually the harpsichord
+
+270
+00:18:54.900 --> 00:19:00.070
+gave way to the pianoforte or as we
+call it today, gave way to the piano.
+
+271
+00:19:00.070 --> 00:19:03.660
+Around 1770 the piano
+replaced the harpsichord
+
+272
+00:19:03.660 --> 00:19:07.220
+because of the sound
+limitations of the harpsichord.
+
+273
+00:19:08.290 --> 00:19:11.130
+So, to sum up this segment.
+
+274
+00:19:11.130 --> 00:19:15.430
+In the Baroque era, the violin became
+the principal carrier of the melody,
+
+275
+00:19:15.430 --> 00:19:19.880
+and the harpsichord the principle
+setter of the harmony.
+
+276
+00:19:19.880 --> 00:19:25.470
+But how did the full orchestra,
+the orchestra of today, come into be?
+
+277
+00:19:25.470 --> 00:19:30.900
+Well, we can demonstrate this quickly
+by looking first at this slide.
+
+278
+00:19:30.900 --> 00:19:35.841
+In the early Baroque period or
+up to around the mid 17th century
+
+279
+00:19:35.841 --> 00:19:40.050
+the core of the orchestra
+was in effect all-strings,
+
+280
+00:19:40.050 --> 00:19:44.259
+soprano, alto, and bass or
+violin, second violin,
+
+281
+00:19:44.259 --> 00:19:49.040
+viola, and cello,
+with the double bass doubling the cello.
+
+282
+00:19:49.040 --> 00:19:50.610
+That's why it's called a double bass.
+
+283
+00:19:50.610 --> 00:19:56.664
+And of course we could have also with this
+group the or a harpsichord or an organ.
+
+284
+00:19:56.664 --> 00:19:59.395
+We would need those instruments as well.
+
+285
+00:19:59.395 --> 00:20:01.750
+Now, let's take a look at a larger group.
+
+286
+00:20:01.750 --> 00:20:04.525
+To this initial core that we just saw,
+
+287
+00:20:04.525 --> 00:20:08.960
+were gradually added woodwinds,
+oboe and bassoons.
+
+288
+00:20:08.960 --> 00:20:11.110
+First doubling the strings.
+
+289
+00:20:11.110 --> 00:20:12.240
+In other words, the oboes and
+
+290
+00:20:12.240 --> 00:20:17.060
+the bassoons just doubled what the violins
+were doing, violins and lower strings.
+
+291
+00:20:17.060 --> 00:20:21.510
+And then they were given, the oboes and
+violins, their own independent parts.
+
+292
+00:20:21.510 --> 00:20:28.260
+And the horns were gradually
+added to sustain the sound.
+
+293
+00:20:28.260 --> 00:20:31.910
+We began to call them French
+horns in the 19th century.
+
+294
+00:20:31.910 --> 00:20:36.640
+So, the late 17th as the horns were
+added to sustain the sound, and
+
+295
+00:20:36.640 --> 00:20:43.600
+then also late 17th century trumpets and
+drums added for brilliance when needed.
+
+296
+00:20:43.600 --> 00:20:50.780
+So, by around 1700, the late Baroque
+orchestra was in play, in place.
+
+297
+00:20:50.780 --> 00:20:56.235
+And it gave us the symphony
+orchestra of today.

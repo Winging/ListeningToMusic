@@ -1,0 +1,451 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.696
+[MUSIC]
+
+2
+00:00:09.696 --> 00:00:13.151
+As we said, music is the rational
+organization of sounds and
+
+3
+00:00:13.151 --> 00:00:15.510
+silences passing through time.
+
+4
+00:00:15.510 --> 00:00:18.370
+That's my definition,
+you can have your own, and
+
+5
+00:00:18.370 --> 00:00:21.510
+it's a general one, maybe a bit wordy.
+
+6
+00:00:21.510 --> 00:00:24.220
+A more down to Earth definition
+would say that music,
+
+7
+00:00:24.220 --> 00:00:29.890
+indeed any sound,
+is simply a disturbance of the atmosphere.
+
+8
+00:00:29.890 --> 00:00:33.990
+But music is a regularly organized
+disturbance of the atmosphere resulting in
+
+9
+00:00:33.990 --> 00:00:37.290
+sound waves coming in regular patterns.
+
+10
+00:00:37.290 --> 00:00:41.810
+Sound waves are simply
+differing air pressures.
+
+11
+00:00:41.810 --> 00:00:45.710
+Air being compressed,
+or air being expanded.
+
+12
+00:00:45.710 --> 00:00:48.720
+And the pattern is regularly repeated.
+
+13
+00:00:48.720 --> 00:00:53.370
+We have large sound waves,
+and smaller sound waves.
+
+14
+00:00:53.370 --> 00:00:56.570
+Large ones generate low pitches.
+
+15
+00:00:56.570 --> 00:00:58.780
+Small ones generate high pitches.
+
+16
+00:00:59.970 --> 00:01:06.425
+A very long string creates an equally
+long sound and a low sound.
+
+17
+00:01:06.425 --> 00:01:10.376
+[SOUND].
+
+18
+00:01:10.376 --> 00:01:16.350
+Now, this string on the piano here,
+is vibrating at about 30 times per second.
+
+19
+00:01:16.350 --> 00:01:19.446
+The highest note on the piano,
+[SOUND] way up here,
+
+20
+00:01:19.446 --> 00:01:24.338
+the highest note on the piano is
+vibrating about 4,000 times per second.
+
+21
+00:01:24.338 --> 00:01:29.660
+We don't hear all those 4,000 vibrations,
+but they can be measured in a laboratory.
+
+22
+00:01:31.540 --> 00:01:34.260
+Let's take a look at a diagram.
+
+23
+00:01:34.260 --> 00:01:39.280
+It shows a pitch on top and
+multiples of it underneath.
+
+24
+00:01:39.280 --> 00:01:44.070
+Did you see four pitches here on this
+particular screen from top to bottom?
+
+25
+00:01:44.070 --> 00:01:49.870
+The top one is shaking, vibrating,
+about 110 times per second.
+
+26
+00:01:50.990 --> 00:01:55.585
+If we double the vibration to 220
+times per second we get this sound.
+
+27
+00:01:55.585 --> 00:02:01.614
+[SOUND] If we double it again to
+440 per second, we get this sound.
+
+28
+00:02:01.614 --> 00:02:06.475
+[SOUND] And indeed this is the pitch
+that the oboe plays at the beginning of
+
+29
+00:02:06.475 --> 00:02:11.997
+orchestral concerts to give the pitch for
+the rest of the instruments to tune to.
+
+30
+00:02:11.997 --> 00:02:15.763
+Then, as you see on the bottom,
+if we double this yet
+
+31
+00:02:15.763 --> 00:02:18.940
+again we get 880 vibrations per second.
+
+32
+00:02:20.980 --> 00:02:25.151
+That low sound wave, down here,
+[SOUND] that actually,
+
+33
+00:02:25.151 --> 00:02:30.121
+physically a little less than 12
+feet long as it goes unseen, but
+
+34
+00:02:30.121 --> 00:02:32.546
+heard through the atmosphere.
+
+35
+00:02:32.546 --> 00:02:36.140
+220, well that's a little
+less than 6 feet.
+
+36
+00:02:36.140 --> 00:02:38.650
+A 440 somewhat less than 3 feet.
+
+37
+00:02:38.650 --> 00:02:42.790
+Obviously to be heard,
+sound must reach the ear.
+
+38
+00:02:44.090 --> 00:02:47.730
+Once there,
+sound waves enter the inner ear.
+
+39
+00:02:47.730 --> 00:02:52.010
+And ultimately are changed into
+electro chemical impulses.
+
+40
+00:02:52.010 --> 00:02:57.680
+The heavy lifting here occurs in a small
+organ called the basilar membrane.
+
+41
+00:02:59.270 --> 00:03:05.125
+Here, filaments, called cilia
+are activated by particular sound waves.
+
+42
+00:03:05.125 --> 00:03:09.870
+In other words,
+the basilar membrane is tonotopic.
+
+43
+00:03:09.870 --> 00:03:14.180
+Each of the many cilia responds to
+only one frequency, high or low.
+
+44
+00:03:15.260 --> 00:03:20.650
+When stimulated by a particular
+sound wave, the cilia send a signal.
+
+45
+00:03:20.650 --> 00:03:25.630
+Hey brain, heads up,
+the frequency A-440 is coming in.
+
+46
+00:03:25.630 --> 00:03:31.280
+The sound goes to the brain,
+through first the primary
+
+47
+00:03:31.280 --> 00:03:35.790
+auditory nerve, and then, to the left and
+right side of the cortex.
+
+48
+00:03:35.790 --> 00:03:41.230
+So here on the screen, you see the left
+side of the brain, the left cortex.
+
+49
+00:03:41.230 --> 00:03:46.020
+In the gray area, we have the temporal
+lobe, and within the temporal lobe,
+
+50
+00:03:46.020 --> 00:03:52.900
+the primary auditory cortex where much
+of the processing of sound occurs.
+
+51
+00:03:52.900 --> 00:03:54.646
+It too is tonotopic.
+
+52
+00:03:54.646 --> 00:03:59.680
+The neurons there respond only
+to particular frequencies.
+
+53
+00:03:59.680 --> 00:04:03.540
+All of this is something of a
+simplification, but it gives you a general
+
+54
+00:04:03.540 --> 00:04:09.190
+sense of what is happening as musical
+sounds enter our ear and our brain.
+
+55
+00:04:10.580 --> 00:04:12.360
+And it's complex,
+
+56
+00:04:12.360 --> 00:04:15.710
+because many parts of the brain
+are engaged when we listen to music.
+
+57
+00:04:15.710 --> 00:04:20.770
+The frontal lobe, as you see out there
+to the left in the green color, and
+
+58
+00:04:20.770 --> 00:04:22.550
+the prefrontal lobe.
+
+59
+00:04:22.550 --> 00:04:25.850
+They might be involved in issues that,
+where am I in this piece?
+
+60
+00:04:25.850 --> 00:04:27.430
+You gotta use thinking.
+
+61
+00:04:27.430 --> 00:04:28.720
+That's what that's for.
+
+62
+00:04:28.720 --> 00:04:30.420
+The parietal lobe.
+
+63
+00:04:30.420 --> 00:04:31.530
+Well, that involves movement.
+
+64
+00:04:31.530 --> 00:04:32.496
+If I'm playing my
+
+65
+00:04:32.496 --> 00:04:33.918
+[MUSIC]
+
+66
+00:04:33.918 --> 00:04:38.896
+I have to coordinate my auditory
+processes with physical processes here
+
+67
+00:04:38.896 --> 00:04:40.948
+involving the motor cortex.
+
+68
+00:04:42.411 --> 00:04:43.350
+Indition?
+
+69
+00:04:43.350 --> 00:04:45.090
+Well, we might have to remember.
+
+70
+00:04:45.090 --> 00:04:48.630
+We might have to think about,
+well have I heard this before?
+
+71
+00:04:48.630 --> 00:04:50.980
+And that might involve the hippocampus.
+
+72
+00:04:50.980 --> 00:04:55.080
+And there is a vast and
+certainly not fully understood
+
+73
+00:04:55.080 --> 00:04:59.120
+interconnected network of
+associative linkage in the brain,
+
+74
+00:04:59.120 --> 00:05:03.570
+with the information being sent
+around at about 250 miles per hour.
+
+75
+00:05:04.580 --> 00:05:08.480
+So a lot is happening when we listen
+to music, and it's happening very fast.
+
+76
+00:05:11.100 --> 00:05:14.250
+And that says nothing about
+how we feel about the music.
+
+77
+00:05:14.250 --> 00:05:16.800
+Which to some measure,
+is the responsibility
+
+78
+00:05:16.800 --> 00:05:21.720
+of another part of the brain,
+the limbic system, including the amygdala.
+
+79
+00:05:21.720 --> 00:05:23.420
+Whew, it is complicated.
+
+80
+00:05:24.420 --> 00:05:27.820
+Maybe the brain is as
+mysterious as music itself.
+
+81
+00:05:29.290 --> 00:05:31.320
+And while we're on
+the subject of music and
+
+82
+00:05:31.320 --> 00:05:36.870
+the brain, let's think about how it is
+that music excites us or relaxes us.
+
+83
+00:05:36.870 --> 00:05:41.320
+Gets us pumped up to lift weights,
+or run, or calms us down at night.
+
+84
+00:05:43.400 --> 00:05:47.110
+In our brain,
+information about sound is transformed,
+
+85
+00:05:47.110 --> 00:05:50.860
+as we have said,
+into electrochemical impulses.
+
+86
+00:05:50.860 --> 00:05:55.570
+Into chemical neurotransmitters
+such as dopamine and glutamates.
+
+87
+00:05:55.570 --> 00:06:00.050
+These move from one cell to the next,
+exciting or inhibiting
+
+88
+00:06:00.050 --> 00:06:04.330
+the neighboring cells causing us in one
+way or another to get excited or to relax.
+
+89
+00:06:05.410 --> 00:06:09.330
+But likely you know all this from
+your biology and chemistry courses.
+
+90
+00:06:11.500 --> 00:06:16.520
+Neuroscientists have discovered that
+music has the same effect as quote, and
+
+91
+00:06:16.520 --> 00:06:21.000
+I'm not kidding, quote,
+other euphoria-inducing stimuli,
+
+92
+00:06:21.000 --> 00:06:25.350
+such as food, sex, and
+drugs of abuse, end quote.
+
+93
+00:06:25.350 --> 00:06:27.040
+So that's interesting.
+
+94
+00:06:27.040 --> 00:06:29.560
+Music is like candy for the mind.
+
+95
+00:06:29.560 --> 00:06:31.675
+So don't take drugs, listen to music.
+
+96
+00:06:31.675 --> 00:06:32.590
+It's a lot better for you.

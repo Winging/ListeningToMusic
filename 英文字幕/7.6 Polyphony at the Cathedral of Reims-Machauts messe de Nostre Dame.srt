@@ -1,0 +1,532 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:12.129 --> 00:00:17.056
+In this segment we will see of the
+creation of of the means to control not
+
+3
+00:00:17.056 --> 00:00:18.058
+only pitch but
+
+4
+00:00:18.058 --> 00:00:22.753
+also rhythm allowed composers to
+create long and complex pieces.
+
+5
+00:00:22.753 --> 00:00:28.121
+And to do this, we'll take a virtual
+trip to France, first to Paris and
+
+6
+00:00:28.121 --> 00:00:34.129
+then a hundred miles out to the east in
+the Champagne region to the city of Reims.
+
+7
+00:00:34.129 --> 00:00:39.171
+Here you see, of course, the facade
+of the famous Notre Dame of Paris.
+
+8
+00:00:40.921 --> 00:00:43.462
+Let's take a look now, inside.
+
+9
+00:00:43.462 --> 00:00:45.170
+Here we see two images.
+
+10
+00:00:45.170 --> 00:00:49.735
+On the left the Choir of Notre Dame
+as it currently exists and
+
+11
+00:00:49.735 --> 00:00:54.482
+on the right as it existed in
+the Middle Ages with the stalls for
+
+12
+00:00:54.482 --> 00:00:59.047
+the clergy on either side in
+this large root screen which was
+
+13
+00:00:59.047 --> 00:01:03.100
+taken down during the revolution,
+There present.
+
+14
+00:01:03.100 --> 00:01:06.462
+The singers would actually come
+out in the middle of the choir.
+
+15
+00:01:06.462 --> 00:01:10.059
+Now here's a manuscript
+of the type of music,
+
+16
+00:01:10.059 --> 00:01:14.128
+actually is the music they were singing.
+
+17
+00:01:14.128 --> 00:01:16.004
+A four part composition.
+
+18
+00:01:16.004 --> 00:01:19.280
+Let me see if I can grab
+the tenor part here.
+
+19
+00:01:19.280 --> 00:01:21.340
+Here is that chant here,
+there's the first note.
+
+20
+00:01:21.340 --> 00:01:22.270
+That's the second note.
+
+21
+00:01:22.270 --> 00:01:24.672
+You can see the tenor holding out there.
+
+22
+00:01:24.672 --> 00:01:27.046
+We'll talk a little bit
+more about that later.
+
+23
+00:01:27.046 --> 00:01:30.796
+Okay, now let's go onto the city of Reims.
+
+24
+00:01:30.796 --> 00:01:34.505
+Here we see it as it looked
+in the 18th century.
+
+25
+00:01:34.505 --> 00:01:40.423
+And going back to this 17th century image,
+we'll see how Reims towered over the town.
+
+26
+00:01:40.423 --> 00:01:42.140
+Here is the cathedral here.
+
+27
+00:01:42.140 --> 00:01:46.854
+We're gonna focus on this street back
+up here because one of the clergy men,
+
+28
+00:01:46.854 --> 00:01:49.297
+name, Gilliam Dimesho, lived here.
+
+29
+00:01:49.297 --> 00:01:54.962
+And we're now going to go to the interior
+of Reims as it currently looks today.
+
+30
+00:01:54.962 --> 00:02:00.379
+The very beautiful and
+very unusual west facade of Reims.
+
+31
+00:02:00.379 --> 00:02:04.890
+And now the interior of Reims as it
+looked during the Middle Ages in
+
+32
+00:02:04.890 --> 00:02:09.005
+a drawing by the architectural
+historian Patrick Denois.
+
+33
+00:02:09.005 --> 00:02:13.820
+And you can see here, the stalls for
+the clergy on either side.
+
+34
+00:02:13.820 --> 00:02:18.942
+Actually this is a representation of
+the coronation of the king of France,
+
+35
+00:02:18.942 --> 00:02:22.210
+which occurred here at
+the Cathedral of Reims.
+
+36
+00:02:22.210 --> 00:02:24.855
+And note here in the center
+the large lectern.
+
+37
+00:02:24.855 --> 00:02:31.940
+That’s where the musicians would go when
+chant and polyphony was to be performed.
+
+38
+00:02:31.940 --> 00:02:36.523
+And here is our composer that
+we will be discussing today,
+
+39
+00:02:36.523 --> 00:02:41.490
+churchman Guillaume de Machaut In
+a 14th century likeness.
+
+40
+00:02:43.200 --> 00:02:48.171
+Actually, the earliest likeness
+that we have of a western composer.
+
+41
+00:02:48.171 --> 00:02:55.510
+And we're gonna focus now on a Mass
+by Machaut, Our Lady Mass of Machaut.
+
+42
+00:02:55.510 --> 00:03:00.720
+But let's see what's first
+involved in a musical Mass.
+
+43
+00:03:00.720 --> 00:03:05.120
+The mass, in terms of its musical parts,
+is divided into two types.
+
+44
+00:03:05.120 --> 00:03:08.440
+The proper of the mass,
+which you see listed on the left, and
+
+45
+00:03:08.440 --> 00:03:11.650
+the ordinary of the mass which
+you see listed on the right.
+
+46
+00:03:11.650 --> 00:03:13.380
+The proper is sung every day.
+
+47
+00:03:13.380 --> 00:03:15.046
+It's proper to that day.
+
+48
+00:03:15.046 --> 00:03:18.718
+On the Feast of St, John the Baptist for
+example, the introit,
+
+49
+00:03:18.718 --> 00:03:23.002
+the opening chant, might begin,
+Oh wonderful John who baptized Christ,
+
+50
+00:03:23.002 --> 00:03:24.990
+or whatever it might happen to be.
+
+51
+00:03:24.990 --> 00:03:30.781
+But, if we focus on the left side, we have
+just those chants that are sung everyday,
+
+52
+00:03:30.781 --> 00:03:35.348
+and we can extract those and
+put them here in a list that runs Kyrie,
+
+53
+00:03:35.348 --> 00:03:38.220
+Gloria, Credo, Sanctus and Agnus Dei.
+
+54
+00:03:38.220 --> 00:03:41.910
+So those are the chants of
+the Ordinary of the Mass.
+
+55
+00:03:41.910 --> 00:03:44.010
+Now let's look at the tenor.
+
+56
+00:03:44.010 --> 00:03:46.670
+How did Machaut go about
+constructing this?
+
+57
+00:03:46.670 --> 00:03:52.920
+Well, he took a tenor voice, and
+he rhythmicized it as you can see here.
+
+58
+00:03:52.920 --> 00:03:53.837
+Originally, this went.
+
+59
+00:03:53.837 --> 00:04:00.004
+[MUSIC]
+
+60
+00:04:00.004 --> 00:04:00.962
+And so on.
+
+61
+00:04:00.962 --> 00:04:03.337
+But he rhythmicized it, as I said, into
+
+62
+00:04:03.337 --> 00:04:11.922
+[MUSIC]
+
+63
+00:04:11.922 --> 00:04:13.796
+And so on.
+
+64
+00:04:13.796 --> 00:04:17.003
+And then he wrote surrounding music for
+it.
+
+65
+00:04:17.003 --> 00:04:21.228
+Let's take a look at this next slide
+where he have the four parts of this,
+
+66
+00:04:21.228 --> 00:04:23.880
+the beginning and
+ending of the first Kyrie.
+
+67
+00:04:23.880 --> 00:04:28.570
+As you can see he has written a bass line,
+an alto line in the superius.
+
+68
+00:04:28.570 --> 00:04:31.292
+Actually originally they
+were called the tenor,
+
+69
+00:04:31.292 --> 00:04:33.310
+which held out the long notes there.
+
+70
+00:04:33.310 --> 00:04:35.270
+Then we had the contra tenor bassos.
+
+71
+00:04:35.270 --> 00:04:37.712
+Then we had the contra tenor altus.
+
+72
+00:04:37.712 --> 00:04:40.172
+And from that we get bass and alto.
+
+73
+00:04:40.172 --> 00:04:42.395
+If you've ever wondered why
+the alto is actually the high,
+
+74
+00:04:42.395 --> 00:04:43.910
+it's actually lower than the soprano.
+
+75
+00:04:43.910 --> 00:04:46.200
+It's because it was originally
+reckoned against the tenor.
+
+76
+00:04:46.200 --> 00:04:50.296
+So we have tenor, bass,
+alto, and then soprano.
+
+77
+00:04:50.296 --> 00:04:53.504
+And they were added roughly in that order.
+
+78
+00:04:53.504 --> 00:04:57.920
+And here we have a full
+score of that Kyrie.
+
+79
+00:04:57.920 --> 00:05:02.260
+You can see as it plays out
+through several measures.
+
+80
+00:05:02.260 --> 00:05:05.820
+And here now, we actually have
+Machaut's original manuscript.
+
+81
+00:05:05.820 --> 00:05:10.285
+We can't be sure that this was in his
+hand, that this is his musical hand, but
+
+82
+00:05:10.285 --> 00:05:13.530
+this is from the 14th century,
+all four parts there.
+
+83
+00:05:13.530 --> 00:05:17.041
+So we're going to listen to this,
+and if all goes well,
+
+84
+00:05:17.041 --> 00:05:21.920
+we'll follow along with the cursor on
+the screen here, the superious part.
+
+85
+00:05:21.920 --> 00:05:24.640
+The top part up here.
+
+86
+00:05:24.640 --> 00:05:27.797
+So let's see if we can get it going and
+we'll follow along.
+
+87
+00:05:27.797 --> 00:05:37.797
+[MUSIC]
+
+88
+00:06:25.087 --> 00:06:26.254
+Good, it worked.
+
+89
+00:06:26.254 --> 00:06:32.046
+So let's go back to that slide that we
+saw of the interior of the cathedral.
+
+90
+00:06:32.046 --> 00:06:37.207
+In his will Machaut stipulated that
+he wanted this mass that he composed,
+
+91
+00:06:37.207 --> 00:06:42.282
+in honor of the virgin to be sung in
+his memory, right here at this alter,
+
+92
+00:06:42.282 --> 00:06:45.546
+in the entrance of the choir
+on the south side.
+
+93
+00:06:45.546 --> 00:06:48.729
+This altar to the Virgin,
+statute of the Virgin, and
+
+94
+00:06:48.729 --> 00:06:53.209
+here it was sung every Saturday in
+perpetuity, or at least for centuries.
+
+95
+00:06:55.080 --> 00:06:56.350
+So, what's the point?
+
+96
+00:06:56.350 --> 00:06:59.010
+What's the take away here
+with the Machaut Mass?
+
+97
+00:06:59.010 --> 00:07:00.171
+Well, several things.
+
+98
+00:07:01.730 --> 00:07:06.150
+First, we're very close to seeing the
+labeling of voice parts that we know them.
+
+99
+00:07:06.150 --> 00:07:10.190
+This idea of soprano,
+alto, tenor and bass.
+
+100
+00:07:10.190 --> 00:07:15.680
+Also, we have a large split in terms
+of the range between soprano and bass.
+
+101
+00:07:15.680 --> 00:07:20.649
+Greater seniority, it means it sounds
+goods and we have a long piece,
+
+102
+00:07:20.649 --> 00:07:22.260
+20 to 25 minutes.
+
+103
+00:07:23.675 --> 00:07:28.295
+Because what he has done is to bind
+them all together by using a common
+
+104
+00:07:28.295 --> 00:07:29.685
+motive or theme.
+
+105
+00:07:29.685 --> 00:07:32.296
+One melody that sounds
+throughout all five movements.
+
+106
+00:07:32.296 --> 00:07:36.046
+[MUSIC]
+
+107
+00:07:36.046 --> 00:07:37.297
+That's the binding.
+
+108
+00:07:37.297 --> 00:07:38.215
+The adhesive there.
+
+109
+00:07:39.245 --> 00:07:43.610
+Most important we have
+the concept of a mass.
+
+110
+00:07:43.610 --> 00:07:47.758
+Other composers, later composers,
+Palestrina, Bach, Mozart, Beethoven,
+
+111
+00:07:47.758 --> 00:07:49.730
+Brookners, Travinski.
+
+112
+00:07:49.730 --> 00:07:55.422
+They composed in Palifini, the five
+sections of the ordinary of the mass.
+
+113
+00:07:55.422 --> 00:07:59.004
+As we've said, Kyrie, Gloria,
+Credo Sanctus, and Agnus Dei.
+
+114
+00:07:59.004 --> 00:08:03.462
+With his mass Machaut
+had set the standard.

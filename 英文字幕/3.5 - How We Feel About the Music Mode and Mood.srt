@@ -1,0 +1,326 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.008
+[MUSIC]
+
+2
+00:00:09.008 --> 00:00:13.200
+Scales in music provide
+an oral context for us.
+
+3
+00:00:13.200 --> 00:00:15.390
+They tell us where we are in the melody.
+
+4
+00:00:15.390 --> 00:00:19.990
+Oddly, most of the time when we listen
+to music, we aren't aware of this scale.
+
+5
+00:00:21.060 --> 00:00:25.670
+Particularly those two little
+half steps that are in the scale.
+
+6
+00:00:25.670 --> 00:00:32.000
+But a scale provides something akin to
+a global positioning system for us.
+
+7
+00:00:32.000 --> 00:00:36.520
+A musical GPS for
+recognizing where we are in a melody.
+
+8
+00:00:37.620 --> 00:00:42.833
+If I play or sing this for you,
+You can sing the next note.
+
+9
+00:00:42.833 --> 00:00:49.474
+[MUSIC]
+
+10
+00:00:49.474 --> 00:00:54.639
+There, [SOUND].
+
+11
+00:00:54.639 --> 00:00:59.550
+You've intuited that we have in this
+little piece that we've created here.
+
+12
+00:00:59.550 --> 00:01:00.510
+A major scale and
+
+13
+00:01:00.510 --> 00:01:04.968
+you have intuited where we are in that
+scale, indeed where we should go next.
+
+14
+00:01:05.980 --> 00:01:08.280
+To the bottom, at note one.
+
+15
+00:01:08.280 --> 00:01:13.670
+Using our scalar GPS,
+we recognize the grid, the scale.
+
+16
+00:01:13.670 --> 00:01:15.740
+And we have oriented ourselves within it.
+
+17
+00:01:16.830 --> 00:01:19.860
+Indeed, when we listen to music,
+our brain orients us automatically.
+
+18
+00:01:20.910 --> 00:01:24.010
+Because we've been brought up
+with music that works this way.
+
+19
+00:01:24.010 --> 00:01:29.040
+We now process music instantaneously,
+indeed
+
+20
+00:01:29.040 --> 00:01:33.470
+subconsciously because that's part of the
+musical nurturing that we have received.
+
+21
+00:01:33.470 --> 00:01:37.390
+It's part of our musical template that
+we talked about in our first session.
+
+22
+00:01:38.800 --> 00:01:42.680
+And a final point About
+the scales that make up melodies.
+
+23
+00:01:43.900 --> 00:01:48.150
+Scales encourage us to feel
+a particular way about the music.
+
+24
+00:01:48.150 --> 00:01:53.640
+Generally speaking in Western music, we
+associate happy, bright sounds with major.
+
+25
+00:01:53.640 --> 00:01:57.990
+And sad, somber ones,
+possibly exotic ones, with minor.
+
+26
+00:01:57.990 --> 00:02:02.100
+And we've been doing this
+since the 16th century.
+
+27
+00:02:02.100 --> 00:02:04.544
+Here's a piece by Robert Schumann.
+
+28
+00:02:04.544 --> 00:02:09.442
+[MUSIC]
+
+29
+00:02:09.442 --> 00:02:11.420
+It's called The Merry Farmer.
+
+30
+00:02:11.420 --> 00:02:14.124
+Here's one, as we heard, by Chopin.
+
+31
+00:02:14.124 --> 00:02:21.472
+[MUSIC]
+
+32
+00:02:21.472 --> 00:02:24.380
+Major happy, minor sad.
+
+33
+00:02:24.380 --> 00:02:28.980
+But there's nothing in the physics
+of music that causes this to be so.
+
+34
+00:02:28.980 --> 00:02:31.230
+Indeed it's culture.
+
+35
+00:02:31.230 --> 00:02:34.040
+I recently spent a week in Poland,
+in Krakow, Poland, and
+
+36
+00:02:34.040 --> 00:02:37.770
+I was surprised to find how
+many of the dance tunes,
+
+37
+00:02:37.770 --> 00:02:41.990
+the happy dance tunes of
+the Polish people we in minor.
+
+38
+00:02:41.990 --> 00:02:43.920
+So it's not nature it's nurture.
+
+39
+00:02:45.600 --> 00:02:49.983
+Let's have a little fun here and
+see if we can change things and
+
+40
+00:02:49.983 --> 00:02:54.878
+if we change things up, how we can
+change how we feel about the music.
+
+41
+00:02:54.878 --> 00:02:59.260
+And we're gonna throw in a new term here,
+we're gonna throw in the term mode.
+
+42
+00:03:00.260 --> 00:03:05.250
+We have a major mode scale and
+a minor mode scale.
+
+43
+00:03:05.250 --> 00:03:10.950
+So let's go back to our image now with the
+scale of the major pattern on the left,
+
+44
+00:03:10.950 --> 00:03:13.970
+labeled major mode, and
+the scale of the minor on the right.
+
+45
+00:03:15.130 --> 00:03:19.580
+Notice the bottom left that
+the major mode has a large interval
+
+46
+00:03:19.580 --> 00:03:20.439
+at the very beginning.
+
+47
+00:03:21.500 --> 00:03:24.800
+And that the minor mode has
+a smaller one at the beginning.
+
+48
+00:03:24.800 --> 00:03:30.060
+That's why the french who first coined
+the terms majeur and mineur in the 17th
+
+49
+00:03:30.060 --> 00:03:36.260
+century called this one on the left
+the larger, major, majeur.
+
+50
+00:03:36.260 --> 00:03:38.410
+Here's a familiar happy tune.
+
+51
+00:03:38.410 --> 00:03:40.110
+But now it's been switched.
+
+52
+00:03:40.110 --> 00:03:42.590
+Well we'll make it switch here.
+
+53
+00:03:42.590 --> 00:03:44.866
+So here we are with
+the familiar holiday tune.
+
+54
+00:03:44.866 --> 00:03:48.069
+[MUSIC]
+
+55
+00:03:48.069 --> 00:03:51.297
+And now you can see at the arrow
+I'm gonna switch it up.
+
+56
+00:03:51.297 --> 00:03:57.868
+[MUSIC]
+
+57
+00:03:57.868 --> 00:04:00.460
+Well not much joy there, how'd we do that?
+
+58
+00:04:00.460 --> 00:04:05.550
+Well, I just lowered the third
+pitch of the scale by a half step,
+
+59
+00:04:05.550 --> 00:04:09.180
+changing it from the major
+mode to the minor mode.
+
+60
+00:04:09.180 --> 00:04:12.352
+We can do the same thing
+with You Are My Sunshine.
+
+61
+00:04:12.352 --> 00:04:20.270
+[MUSIC]
+
+62
+00:04:20.270 --> 00:04:21.490
+It doesn't sound very sunny.
+
+63
+00:04:21.490 --> 00:04:23.093
+Same thing with Happy Birthday.
+
+64
+00:04:23.093 --> 00:04:26.459
+[MUSIC]
+
+65
+00:04:26.459 --> 00:04:28.760
+That doesn't sound very happy.
+
+66
+00:04:28.760 --> 00:04:29.401
+All we're doing there.
+
+67
+00:04:29.401 --> 00:04:30.817
+[MUSIC]
+
+68
+00:04:30.817 --> 00:04:35.100
+Just lowering that first
+third of the scale.
+
+69
+00:04:36.110 --> 00:04:40.310
+So that first interval of a third in
+the scale is very important in determining
+
+70
+00:04:40.310 --> 00:04:43.140
+the mode, major versus minor.
+
+71
+00:04:43.140 --> 00:04:50.406
+If we change the mode from major to minor,
+we change the mood of the music entirely.

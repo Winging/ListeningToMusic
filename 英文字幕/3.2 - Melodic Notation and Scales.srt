@@ -1,0 +1,639 @@
+WEBVTT
+
+1
+00:00:00.457 --> 00:00:09.047
+[MUSIC]
+
+2
+00:00:09.047 --> 00:00:13.709
+A melody, as we have said, is a coherent
+collection of pitches animated by
+
+3
+00:00:13.709 --> 00:00:17.410
+a rhythm and
+usually supported by a harmony.
+
+4
+00:00:17.410 --> 00:00:22.000
+We can simply remember a melody or,
+in the western tradition,
+
+5
+00:00:22.000 --> 00:00:26.500
+we may wanna write it down, capture it,
+preserve it, using musical notation.
+
+6
+00:00:27.750 --> 00:00:32.650
+Written notation of melodies in the west,
+again, goes back to the ninth century.
+
+7
+00:00:32.650 --> 00:00:35.120
+We talked this a little bit last time.
+
+8
+00:00:35.120 --> 00:00:41.730
+Here are a few images showing how pitch
+notation developed for western music.
+
+9
+00:00:41.730 --> 00:00:46.890
+So on the screen to the left side you see
+an early manuscript with neumes up above,
+
+10
+00:00:46.890 --> 00:00:52.910
+just squiggles, and with some letters
+representing both pitch indication and
+
+11
+00:00:52.910 --> 00:00:55.670
+the Latin text of this particular chant.
+
+12
+00:00:55.670 --> 00:00:59.850
+On the right we have
+the text of the chant and
+
+13
+00:00:59.850 --> 00:01:04.160
+then the neumes,
+the prototypes of our musical notes.
+
+14
+00:01:05.600 --> 00:01:08.470
+As you can see on the next slide,
+here we begin to get
+
+15
+00:01:09.620 --> 00:01:14.760
+horizontal lines to help us with pitch
+indicators, a grid of some sort,
+
+16
+00:01:14.760 --> 00:01:19.360
+that allows us to specify particular
+pitches, and you can see off to the left
+
+17
+00:01:19.360 --> 00:01:25.195
+hand side there the letters C and F,
+indicating where the pitch C and F appear.
+
+18
+00:01:25.195 --> 00:01:29.425
+On the right side we begin to see these
+neumes become increasingly separated, and
+
+19
+00:01:29.425 --> 00:01:30.855
+now, as mentioned last time,
+
+20
+00:01:30.855 --> 00:01:36.490
+with a different symbols to indicate
+the rhythms that are involved.
+
+21
+00:01:36.490 --> 00:01:42.600
+In the next slide,
+we see that system of a grid supporting
+
+22
+00:01:42.600 --> 00:01:48.430
+pitches being confirmed
+in four red lines there.
+
+23
+00:01:48.430 --> 00:01:52.640
+And on the right we see it
+progressing to what we have today,
+
+24
+00:01:52.640 --> 00:01:57.670
+five lines on the stand,
+again with pitch indicators out there to
+
+25
+00:01:57.670 --> 00:02:03.470
+the left to signify what those
+particular pitches are supposed to be.
+
+26
+00:02:03.470 --> 00:02:08.780
+Moving on to the next slide,
+here again we see more signs for
+
+27
+00:02:08.780 --> 00:02:15.180
+clefs indicating what those lines on
+which the notes sit are meant to be.
+
+28
+00:02:15.180 --> 00:02:19.469
+On the left,
+we have a very deluxe manuscript from
+
+29
+00:02:19.469 --> 00:02:24.680
+my own Yale University rare book library.
+
+30
+00:02:24.680 --> 00:02:29.680
+And on the right a sort of,
+we'll call it, a more middle level
+
+31
+00:02:30.970 --> 00:02:36.790
+volume for an average music
+consumer of the 16th century.
+
+32
+00:02:36.790 --> 00:02:39.240
+But again, we have a time signature there,
+
+33
+00:02:39.240 --> 00:02:45.070
+we have pitch indicators and
+the notes sitting on a grid.
+
+34
+00:02:45.070 --> 00:02:48.320
+Finally, we're going to come to
+an example of some printed music.
+
+35
+00:02:48.320 --> 00:02:51.460
+A volume here,
+actually by Martin Luther on the left,
+
+36
+00:02:51.460 --> 00:02:57.820
+with his famous hymn tune [FOREIGN]
+there,
+
+37
+00:02:57.820 --> 00:03:03.060
+and you can see Martin Luther's
+name actually on the printed copy.
+
+38
+00:03:03.060 --> 00:03:08.203
+And this is the soprano part,
+and we see that same
+
+39
+00:03:08.203 --> 00:03:15.476
+music on the right now with all four
+parts set one on top of the other and
+
+40
+00:03:15.476 --> 00:03:21.007
+the music ending up towards
+the bottom right there.
+
+41
+00:03:21.007 --> 00:03:28.101
+[MUSIC]
+
+42
+00:03:28.101 --> 00:03:33.823
+So that's the way our notation developed,
+and at the very end as you heard again.
+
+43
+00:03:33.823 --> 00:03:40.848
+[MUSIC]
+
+44
+00:03:40.848 --> 00:03:45.690
+What Martin Luther is doing there
+is simply coming down the scale.
+
+45
+00:03:45.690 --> 00:03:47.900
+Right down the scale.
+
+46
+00:03:47.900 --> 00:03:50.220
+So let's talk about scales for a moment.
+
+47
+00:03:50.220 --> 00:03:54.320
+Scale in music is simply a pattern
+of adjacent pitches going up or
+
+48
+00:03:54.320 --> 00:03:55.560
+down the keyboard.
+
+49
+00:03:55.560 --> 00:03:58.520
+Different cultures have different scales.
+
+50
+00:03:58.520 --> 00:04:03.603
+Much of Chinese music is written in a five
+note scale, so called pentatonic scale.
+
+51
+00:04:03.603 --> 00:04:10.986
+[MUSIC]
+
+52
+00:04:10.986 --> 00:04:13.645
+That sort of sound.
+
+53
+00:04:13.645 --> 00:04:17.244
+Indian Ragas sometimes
+use a six note scale.
+
+54
+00:04:17.244 --> 00:04:24.105
+[MUSIC]
+
+55
+00:04:24.105 --> 00:04:30.220
+That's a six note scale used by
+Ravi Shankar in a piece called [FOREIGN].
+
+56
+00:04:30.220 --> 00:04:34.400
+Melodies in western music, however,
+are written not in patterns of five or
+
+57
+00:04:34.400 --> 00:04:39.430
+six pitches, but
+in scales of seven pitches.
+
+58
+00:04:40.500 --> 00:04:45.110
+Did you ever wonder why we in the west
+have seven pitches in our scale?
+
+59
+00:04:45.110 --> 00:04:49.120
+And why there's an irregularity
+in the western keyboard?
+
+60
+00:04:49.120 --> 00:04:52.810
+Why there is no key at two
+spots on the keyboard.
+
+61
+00:04:54.410 --> 00:04:57.640
+If you look here on the screen you can see
+that we're missing an effective black key
+
+62
+00:04:57.640 --> 00:05:00.250
+between B and C, and E and F.
+
+63
+00:05:01.550 --> 00:05:03.250
+How did this come about?
+
+64
+00:05:03.250 --> 00:05:06.640
+It has to do with the way the ancient
+Greeks back in the time of Plato and
+
+65
+00:05:06.640 --> 00:05:09.310
+Aristotle set up their melodies.
+
+66
+00:05:09.310 --> 00:05:12.460
+They privileged mathematics
+above all else, and
+
+67
+00:05:12.460 --> 00:05:18.110
+as a result,
+we end up with seven pitches in our scale.
+
+68
+00:05:18.110 --> 00:05:21.690
+A class video will explain
+how this happened.
+
+69
+00:05:21.690 --> 00:05:24.318
+Okay, so we have this whole
+idea of octave duplication,
+
+70
+00:05:24.318 --> 00:05:26.500
+sometimes six notes, sometimes five notes.
+
+71
+00:05:26.500 --> 00:05:29.840
+We in the west have settled
+on a seven note scale.
+
+72
+00:05:29.840 --> 00:05:30.820
+Why did that happen?
+
+73
+00:05:30.820 --> 00:05:32.526
+Well, we had this idea
+of a seven note major
+
+74
+00:05:32.526 --> 00:05:33.800
+[MUSIC]
+
+75
+00:05:33.800 --> 00:05:34.718
+and seven note minor.
+
+76
+00:05:34.718 --> 00:05:35.298
+[MUSIC]
+
+77
+00:05:35.298 --> 00:05:36.934
+Why seven notes?
+
+78
+00:05:36.934 --> 00:05:40.528
+Well for the answer to that we have to go
+back to ancient Greek music theory, and
+
+79
+00:05:40.528 --> 00:05:42.870
+you read about this,
+it's really turgid stuff.
+
+80
+00:05:42.870 --> 00:05:45.870
+But believe it or not, I teach a course
+on this at the graduate level.
+
+81
+00:05:45.870 --> 00:05:48.440
+We have to read and
+poor Linda has to take this kind of stuff.
+
+82
+00:05:48.440 --> 00:05:51.207
+We're reading Aristoxenus and
+things like this.
+
+83
+00:05:51.207 --> 00:05:55.559
+So what we're dealing here with is
+a situation where the ancient Greeks were
+
+84
+00:05:55.559 --> 00:05:59.095
+very much into mathematics as
+a way of explaining the world and
+
+85
+00:05:59.095 --> 00:06:01.075
+explaining music in particular.
+
+86
+00:06:01.075 --> 00:06:02.916
+And they thought these
+ratios were primary,
+
+87
+00:06:02.916 --> 00:06:06.209
+so they had the ratio of two to one, which
+gave them the octave, and three to two,
+
+88
+00:06:06.209 --> 00:06:09.283
+which gave them the fifth, and
+four to three, which gave them the fourth.
+
+89
+00:06:09.283 --> 00:06:12.832
+They also, because the system worked
+out better for their purposes,
+
+90
+00:06:12.832 --> 00:06:15.972
+then jumped to nine to eight,
+which gave them the whole tone.
+
+91
+00:06:15.972 --> 00:06:19.673
+So they started out there and
+let's say they're working down here.
+
+92
+00:06:19.673 --> 00:06:22.852
+They filled in the octave up above,
+and then they filled in the fifth, and
+
+93
+00:06:22.852 --> 00:06:25.850
+then they filled in the fourth, and
+then they came down a whole step.
+
+94
+00:06:25.850 --> 00:06:29.600
+Then they went up a fourth from that whole
+step and then up a fourth from that,
+
+95
+00:06:29.600 --> 00:06:31.950
+and they were filing in, in this fashion.
+
+96
+00:06:31.950 --> 00:06:34.440
+Interestingly enough, and
+you ever wonder this?
+
+97
+00:06:35.470 --> 00:06:38.500
+Sometimes someone wandered by a keyboard,
+said that's odd.
+
+98
+00:06:38.500 --> 00:06:40.320
+What's the great oddity
+about the keyboard?
+
+99
+00:06:42.200 --> 00:06:44.570
+What's strange about this keyboard?
+
+100
+00:06:44.570 --> 00:06:47.060
+It's very asymmetrical, right?
+
+101
+00:06:48.090 --> 00:06:48.590
+Marcus?
+
+102
+00:06:50.030 --> 00:06:52.860
+Yeah it's missing some notes in there.
+
+103
+00:06:52.860 --> 00:06:55.320
+It's missing something in here.
+
+104
+00:06:55.320 --> 00:06:56.930
+Well what these are were the cracks.
+
+105
+00:06:56.930 --> 00:06:58.600
+After the Greeks laid out their fifths and
+
+106
+00:06:58.600 --> 00:07:02.550
+fourths and whole steps they
+had these little leftovers.
+
+107
+00:07:02.550 --> 00:07:05.961
+They called them lainmas, and they had
+these little leftovers in there, and
+
+108
+00:07:05.961 --> 00:07:08.806
+that's why we end up with these
+small distances between B and C.
+
+109
+00:07:08.806 --> 00:07:12.427
+[MUSIC]
+
+110
+00:07:12.427 --> 00:07:13.287
+That's a big step.
+
+111
+00:07:13.287 --> 00:07:15.470
+[MUSIC]
+
+112
+00:07:15.470 --> 00:07:17.026
+That's a small step there.
+
+113
+00:07:17.026 --> 00:07:19.325
+So the scale is actually not equal.
+
+114
+00:07:19.325 --> 00:07:22.067
+A to B is one distance,
+which is a large one, and
+
+115
+00:07:22.067 --> 00:07:26.592
+B to C is only half that distance, and
+that's because of the way the Greeks laid
+
+116
+00:07:26.592 --> 00:07:30.868
+this thing out with their two to one
+ratios, three to one ratios and so on.
+
+117
+00:07:30.868 --> 00:07:33.670
+But in any event, we end up with this.
+
+118
+00:07:33.670 --> 00:07:36.780
+Now, the Greeks had a whole series of
+patterns, and they called them myxolydian
+
+119
+00:07:36.780 --> 00:07:41.095
+and hypomyxolydian and Phrygian and
+hypophrygian and stuff like this.
+
+120
+00:07:41.095 --> 00:07:44.770
+A lot of different patterns, but
+in the course of history, we settled,
+
+121
+00:07:44.770 --> 00:07:49.740
+beginning in the 16th and
+17th Century down into just two patterns.
+
+122
+00:07:49.740 --> 00:07:53.740
+What we call the major pattern and
+the minor pattern.
+
+123
+00:07:53.740 --> 00:07:57.770
+So, let's talk about that just for
+a moment,
+
+124
+00:07:57.770 --> 00:08:00.060
+and before we do it I
+should add one other thing.
+
+125
+00:08:00.060 --> 00:08:02.620
+How, then,
+do we get these other notes up here?
+
+126
+00:08:03.780 --> 00:08:06.050
+Well, what we know call the black notes,
+
+127
+00:08:06.050 --> 00:08:09.350
+although historically
+keyboards could be either way.
+
+128
+00:08:09.350 --> 00:08:13.990
+You could have these added notes,
+black or white and
+
+129
+00:08:13.990 --> 00:08:15.390
+then these underneath would be black.
+
+130
+00:08:15.390 --> 00:08:17.180
+So we fill these out.
+
+131
+00:08:17.180 --> 00:08:20.970
+Sort of in the 14th century
+all of this got filled in.
+
+132
+00:08:20.970 --> 00:08:25.340
+These between B and C and E and F didn't
+get filled in because they were already
+
+133
+00:08:25.340 --> 00:08:28.490
+just the smallest amount that they
+wanted to deal with, just half steps.
+
+134
+00:08:28.490 --> 00:08:34.200
+So we end up here within an octave,
+we end up with 12 equal pitches.
+
+135
+00:08:34.200 --> 00:08:39.266
+But we still use this term of seven note
+scale, cuz we have seven notes within
+
+136
+00:08:39.266 --> 00:08:44.591
+the scale of the major scale and seven
+notes within the scale of the minor scale.

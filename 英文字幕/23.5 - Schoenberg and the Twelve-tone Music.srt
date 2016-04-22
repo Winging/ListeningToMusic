@@ -1,0 +1,534 @@
+WEBVTT
+
+1
+00:00:00.185 --> 00:00:10.185
+[MUSIC]
+
+2
+00:00:15.546 --> 00:00:18.957
+When Arnold Schoenberg and
+others created atonal music,
+
+3
+00:00:18.957 --> 00:00:22.020
+he also created a problem, as we've seen.
+
+4
+00:00:22.020 --> 00:00:26.930
+With no guide or game plan for
+musical structure, how to proceed?
+
+5
+00:00:26.930 --> 00:00:32.800
+Well Schoenberg came up with a system, a
+set of rules that gave structure to music.
+
+6
+00:00:32.800 --> 00:00:38.170
+A kind of music called 12-tone
+music because it uses,
+
+7
+00:00:38.170 --> 00:00:42.600
+in sequence,
+all 12 tones of the chromatic scale.
+
+8
+00:00:42.600 --> 00:00:48.840
+It's also called serial music because
+the 12 pitches come in a fixed series.
+
+9
+00:00:48.840 --> 00:00:50.900
+Here's how the game is played.
+
+10
+00:00:52.110 --> 00:00:57.940
+First, the composer can choose
+any pleasing sequence of pitches,
+
+11
+00:00:57.940 --> 00:01:02.660
+but all 12 pitches, all chromatic notes
+within the octave have to be used, and
+
+12
+00:01:02.660 --> 00:01:06.970
+have to come in a series,
+or in a sequence of 12.
+
+13
+00:01:06.970 --> 00:01:09.430
+This is called the row.
+
+14
+00:01:09.430 --> 00:01:11.730
+The row many start on any pitch.
+
+15
+00:01:11.730 --> 00:01:16.740
+You could start on C, or E, or
+F sharp, or B flat, whatever.
+
+16
+00:01:18.062 --> 00:01:21.030
+The pitches in the row may
+sound vertically as a chord.
+
+17
+00:01:21.030 --> 00:01:24.140
+You could have one, two,
+three come in succession, or one, two,
+
+18
+00:01:24.140 --> 00:01:27.240
+three sound simultaneously.
+
+19
+00:01:27.240 --> 00:01:29.250
+The rows may overlap.
+
+20
+00:01:29.250 --> 00:01:31.180
+The row may go backward.
+
+21
+00:01:31.180 --> 00:01:32.750
+We call that retrograde motion.
+
+22
+00:01:32.750 --> 00:01:37.500
+The row may go upside down,
+be inverted, or an exact mirror image.
+
+23
+00:01:37.500 --> 00:01:39.190
+That's called inversion.
+
+24
+00:01:39.190 --> 00:01:44.300
+The row may go upside down and
+backward, retrograde inversion.
+
+25
+00:01:44.300 --> 00:01:48.090
+And finally, the composer can
+use any meters and rhythms.
+
+26
+00:01:48.090 --> 00:01:52.720
+Rhythm is not a primary issue here.
+
+27
+00:01:53.880 --> 00:01:57.420
+Well, as they say, a picture is worth
+a thousand words, and if that's true,
+
+28
+00:01:57.420 --> 00:01:59.250
+maybe a video is worth a 100,000.
+
+29
+00:01:59.250 --> 00:02:01.080
+So that's what we're gonna do.
+
+30
+00:02:01.080 --> 00:02:03.180
+We're gonna turn to a video now, and
+
+31
+00:02:03.180 --> 00:02:08.923
+try to simplify all this by
+visualizing how 12-tone music works.
+
+32
+00:02:08.923 --> 00:02:10.425
+We've got a good video here.
+
+33
+00:02:10.425 --> 00:02:13.030
+It's posted on YouTube by one Nava Glick.
+
+34
+00:02:13.030 --> 00:02:18.050
+I can't find out anything about our
+Nava Glick, but she says that she hopes
+
+35
+00:02:18.050 --> 00:02:22.340
+someone will find this useful,
+and we thank her for sharing.
+
+36
+00:02:23.750 --> 00:02:26.560
+>> This means that every single
+note in an octave is played.
+
+37
+00:02:27.930 --> 00:02:32.180
+>> So you can see, she's color
+coded the pitches of the scale.
+
+38
+00:02:32.180 --> 00:02:34.260
+Now just running up the chromatic scale.
+
+39
+00:02:36.900 --> 00:02:39.767
+>> These notes are then rearranged
+to make a row or series,
+
+40
+00:02:39.767 --> 00:02:43.123
+where each of the 12 notes is used,
+and no note is played twice.
+
+41
+00:02:43.123 --> 00:02:46.012
+>> The composer uses any series he or
+she wishes.
+
+42
+00:02:46.012 --> 00:02:47.974
+[MUSIC]
+
+43
+00:02:47.974 --> 00:02:54.254
+>> The series can then be reversed
+to create a different sound.
+
+44
+00:02:54.254 --> 00:02:55.764
+[MUSIC]
+
+45
+00:02:55.764 --> 00:02:58.132
+>> Retrograde, going backwards.
+
+46
+00:02:58.132 --> 00:03:01.046
+[MUSIC]
+
+47
+00:03:01.046 --> 00:03:05.573
+And the row can go backward and
+forward simultaneously against itself.
+
+48
+00:03:05.573 --> 00:03:09.760
+But isn't this all a little bit strange, a
+little bit crazy, a little bit unmusical?
+
+49
+00:03:09.760 --> 00:03:11.580
+Just modern mathematical games?
+
+50
+00:03:11.580 --> 00:03:12.451
+Well, no.
+
+51
+00:03:12.451 --> 00:03:17.289
+Actually, JS Bach did the same
+thing in this piece from
+
+52
+00:03:17.289 --> 00:03:21.296
+his musical offering back in the 1740s.
+
+53
+00:03:21.296 --> 00:03:24.941
+[MUSIC]
+
+54
+00:03:24.941 --> 00:03:27.943
+And this is called a crab canon,
+as you can see here,
+
+55
+00:03:27.943 --> 00:03:31.300
+because the crab looks forward
+while walking backwards.
+
+56
+00:03:34.910 --> 00:03:37.874
+The back is getting
+closer to the middle now,
+
+57
+00:03:37.874 --> 00:03:42.944
+the beginning of the melody is now at
+the midpoint and heading toward the end,
+
+58
+00:03:42.944 --> 00:03:46.775
+and my end is becoming my beginning,
+my beginning my end.
+
+59
+00:03:46.775 --> 00:03:56.775
+[MUSIC]
+
+60
+00:03:58.130 --> 00:04:02.056
+And musicians from the Renaissance also
+used these permutations of the melody,
+
+61
+00:04:02.056 --> 00:04:05.438
+forward, backwards, upside down, whatever.
+
+62
+00:04:05.438 --> 00:04:11.720
+So if Josquin and Bach could do it,
+so too could Arnold Schoenberg.
+
+63
+00:04:11.720 --> 00:04:18.830
+So let's continue with our presentation
+of the permutations of the 12-tone row.
+
+64
+00:04:18.830 --> 00:04:21.590
+>> Inversion is like creating
+a mirror image of the original row.
+
+65
+00:04:21.590 --> 00:04:24.290
+Each note of the inversion directly
+matches up with the note of the series.
+
+66
+00:04:24.290 --> 00:04:28.553
+Okay, if the row goes up,
+the inversion goes down.
+
+67
+00:04:28.553 --> 00:04:30.583
+If the row goes down,
+the inversion goes up.
+
+68
+00:04:30.583 --> 00:04:32.476
+[MUSIC]
+
+69
+00:04:32.476 --> 00:04:34.332
+>> Together, they sound like this.
+
+70
+00:04:34.332 --> 00:04:40.720
+>> Then, we can get a harmony of
+chords by doing row, with inversion.
+
+71
+00:04:44.200 --> 00:04:48.080
+>> Retrograde inversion is literally
+just the inversion backwards.
+
+72
+00:04:48.080 --> 00:04:53.711
+[MUSIC]
+
+73
+00:04:57.345 --> 00:04:59.325
+>> All right, that's the theory.
+
+74
+00:04:59.325 --> 00:05:03.320
+Let's see how it plays out
+in a real piece, and for
+
+75
+00:05:03.320 --> 00:05:07.870
+that we turn to a suite, a succession
+of pieces that Schoenberg wrote for
+
+76
+00:05:07.870 --> 00:05:11.544
+piano in 1924 in the 12-tone idiom.
+
+77
+00:05:11.544 --> 00:05:16.780
+He selected a sequence of pitches,
+12 pitches, to form his row,
+
+78
+00:05:16.780 --> 00:05:22.969
+and then as you can see here, rearranged
+them in retrograde form, in inverted form,
+
+79
+00:05:22.969 --> 00:05:27.220
+and in retrograde-inversion form.
+
+80
+00:05:27.220 --> 00:05:30.577
+The row starts on E and works to B flat.
+
+81
+00:05:32.010 --> 00:05:33.350
+The retrograde, of course,
+
+82
+00:05:33.350 --> 00:05:36.850
+starts on B flat and
+works its way back to the beginning E.
+
+83
+00:05:36.850 --> 00:05:40.465
+The row starts by moving up a half-step,
+and then up a full step.
+
+84
+00:05:40.465 --> 00:05:46.430
+The inversion starts by going down a half
+step and then down a full step, and so on.
+
+85
+00:05:46.430 --> 00:05:47.400
+Let's look at the score now.
+
+86
+00:05:49.310 --> 00:05:53.740
+So there is the trio section
+of a minuet of the suite.
+
+87
+00:05:53.740 --> 00:05:57.510
+I've gone through it and
+numbered the pitches in the row.
+
+88
+00:05:57.510 --> 00:06:01.030
+Obviously, that's what all the one, two,
+three, fours, and so on, are about.
+
+89
+00:06:01.030 --> 00:06:06.000
+In the boxes, you can see all the various
+permutations that Schoenberg applies,
+
+90
+00:06:06.000 --> 00:06:10.410
+retrograde, inversion,
+retrograde-inversion, and so on.
+
+91
+00:06:10.410 --> 00:06:14.940
+And remember that the row can start
+on any pitch within the octave.
+
+92
+00:06:14.940 --> 00:06:20.290
+Schoenberg likes to start it here, not
+only on the pitch E, but also on B flat.
+
+93
+00:06:21.730 --> 00:06:25.960
+Well, with all this having been said,
+let's hear the music, and
+
+94
+00:06:25.960 --> 00:06:27.490
+we'll follow along.
+
+95
+00:06:30.136 --> 00:06:40.136
+[MUSIC]
+
+96
+00:06:44.148 --> 00:06:45.413
+Repeat.
+
+97
+00:06:45.413 --> 00:06:52.575
+[MUSIC]
+
+98
+00:06:52.575 --> 00:06:54.456
+Second ending.
+
+99
+00:06:54.456 --> 00:06:55.710
+[MUSIC]
+
+100
+00:06:55.710 --> 00:06:57.475
+Second section.
+
+101
+00:06:57.475 --> 00:07:04.092
+[MUSIC]
+
+102
+00:07:04.092 --> 00:07:05.810
+First ending.
+
+103
+00:07:05.810 --> 00:07:07.040
+[MUSIC]
+
+104
+00:07:07.040 --> 00:07:08.340
+Repeat.
+
+105
+00:07:08.340 --> 00:07:15.897
+[MUSIC]
+
+106
+00:07:15.897 --> 00:07:18.939
+Second ending, and retard.
+
+107
+00:07:18.939 --> 00:07:21.121
+[MUSIC]
+
+108
+00:07:21.121 --> 00:07:26.279
+Well this is a short piece, but Schoenberg
+wrote an opera that lasts three hours,
+
+109
+00:07:26.279 --> 00:07:29.869
+Moses und Aron,
+using this same 12-tone technique,
+
+110
+00:07:29.869 --> 00:07:34.610
+and for a while, serial technique or
+12-tone music was all the rage.
+
+111
+00:07:34.610 --> 00:07:39.360
+Even composers as different as
+Igor Stravinsky and Aaron Copland
+
+112
+00:07:39.360 --> 00:07:45.020
+wrote in 12-tone style, but then,
+in the 1970s, they all stopped.
+
+113
+00:07:45.020 --> 00:07:48.965
+And for the rest of us, the general
+listening public, we never got going.
+
+114
+00:07:48.965 --> 00:07:54.000
+12-tone music never really caught on
+with the general listening public.
+
+115
+00:07:54.000 --> 00:07:54.790
+Why?
+
+116
+00:07:54.790 --> 00:07:56.770
+Well, it went against the grain.
+
+117
+00:07:56.770 --> 00:07:59.930
+It went against nature,
+as we'll now explain.

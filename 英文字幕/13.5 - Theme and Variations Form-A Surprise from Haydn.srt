@@ -1,0 +1,784 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:13.680 --> 00:00:16.500
+Introduction to Classical Music,
+Session 13.5.
+
+3
+00:00:16.500 --> 00:00:17.661
+Theme and Variation Form,
+A surprise From Haydn.
+
+4
+00:00:17.661 --> 00:00:21.486
+>> We've already talked about how
+Josef Haydn spent most of his
+
+5
+00:00:21.486 --> 00:00:26.740
+professional life working in and around
+Vienna for the wealthy Esterhazy family.
+
+6
+00:00:26.740 --> 00:00:31.886
+And how, while in semi-retirement he
+went to London, where between 1791 and
+
+7
+00:00:31.886 --> 00:00:34.899
+1795 he created and
+performed his last, and
+
+8
+00:00:34.899 --> 00:00:39.180
+most would say, his best symphonies,
+the 12 London symphonies.
+
+9
+00:00:40.900 --> 00:00:42.580
+Actually, Haydn wasn't alone in this.
+
+10
+00:00:42.580 --> 00:00:48.130
+Mozart and Beethoven also had negotiations
+with musical entrepreneurs in London,
+
+11
+00:00:48.130 --> 00:00:49.740
+to go to London.
+
+12
+00:00:49.740 --> 00:00:52.020
+But none of these actually
+came to fruition.
+
+13
+00:00:53.140 --> 00:00:54.670
+But Haydn did go to London, and
+
+14
+00:00:54.670 --> 00:00:59.970
+as we have seen, his concer, concerts were
+performed in the Hanover Square rooms.
+
+15
+00:00:59.970 --> 00:01:04.480
+And Haydn, like Mozart in Vienna,
+sold tickets from his apartment.
+
+16
+00:01:04.480 --> 00:01:09.320
+Here we have, remarkably, a surviving
+ticket from one of those concerts.
+
+17
+00:01:09.320 --> 00:01:11.720
+How many of you keep your concert tickets?
+
+18
+00:01:11.720 --> 00:01:13.040
+As you can see,
+
+19
+00:01:13.040 --> 00:01:19.034
+the concert was given in the Hanover
+Square rooms on the 3rd of May, 1792.
+
+20
+00:01:20.320 --> 00:01:27.830
+The cost was a half guinea, which by my
+rough calculation is about $60 of today.
+
+21
+00:01:27.830 --> 00:01:32.080
+But compared to good tickets of say,
+the New York Philharmonic or
+
+22
+00:01:32.080 --> 00:01:35.720
+the Chicago Symphony Orchestra,
+that's about the same, oddly.
+
+23
+00:01:35.720 --> 00:01:38.570
+I looked it up, and
+the top ticket prices for
+
+24
+00:01:38.570 --> 00:01:44.065
+the New York Philharmonic
+ranged from $65 to $118 each.
+
+25
+00:01:44.065 --> 00:01:48.250
+Now if you wanted to buy a ticket in
+London for one of Haydn's concerts,
+
+26
+00:01:48.250 --> 00:01:54.750
+you'd have to go to Haydn's house on
+Great Street, which still exists.
+
+27
+00:01:54.750 --> 00:01:58.680
+Notice that this ticket was numbered 280,
+and
+
+28
+00:01:58.680 --> 00:02:03.040
+that Haydn himself had signed it, as you
+can see down there by the bottom right.
+
+29
+00:02:03.040 --> 00:02:07.290
+For some of these concerts,
+he'd sold as many as 1,500 tickets.
+
+30
+00:02:08.620 --> 00:02:12.030
+One of the 12 symphonies
+Haydn premiered in London
+
+31
+00:02:12.030 --> 00:02:16.240
+was his symphony number 94
+called the Surprise Symphony.
+
+32
+00:02:16.240 --> 00:02:16.990
+Why?
+
+33
+00:02:16.990 --> 00:02:20.840
+Because there is a surprise baked
+inside the second slow movement of
+
+34
+00:02:20.840 --> 00:02:23.030
+this four movement symphony.
+
+35
+00:02:23.030 --> 00:02:27.357
+Let me play the theme on the keyboard.
+
+36
+00:02:27.357 --> 00:02:37.357
+[MUSIC]
+
+37
+00:02:43.053 --> 00:02:45.340
+Well just funning you there.
+
+38
+00:02:45.340 --> 00:02:47.163
+[LAUGH] You know how it goes.
+
+39
+00:02:47.163 --> 00:02:51.655
+[MUSIC]
+
+40
+00:02:51.655 --> 00:02:54.719
+On the tonic.
+
+41
+00:02:54.719 --> 00:02:57.320
+Then, it proceeds, this fashion.
+
+42
+00:02:57.320 --> 00:03:07.320
+[MUSIC]
+
+43
+00:03:13.631 --> 00:03:15.964
+So we have a very simple melody.
+
+44
+00:03:15.964 --> 00:03:17.252
+It's triadic.
+
+45
+00:03:17.252 --> 00:03:18.263
+It goes this way.
+
+46
+00:03:18.263 --> 00:03:20.167
+[MUSIC]
+
+47
+00:03:20.167 --> 00:03:21.304
+And then the dominant chord.
+
+48
+00:03:21.304 --> 00:03:26.992
+[MUSIC]
+
+49
+00:03:26.992 --> 00:03:27.620
+And then.
+
+50
+00:03:29.430 --> 00:03:32.830
+The crashing down
+the chord in that fashion.
+
+51
+00:03:32.830 --> 00:03:37.951
+So we have a simple melody and then the
+crashing dominant chord and because this
+
+52
+00:03:37.951 --> 00:03:43.709
+is, this particular theme is binary, we
+have the a section and then the b section.
+
+53
+00:03:43.709 --> 00:03:49.071
+[MUSIC]
+
+54
+00:03:49.071 --> 00:03:50.990
+Which we just played.
+
+55
+00:03:50.990 --> 00:03:53.430
+So, two very simple ideas.
+
+56
+00:03:55.880 --> 00:03:58.200
+So that's the theme that Haydn created.
+
+57
+00:03:58.200 --> 00:03:59.850
+Very straightforward.
+
+58
+00:03:59.850 --> 00:04:05.050
+But very straightforward themes lend
+themselves very well to theme and
+
+59
+00:04:05.050 --> 00:04:06.520
+variation's form.
+
+60
+00:04:06.520 --> 00:04:11.340
+The simpler the musical model, the more
+you can dress it up as Hayden does here.
+
+61
+00:04:12.380 --> 00:04:16.440
+But, the most famous moment of
+this tune is that crashing chord.
+
+62
+00:04:17.720 --> 00:04:19.290
+Why did Hayden do this?
+
+63
+00:04:19.290 --> 00:04:24.901
+Add this surprise chord at the beginning
+of this, this lovely theme here.
+
+64
+00:04:24.901 --> 00:04:26.293
+He did so, he tells us,
+
+65
+00:04:26.293 --> 00:04:31.750
+in his memoirs, written in the last
+year of his life, 1809, he did so.
+
+66
+00:04:31.750 --> 00:04:37.230
+So it was to execute, in effect,
+to bring off a publicity stunt.
+
+67
+00:04:37.230 --> 00:04:42.290
+As he said, quote, to make a debut
+in London in a brilliant manner.
+
+68
+00:04:43.700 --> 00:04:45.510
+So we're going to listen now, indeed,
+
+69
+00:04:45.510 --> 00:04:49.150
+we're going to watch
+this surprising movement.
+
+70
+00:04:49.150 --> 00:04:52.855
+What you'll see is a collaboration
+between Stephen Malinowski,
+
+71
+00:04:52.855 --> 00:04:56.060
+a music animation machine and myself.
+
+72
+00:04:56.060 --> 00:04:58.550
+Actually Steven does
+most of the work here.
+
+73
+00:04:58.550 --> 00:05:01.670
+He's the real brains behind the operation.
+
+74
+00:05:01.670 --> 00:05:07.620
+But I asked him to take this movement and
+create visual symbols that made it easy
+
+75
+00:05:07.620 --> 00:05:13.340
+for us listeners to track
+the whereabouts of the theme.
+
+76
+00:05:14.400 --> 00:05:16.630
+And alterations of that theme,
+
+77
+00:05:16.630 --> 00:05:20.710
+and add markers that allow us to see
+where we are in the musical form.
+
+78
+00:05:21.730 --> 00:05:23.090
+Hope you like what we've created.
+
+79
+00:05:27.380 --> 00:05:32.500
+Okay, so I've asked Stephen to, every
+time the theme appears, the basic theme,
+
+80
+00:05:32.500 --> 00:05:35.360
+that's always going to
+be color-coded in red.
+
+81
+00:05:35.360 --> 00:05:40.830
+And you'll have different size
+symbols indicate duration.
+
+82
+00:05:40.830 --> 00:05:42.653
+Starts very quietly.
+
+83
+00:05:43.920 --> 00:05:48.390
+texture, we have a melody and simple
+chords in the bass parts underneath.
+
+84
+00:05:49.520 --> 00:05:53.687
+Repeat, of course, and here we are.
+
+85
+00:05:53.687 --> 00:05:56.634
+Binary form repeat of the a part.
+
+86
+00:05:56.634 --> 00:05:59.793
+[MUSIC]
+
+87
+00:05:59.793 --> 00:06:04.089
+You can see what's going to happen
+where a bright light coming your way,.
+
+88
+00:06:04.089 --> 00:06:09.766
+[MUSIC]
+
+89
+00:06:09.766 --> 00:06:14.595
+Yeah, a binary form we go to the second
+and final part the b section.
+
+90
+00:06:14.595 --> 00:06:21.004
+[MUSIC]
+
+91
+00:06:21.004 --> 00:06:22.744
+Melody in the violins.
+
+92
+00:06:22.744 --> 00:06:26.111
+Now repeat.
+
+93
+00:06:26.111 --> 00:06:31.305
+The repeat is varied, because as
+you can see in the blue up above,
+
+94
+00:06:31.305 --> 00:06:33.390
+we have woodwinds added.
+
+95
+00:06:33.390 --> 00:06:35.387
+[MUSIC]
+
+96
+00:06:35.387 --> 00:06:38.451
+Now they're playing in unison,
+it's a violin.
+
+97
+00:06:38.451 --> 00:06:44.732
+[MUSIC]
+
+98
+00:06:44.732 --> 00:06:46.102
+First variation.
+
+99
+00:06:46.102 --> 00:06:48.982
+[MUSIC]
+
+100
+00:06:48.982 --> 00:06:50.213
+And it's a counter point.
+
+101
+00:06:50.213 --> 00:06:53.382
+[MUSIC]
+
+102
+00:06:53.382 --> 00:06:55.924
+Up above now it kind of
+brings in the flute.
+
+103
+00:06:55.924 --> 00:07:00.103
+[MUSIC]
+
+104
+00:07:00.103 --> 00:07:03.447
+Now this is an exact replication
+counter point violin.
+
+105
+00:07:03.447 --> 00:07:08.404
+[MUSIC]
+
+106
+00:07:08.404 --> 00:07:11.190
+Melody in the lower strings but
+counterpoint.
+
+107
+00:07:11.190 --> 00:07:11.807
+[MUSIC]
+
+108
+00:07:11.807 --> 00:07:13.350
+in flutes.
+
+109
+00:07:13.350 --> 00:07:15.009
+Violin [INAUDIBLE].
+
+110
+00:07:15.009 --> 00:07:16.171
+B section.
+
+111
+00:07:16.171 --> 00:07:18.482
+[MUSIC]
+
+112
+00:07:18.482 --> 00:07:22.301
+First violins play counterpoint,
+second violins, melody.
+
+113
+00:07:22.301 --> 00:07:32.301
+[MUSIC]
+
+114
+00:07:35.211 --> 00:07:39.425
+B is repeated,
+
+115
+00:07:39.425 --> 00:07:45.264
+[INAUDIBLE]
+violins.
+
+116
+00:07:45.264 --> 00:07:49.885
+[INAUDIBLE] And now, unison,
+monophonic texture, everything together.
+
+117
+00:07:49.885 --> 00:07:54.087
+And, of course, surprising.
+
+118
+00:07:54.087 --> 00:07:56.026
+It's not in minor.
+
+119
+00:07:56.026 --> 00:07:57.988
+A sudden harmonic shift.
+
+120
+00:07:57.988 --> 00:07:59.161
+That was neat.
+
+121
+00:07:59.161 --> 00:08:02.307
+[MUSIC]
+
+122
+00:08:02.307 --> 00:08:05.059
+Now here's a again, now in the minor.
+
+123
+00:08:05.059 --> 00:08:10.746
+[MUSIC]
+
+124
+00:08:10.746 --> 00:08:11.803
+Harmonic again.
+
+125
+00:08:11.803 --> 00:08:18.119
+[MUSIC]
+
+126
+00:08:18.119 --> 00:08:22.792
+Now like development in the development
+section of the symphony,
+
+127
+00:08:22.792 --> 00:08:27.631
+it's not an allegro, it really has
+a development section stuffed in
+
+128
+00:08:27.631 --> 00:08:30.483
+the middle of this piece in binary form.
+
+129
+00:08:30.483 --> 00:08:31.923
+[MUSIC]
+
+130
+00:08:31.923 --> 00:08:33.299
+See how complex it is.
+
+131
+00:08:33.299 --> 00:08:38.895
+[MUSIC]
+Lot of things going on.
+
+132
+00:08:38.895 --> 00:08:45.332
+Now this is close to a re-transition,
+with the aim to simplify things,
+
+133
+00:08:45.332 --> 00:08:49.355
+clear it out and
+get you ready for something.
+
+134
+00:08:49.355 --> 00:08:51.177
+And we're led back to.
+
+135
+00:08:51.177 --> 00:08:56.831
+[MUSIC]
+
+136
+00:08:56.831 --> 00:09:01.209
+Our a theme is the note
+values being doubled.
+
+137
+00:09:01.209 --> 00:09:03.297
+You can hear them up
+there in the woodwinds.
+
+138
+00:09:03.297 --> 00:09:12.970
+[MUSIC]
+
+139
+00:09:12.970 --> 00:09:16.533
+A is repeated.
+
+140
+00:09:16.533 --> 00:09:21.432
+Woodwinds alone here, at least
+woodwinds being featured up above.
+
+141
+00:09:21.432 --> 00:09:23.614
+The theme is quietly underneath.
+
+142
+00:09:23.614 --> 00:09:32.949
+[MUSIC]
+
+143
+00:09:32.949 --> 00:09:36.520
+New rewriting of b,
+
+144
+00:09:36.520 --> 00:09:42.828
+melody sneaking up in the violins.
+
+145
+00:09:42.828 --> 00:09:48.087
+[MUSIC]
+
+146
+00:09:48.087 --> 00:09:53.928
+Same material, but now the texture
+is enhanced by means of supporting
+
+147
+00:09:53.928 --> 00:09:59.975
+accompaniment underneath, that you
+see there in the green and yellow.
+
+148
+00:09:59.975 --> 00:10:03.447
+[MUSIC]
+
+149
+00:10:03.447 --> 00:10:07.834
+Okay, full texture here.
+
+150
+00:10:07.834 --> 00:10:11.622
+Still homophonic texture but
+notice how many parts we have playing but
+
+151
+00:10:11.622 --> 00:10:14.394
+notice all the verticality,
+indicating chords.
+
+152
+00:10:14.394 --> 00:10:15.812
+Homophonic texture.
+
+153
+00:10:15.812 --> 00:10:24.285
+[MUSIC]
+
+154
+00:10:24.285 --> 00:10:26.933
+Now, part of the tune is all
+the way down in the basses.
+
+155
+00:10:26.933 --> 00:10:36.933
+[MUSIC]
+
+156
+00:10:40.644 --> 00:10:42.489
+Simply playing with the b theme.
+
+157
+00:10:42.489 --> 00:10:49.723
+[MUSIC]
+
+158
+00:10:49.723 --> 00:10:52.010
+Well, we can see that something's
+going to happen here.
+
+159
+00:10:52.010 --> 00:10:54.690
+It's probably going to be loud and full.
+
+160
+00:10:54.690 --> 00:10:59.370
+[MUSIC]
+
+161
+00:10:59.370 --> 00:11:00.646
+Not much theme here.
+
+162
+00:11:00.646 --> 00:11:02.341
+More fanfare than theme.
+
+163
+00:11:02.341 --> 00:11:11.222
+Now the theme comes back [INAUDIBLE]
+parts.
+
+164
+00:11:11.222 --> 00:11:15.228
+Now a transition, again, as you would
+have in the Sonata, Allegro Four.
+
+165
+00:11:15.228 --> 00:11:21.045
+It's just heading to a point of stasis,
+rival.
+
+166
+00:11:21.045 --> 00:11:24.864
+But with a rival like that,
+it's unstable, it wants to go somewhere.
+
+167
+00:11:24.864 --> 00:11:27.150
+[MUSIC]
+
+168
+00:11:27.150 --> 00:11:32.282
+It goes back to just snippets of
+our theme in the form of a coda.
+
+169
+00:11:32.282 --> 00:11:33.605
+[MUSIC]
+
+170
+00:11:33.605 --> 00:11:36.542
+Reminiscences of our theme.
+
+171
+00:11:36.542 --> 00:11:43.845
+Notice here, all, all, all tonic.
+
+172
+00:11:43.845 --> 00:11:45.203
+Whoops, haven't quite got there yet.
+
+173
+00:11:45.203 --> 00:11:47.862
+Here we go with all tonic.
+
+174
+00:11:47.862 --> 00:11:49.068
+Here's all tonic.
+
+175
+00:11:49.068 --> 00:11:57.265
+[MUSIC]
+
+176
+00:11:57.265 --> 00:11:58.985
+Wow, very instructive.
+
+177
+00:11:58.985 --> 00:12:01.782
+Very clever, if I do say so myself.

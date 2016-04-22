@@ -1,0 +1,450 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:16.693 --> 00:00:18.800
+Turning now to nature.
+
+3
+00:00:18.800 --> 00:00:19.940
+There are in fact,
+
+4
+00:00:19.940 --> 00:00:24.790
+principals about the physics of music
+that apply to all musical cultures.
+
+5
+00:00:24.790 --> 00:00:28.839
+Universal principals about the physics and
+the acoustics of sound.
+
+6
+00:00:28.839 --> 00:00:32.690
+Let's take a look at just one of them,
+the overtone series.
+
+7
+00:00:32.690 --> 00:00:37.250
+The overtone series does indeed involve,
+as the Beach Boys say here,
+
+8
+00:00:37.250 --> 00:00:38.130
+good vibrations.
+
+9
+00:00:40.970 --> 00:00:45.100
+When any string on an instrument or
+column of air in a tube
+
+10
+00:00:45.100 --> 00:00:50.610
+created by a wind instrument, produces a
+sound, actually it's producing many sounds
+
+11
+00:00:50.610 --> 00:00:55.010
+through something of an auditory trick or
+illusion.
+
+12
+00:00:55.010 --> 00:00:59.960
+We hear only the lowest sound in
+part because it's the loudest.
+
+13
+00:00:59.960 --> 00:01:05.275
+But there are many other strings sounding,
+as when I play this pitch.
+
+14
+00:01:05.275 --> 00:01:13.671
+[SOUND] Now we can represent this sound
+by a diagram as you see on the screen.
+
+15
+00:01:13.671 --> 00:01:18.687
+Here we have one string sounding,
+that's the black string.
+
+16
+00:01:18.687 --> 00:01:21.300
+But it's also being divided.
+
+17
+00:01:21.300 --> 00:01:25.060
+Halves of that string are sounding,
+thirds of that string are sounding,
+
+18
+00:01:25.060 --> 00:01:27.320
+quarters, fifths, and so on.
+
+19
+00:01:27.320 --> 00:01:29.930
+And this applies to all
+musical instruments.
+
+20
+00:01:30.980 --> 00:01:33.290
+Now, let's look at these
+vibrations in a different way,
+
+21
+00:01:33.290 --> 00:01:37.640
+now with the lengths of
+string standing vertically.
+
+22
+00:01:37.640 --> 00:01:43.260
+The first, and lowest, the one to
+the left, we call the fundamental.
+
+23
+00:01:43.260 --> 00:01:45.670
+And all the others the overtones.
+
+24
+00:01:45.670 --> 00:01:51.483
+These overtones are small string sections
+vibrating softly in the background.
+
+25
+00:01:51.483 --> 00:01:54.725
+So, we have the fundamental and
+the overtones,
+
+26
+00:01:54.725 --> 00:01:59.481
+notice that the first overtone is
+only half as long as the fundamental.
+
+27
+00:01:59.481 --> 00:02:01.417
+It reflects a two to one ratio,
+
+28
+00:02:01.417 --> 00:02:06.190
+which in music always produces
+the sound that we call an octave.
+
+29
+00:02:06.190 --> 00:02:08.820
+A distance of eight letter
+names on the scale.
+
+30
+00:02:08.820 --> 00:02:11.854
+We'll get into all that
+in our third session.
+
+31
+00:02:11.854 --> 00:02:16.775
+Next comes a rate relationship,
+a ratio of three to two.
+
+32
+00:02:16.775 --> 00:02:20.345
+Three units of strings
+sounding against two units.
+
+33
+00:02:20.345 --> 00:02:23.375
+That produces what we call
+the interval of a fifth.
+
+34
+00:02:23.375 --> 00:02:24.140
+So here's the octave.
+
+35
+00:02:24.140 --> 00:02:26.705
+[SOUND] Here's the interval [INAUDIBLE].
+
+36
+00:02:26.705 --> 00:02:30.348
+[SOUND] Then we come to four units
+of string sounding against three,
+
+37
+00:02:30.348 --> 00:02:32.638
+which produces the interval of a fourth.
+
+38
+00:02:32.638 --> 00:02:36.620
+[SOUND] Spans four letter names.
+
+39
+00:02:36.620 --> 00:02:41.078
+Then five to four which gives us
+interval of the third and so on.
+
+40
+00:02:41.078 --> 00:02:45.702
+[SOUND] Now we can take,
+as you see on the screen here,
+
+41
+00:02:45.702 --> 00:02:51.920
+the fundamental and all these overtones
+and apply them to a keyboard.
+
+42
+00:02:51.920 --> 00:02:54.474
+We hear the fundamental
+note way down here.
+
+43
+00:02:54.474 --> 00:03:00.062
+[SOUND] But we also hear the first
+overtone, second overtone,
+
+44
+00:03:00.062 --> 00:03:04.795
+third overtone, second,
+and on up the scale we go.
+
+45
+00:03:04.795 --> 00:03:05.678
+These others,
+
+46
+00:03:05.678 --> 00:03:08.103
+[MUSIC]
+
+47
+00:03:08.103 --> 00:03:14.650
+We hear this and
+these others are sounding very quiet.
+
+48
+00:03:14.650 --> 00:03:17.010
+These are the overtones at work.
+
+49
+00:03:17.010 --> 00:03:19.220
+The octave the fifth,
+the fourth, and so on.
+
+50
+00:03:20.260 --> 00:03:24.040
+These are the primary units
+of music around the world.
+
+51
+00:03:24.040 --> 00:03:29.701
+In Indonesian gamelan music, Chinese
+music, every music, classical or pop.
+
+52
+00:03:29.701 --> 00:03:35.437
+We all have the same overtones and
+therefore the basic notion of consonances.
+
+53
+00:03:35.437 --> 00:03:39.593
+We all have the same basic
+notion of consonance.
+
+54
+00:03:39.593 --> 00:03:43.435
+Because when I play these
+fundamental notes, this fundamental.
+
+55
+00:03:43.435 --> 00:03:50.192
+[MUSIC]
+
+56
+00:03:50.192 --> 00:03:53.720
+We get this very [SOUND] consonant sound.
+
+57
+00:03:58.399 --> 00:04:03.472
+Knowing this was important
+to Richard Strauss.
+
+58
+00:04:03.472 --> 00:04:05.214
+He knew it and he used it.
+
+59
+00:04:05.214 --> 00:04:06.339
+He used the fundamental,
+
+60
+00:04:06.339 --> 00:04:10.914
+[MUSIC]
+
+61
+00:04:10.914 --> 00:04:14.989
+In a famous piece called,
+Also sprach Zarathustra.
+
+62
+00:04:14.989 --> 00:04:17.937
+It's a big piece for
+a western symphony orchestra.
+
+63
+00:04:17.937 --> 00:04:22.418
+The name is German and it sounds
+very impressive, very intimidating.
+
+64
+00:04:22.418 --> 00:04:25.695
+But you've heard this piece
+a thousand times on film and
+
+65
+00:04:25.695 --> 00:04:27.516
+in countless TV commercials.
+
+66
+00:04:27.516 --> 00:04:33.413
+In it, Strauss builds up the beginning of
+the piece by using the primary overtones
+
+67
+00:04:33.413 --> 00:04:39.135
+[MUSIC]
+
+68
+00:04:39.135 --> 00:04:41.968
+What's this piece about this,
+Also sprach Zarathustra.
+
+69
+00:04:41.968 --> 00:04:45.868
+Well, said very simply,
+it's about the dawn of a superman,
+
+70
+00:04:45.868 --> 00:04:51.810
+a superhero who is equated with the rising
+of the sun and the advent of the new age.
+
+71
+00:04:51.810 --> 00:04:56.723
+How does composer Strauss depict,
+through music, the rising of the sun and
+
+72
+00:04:56.723 --> 00:04:57.808
+the super hero?
+
+73
+00:04:57.808 --> 00:05:01.546
+Well, let's give a listen.
+
+74
+00:05:01.546 --> 00:05:11.546
+[MUSIC]
+
+75
+00:05:26.053 --> 00:05:31.370
+Well, we start with low rumblings down
+underneath to suggest primordial slime.
+
+76
+00:05:31.370 --> 00:05:32.983
+Then the sound of the trumpet.
+
+77
+00:05:32.983 --> 00:05:37.078
+Since time immemorial, the trumpet has
+been associated with the military,
+
+78
+00:05:37.078 --> 00:05:39.983
+the army, with royalty,
+with power, with the hero.
+
+79
+00:05:39.983 --> 00:05:43.152
+And this powerful sound is moving upwards.
+
+80
+00:05:43.152 --> 00:05:44.860
+It reaches a midway point and
+
+81
+00:05:44.860 --> 00:05:49.213
+then seems to fall back as if the super
+hero is not quite equal to the task.
+
+82
+00:05:49.213 --> 00:05:53.531
+[MUSIC]
+
+83
+00:05:53.531 --> 00:05:56.933
+Then he tries again, but
+is now able to reach,
+
+84
+00:05:56.933 --> 00:05:59.777
+[MUSIC]
+
+85
+00:05:59.777 --> 00:06:03.712
+And hold onto the sought after goal.
+
+86
+00:06:03.712 --> 00:06:13.712
+[MUSIC]
+
+87
+00:06:28.753 --> 00:06:32.207
+Eventually we move onto the end,
+to the conclusion of
+
+88
+00:06:32.207 --> 00:06:36.600
+this opening section where we end
+with this, a chord progression.
+
+89
+00:06:36.600 --> 00:06:38.818
+Remember, a syntax tells
+us we've got to go home.
+
+90
+00:06:38.818 --> 00:06:45.296
+[MUSIC]
+
+91
+00:06:45.296 --> 00:06:49.681
+And that final chord there
+is a very consonant chord,
+
+92
+00:06:49.681 --> 00:06:53.971
+consisting of pitches made
+up the fundamental, and
+
+93
+00:06:53.971 --> 00:06:58.959
+the first four overtones
+sounding loudly now all together.
+
+94
+00:06:58.959 --> 00:07:04.392
+But it sounds a lot better when played
+by a full western symphony orchestra.
+
+95
+00:07:04.392 --> 00:07:14.392
+[MUSIC]
+
+96
+00:07:51.373 --> 00:07:54.485
+Now that's the power of classical music.
+
+97
+00:08:08.044 --> 00:08:12.779
+[MUSIC]

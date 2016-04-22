@@ -1,0 +1,512 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.212
+[MUSIC]
+
+2
+00:00:06.212 --> 00:00:11.141
+Our class video showed us how it came
+about that we in the west have a seven
+
+3
+00:00:11.141 --> 00:00:13.040
+pitch or seven note scale.
+
+4
+00:00:13.040 --> 00:00:16.580
+It was given to us by the ancient Greeks,
+owing to their love for
+
+5
+00:00:16.580 --> 00:00:19.740
+mathematically pure musical intervals.
+
+6
+00:00:19.740 --> 00:00:23.500
+They used math to explain the entire
+universe, including music.
+
+7
+00:00:24.550 --> 00:00:27.541
+The Greeks had several
+different kinds of scales, and
+
+8
+00:00:27.541 --> 00:00:30.671
+you heard all their funny names
+there in the class video.
+
+9
+00:00:30.671 --> 00:00:33.379
+And this held true for about 2,000 years.
+
+10
+00:00:33.379 --> 00:00:38.596
+But by the 17th century, Western
+musicians had reduced these down to just
+
+11
+00:00:38.596 --> 00:00:43.587
+two kinds of seven pitch patterns,
+a major pattern and a minor pattern.
+
+12
+00:00:43.587 --> 00:00:46.879
+The major pattern went this way.
+
+13
+00:00:46.879 --> 00:00:52.753
+[MUSIC]
+
+14
+00:00:52.753 --> 00:00:54.378
+And the minor this way.
+
+15
+00:00:54.378 --> 00:00:59.837
+[MUSIC]
+
+16
+00:00:59.837 --> 00:01:03.060
+Each follows a particular pattern
+of steps on the keyboard.
+
+17
+00:01:03.060 --> 00:01:06.430
+You can look all this up in your textbook
+to see what the two patterns are.
+
+18
+00:01:06.430 --> 00:01:08.310
+Whole and half steps.
+
+19
+00:01:08.310 --> 00:01:11.690
+The smallest distances on the keyboard.
+
+20
+00:01:11.690 --> 00:01:15.300
+But the important thing
+is to hear the keyboard.
+
+21
+00:01:15.300 --> 00:01:19.546
+And hear the major and
+minor when played on the keyboard.
+
+22
+00:01:19.546 --> 00:01:21.171
+[MUSIC]
+
+23
+00:01:21.171 --> 00:01:21.922
+Major.
+
+24
+00:01:21.922 --> 00:01:26.086
+[MUSIC]
+
+25
+00:01:26.086 --> 00:01:31.290
+Ever notice on a piano that we have two
+pitches that sound rather identical?
+
+26
+00:01:31.290 --> 00:01:31.837
+Almost,
+
+27
+00:01:31.837 --> 00:01:33.171
+[MUSIC]
+
+28
+00:01:33.171 --> 00:01:33.962
+The same thing.
+
+29
+00:01:33.962 --> 00:01:40.879
+[MUSIC]
+
+30
+00:01:40.879 --> 00:01:42.421
+If we start on this pitch.
+
+31
+00:01:42.421 --> 00:01:45.296
+[MUSIC]
+
+32
+00:01:45.296 --> 00:01:49.795
+Go up and down the scale,
+we get that arrangement.
+
+33
+00:01:49.795 --> 00:01:50.588
+If we start here,
+
+34
+00:01:50.588 --> 00:01:51.255
+[MUSIC]
+
+35
+00:01:51.255 --> 00:01:55.254
+A-B-C-D-E-F-G-H.
+
+36
+00:01:55.254 --> 00:01:56.671
+No we don't have Hs.
+
+37
+00:01:56.671 --> 00:01:57.496
+Why don't we have Hs?
+
+38
+00:01:57.496 --> 00:01:59.796
+[MUSIC]
+A-B-C-D-E-F-G.
+
+39
+00:01:59.796 --> 00:02:04.129
+Because this is duplicating,
+in essence, the one down below.
+
+40
+00:02:04.129 --> 00:02:05.711
+Octave duplication.
+
+41
+00:02:05.711 --> 00:02:08.643
+[MUSIC]
+The eighth note is the same as the first.
+
+42
+00:02:08.643 --> 00:02:11.860
+Therefore the eighth note's
+simply called the octave.
+
+43
+00:02:11.860 --> 00:02:13.090
+You know about octaves.
+
+44
+00:02:13.090 --> 00:02:15.110
+You've been hearing them all of your life.
+
+45
+00:02:15.110 --> 00:02:16.610
+I'm gonna sing a pitch.
+
+46
+00:02:16.610 --> 00:02:19.171
+And you're going to sing the octave above.
+
+47
+00:02:19.171 --> 00:02:20.504
+I'll do one first and then you do one.
+
+48
+00:02:20.504 --> 00:02:21.711
+I'll take this.
+
+49
+00:02:21.711 --> 00:02:27.420
+[SOUND] Okay, now you do one.
+
+50
+00:02:27.420 --> 00:02:30.212
+[MUSIC]
+
+51
+00:02:30.212 --> 00:02:30.712
+There we go.
+
+52
+00:02:30.712 --> 00:02:33.671
+[MUSIC]
+
+53
+00:02:33.671 --> 00:02:34.921
+That's right.
+
+54
+00:02:34.921 --> 00:02:39.503
+[SOUND] So we have the octave in our ear.
+
+55
+00:02:39.503 --> 00:02:44.120
+This is the two to one ratio that we
+discussed before, in our first session.
+
+56
+00:02:44.120 --> 00:02:47.060
+The upper pitch,
+the octave above is vibrating.
+
+57
+00:02:47.060 --> 00:02:50.000
+My vocal chords here
+are vibrating twice as fast.
+
+58
+00:02:50.000 --> 00:02:53.463
+[SOUND] As the lower octave.
+
+59
+00:02:53.463 --> 00:02:58.629
+[SOUND] The eighth pitch of the scale
+duplicates the first pitch.
+
+60
+00:02:58.629 --> 00:03:02.129
+Eight and one are the same and thereafter
+all of the intervals are the same.
+
+61
+00:03:02.129 --> 00:03:07.170
+[MUSIC]
+
+62
+00:03:07.170 --> 00:03:11.694
+The intervals In that higher octave that
+I just played are exactly the same as
+
+63
+00:03:11.694 --> 00:03:13.060
+the lower one.
+
+64
+00:03:13.060 --> 00:03:16.528
+For this reason we have only
+seven letter names in the scale.
+
+65
+00:03:16.528 --> 00:03:24.560
+A-B-C-D-E-F-G, no, H-I-J-K-L-M-N-O-P,
+because we start all over again.
+
+66
+00:03:24.560 --> 00:03:27.602
+This is the phenomenon
+of octave duplication.
+
+67
+00:03:27.602 --> 00:03:30.430
+And it is part of nature not nurture.
+
+68
+00:03:30.430 --> 00:03:35.245
+Octave duplication is at work in
+musical cultures around the globe.
+
+69
+00:03:35.245 --> 00:03:39.550
+Whether in Chinese music, Indian music,
+Indonesian music or African music.
+
+70
+00:03:41.100 --> 00:03:44.370
+So we in the west have
+a major scale pattern and
+
+71
+00:03:44.370 --> 00:03:47.440
+a minor scale pattern,
+each with seven different pitches.
+
+72
+00:03:47.440 --> 00:03:51.220
+But the distance between the adjacent
+pitches in those two scales
+
+73
+00:03:51.220 --> 00:03:52.460
+is not the same.
+
+74
+00:03:52.460 --> 00:03:57.000
+The major and minor scales involve
+two different sequences of intervals.
+
+75
+00:03:57.000 --> 00:04:01.660
+Again, an interval of music is simply
+the distance from one pitch to another.
+
+76
+00:04:01.660 --> 00:04:06.360
+In each major and minor scale
+there are five adjacent intervals
+
+77
+00:04:06.360 --> 00:04:11.710
+that we call whole tones and
+two intervals of half tones or half steps.
+
+78
+00:04:11.710 --> 00:04:15.629
+Think of the scale as a ladder with rungs,
+but
+
+79
+00:04:15.629 --> 00:04:20.578
+as you go up the ladder five of
+the rungs are a foot apart and
+
+80
+00:04:20.578 --> 00:04:23.796
+two rungs are just six inches apart.
+
+81
+00:04:23.796 --> 00:04:26.030
+So here are our ladders and
+they're irregular.
+
+82
+00:04:26.030 --> 00:04:29.370
+But if they are irregular blame
+
+83
+00:04:29.370 --> 00:04:33.850
+the ancient Greeks who put
+mathematics ahead of symmetry.
+
+84
+00:04:35.370 --> 00:04:37.030
+Why is this important?
+
+85
+00:04:37.030 --> 00:04:39.300
+This whole and half step business?
+
+86
+00:04:39.300 --> 00:04:44.050
+This idea of rungs of different
+sizes within the scale?
+
+87
+00:04:44.050 --> 00:04:48.360
+Well, it's because of the position
+of the half steps within the scale
+
+88
+00:04:48.360 --> 00:04:51.890
+that makes the major scale
+sound the way it does and
+
+89
+00:04:51.890 --> 00:04:54.579
+makes the minor scale
+sound the way it does.
+
+90
+00:04:55.920 --> 00:04:58.212
+Here is the beginning of
+the major scale ladder.
+
+91
+00:04:58.212 --> 00:04:59.754
+[MUSIC]
+
+92
+00:04:59.754 --> 00:05:04.046
+And here's the beginning
+of the minor scale ladder.
+
+93
+00:05:04.046 --> 00:05:05.212
+[MUSIC]
+
+94
+00:05:05.212 --> 00:05:09.138
+All major scales sound the same way
+because they have the same pattern of
+
+95
+00:05:09.138 --> 00:05:10.390
+whole and half steps.
+
+96
+00:05:10.390 --> 00:05:13.770
+All minor scales sound the same way for
+the same reason.
+
+97
+00:05:13.770 --> 00:05:17.980
+We can begin a major scale, or a minor
+scale, on any pitch of the keyboard.
+
+98
+00:05:17.980 --> 00:05:22.012
+We can move the pattern,
+transpose the pattern, as it is called,
+
+99
+00:05:22.012 --> 00:05:23.670
+to begin on another pitch.
+
+100
+00:05:23.670 --> 00:05:32.005
+[MUSIC]
+
+101
+00:05:32.005 --> 00:05:35.030
+Scales are extremely important
+when listening to music.
+
+102
+00:05:35.030 --> 00:05:37.300
+Far more so than we realize.
+
+103
+00:05:37.300 --> 00:05:38.680
+We've grown up with scales.
+
+104
+00:05:38.680 --> 00:05:41.610
+Even if you've never had a moment
+of instruction in music theory and
+
+105
+00:05:41.610 --> 00:05:45.700
+you've never heard of the idea
+of major scale before today,
+
+106
+00:05:45.700 --> 00:05:48.750
+I could prove to you that
+know a great deal, a lot,
+
+107
+00:05:48.750 --> 00:05:51.600
+about scales because you've been
+hearing them all your life.
+
+108
+00:05:51.600 --> 00:05:55.770
+So I'm gonna begin to play here,
+and you finish off a major scale.
+
+109
+00:05:55.770 --> 00:05:56.920
+So here we go.
+
+110
+00:05:56.920 --> 00:06:01.540
+La, la, la,
+
+111
+00:06:01.540 --> 00:06:06.171
+la, la, la.
+
+112
+00:06:06.171 --> 00:06:06.796
+See there?
+
+113
+00:06:06.796 --> 00:06:07.379
+Good.
+
+114
+00:06:07.379 --> 00:06:08.420
+You did it.

@@ -1,0 +1,2221 @@
+WEBVTT
+
+1
+00:00:00.011 --> 00:00:10.011
+[MUSIC]
+
+2
+00:00:21.309 --> 00:00:26.661
+[APPLAUSE] Hello, everyone and
+welcome to Office Hours.
+
+3
+00:00:26.661 --> 00:00:27.880
+I'm Melissa Thomas.
+
+4
+00:00:27.880 --> 00:00:31.812
+You may have seen me throughout
+the Coursera discussion threads
+
+5
+00:00:31.812 --> 00:00:34.286
+providing support on the Yale side, and
+
+6
+00:00:34.286 --> 00:00:38.677
+today, I'm here with Professor Craig
+Wright and his TA, James Park.
+
+7
+00:00:38.677 --> 00:00:42.337
+And today, they're going to answer some
+of the questions that you posted in
+
+8
+00:00:42.337 --> 00:00:42.996
+the forums.
+
+9
+00:00:42.996 --> 00:00:44.633
+So let's get started.
+
+10
+00:00:44.633 --> 00:00:53.294
+[MUSIC]
+
+11
+00:00:53.294 --> 00:00:54.432
+Hello, guys.
+
+12
+00:00:54.432 --> 00:00:56.690
+>> Hey!
+>> Thank you for sitting down with us.
+
+13
+00:00:56.690 --> 00:00:57.760
+Hi, Melissa.
+
+14
+00:00:57.760 --> 00:00:58.710
+>> Hello.
+>> Good morning, Melissa.
+
+15
+00:00:58.710 --> 00:01:00.960
+Thank you for joining us.
+
+16
+00:01:00.960 --> 00:01:01.650
+>> Thank you.
+
+17
+00:01:01.650 --> 00:01:04.100
+So let's just get started with
+the questions that some of
+
+18
+00:01:04.100 --> 00:01:05.180
+our students wrote in.
+
+19
+00:01:05.180 --> 00:01:07.000
+Let's start with Hock Core.
+
+20
+00:01:08.480 --> 00:01:12.520
+So Hock Core said,
+I would like to take up music.
+
+21
+00:01:12.520 --> 00:01:15.440
+What do you think would be
+a good instrument to start with?
+
+22
+00:01:15.440 --> 00:01:20.170
+For example, I understand that a violin
+is not an easy instrument to play on,
+
+23
+00:01:20.170 --> 00:01:22.760
+because it does not have bridges,
+what are your thoughts?
+
+24
+00:01:25.530 --> 00:01:28.640
+>> Well, I think the violin is
+definitely a wonderful instrument.
+
+25
+00:01:28.640 --> 00:01:31.125
+I obviously will have a deep affection for
+it.
+
+26
+00:01:31.125 --> 00:01:32.530
+>> Mm-hm.
+>> But, at the same time,
+
+27
+00:01:32.530 --> 00:01:36.980
+I can see how it might be a tricky
+instrument to start off with.
+
+28
+00:01:36.980 --> 00:01:42.814
+There are a lot of nuances to,
+to the instrument, even from the get-go.
+
+29
+00:01:42.814 --> 00:01:43.670
+>> Mm-hm.
+
+30
+00:01:43.670 --> 00:01:44.500
+>> So with that said,
+
+31
+00:01:44.500 --> 00:01:49.160
+I can imagine that the piano would be
+a really great instrument to begin with.
+
+32
+00:01:49.160 --> 00:01:54.230
+the, it's obviously a very different and
+complex instrument in and of itself.
+
+33
+00:01:54.230 --> 00:01:58.980
+But, at the same time learning
+the mechanics, I think, just getting off
+
+34
+00:01:58.980 --> 00:02:06.410
+the ground floor may be one of
+the easier tasks for for a beginner.
+
+35
+00:02:06.410 --> 00:02:11.410
+So the piano is probably a very
+good instrument to, to begin with.
+
+36
+00:02:11.410 --> 00:02:14.890
+Another instrument that a lot of people
+begin with casually is the guitar.
+
+37
+00:02:14.890 --> 00:02:18.860
+It's a very easy to to
+pick up from scratch.
+
+38
+00:02:18.860 --> 00:02:24.280
+And, obviously there is a very kind
+of broad repertoire not just within
+
+39
+00:02:24.280 --> 00:02:26.880
+a classical guitar realm which is
+
+40
+00:02:26.880 --> 00:02:32.390
+a realm that actually is full of very
+intricate and complex, difficult pieces.
+
+41
+00:02:32.390 --> 00:02:34.810
+But of course there's also
+the popular repertoire.
+
+42
+00:02:34.810 --> 00:02:35.430
+So.
+
+43
+00:02:35.430 --> 00:02:36.720
+>> Very cool.
+Thank you.
+
+44
+00:02:36.720 --> 00:02:38.350
+And Craig what do you think?
+
+45
+00:02:38.350 --> 00:02:41.380
+>> I think the one instrument
+I would not start with
+
+46
+00:02:41.380 --> 00:02:43.670
+is the violin [LAUGH] and the cello.
+
+47
+00:02:43.670 --> 00:02:44.720
+These are really hard.
+
+48
+00:02:44.720 --> 00:02:46.320
+These string instruments are so hard.
+
+49
+00:02:46.320 --> 00:02:47.210
+How do I know?
+
+50
+00:02:47.210 --> 00:02:48.690
+From painful experience.
+
+51
+00:02:48.690 --> 00:02:50.960
+Two of my four children,
+one studied violin for
+
+52
+00:02:50.960 --> 00:02:53.610
+12 years, one studied cello for 12 years.
+
+53
+00:02:53.610 --> 00:02:57.030
+The parent really has to stand
+with them and help them and
+
+54
+00:02:57.030 --> 00:03:00.030
+encourage them, go to the lessons,
+practice with them.
+
+55
+00:03:00.030 --> 00:03:05.350
+So unless you have genie looking over
+your shoulder, or a parent close
+
+56
+00:03:05.350 --> 00:03:10.990
+at hand I recommend, as James ultimately
+did, either the guitar or the piano.
+
+57
+00:03:10.990 --> 00:03:14.240
+Now, pianos are large, and
+they can be very expensive.
+
+58
+00:03:14.240 --> 00:03:15.584
+But nowadays, we have the beauty of
+
+59
+00:03:15.584 --> 00:03:16.779
+[MUSIC]
+
+60
+00:03:16.779 --> 00:03:18.881
+this synthesizer.
+
+61
+00:03:18.881 --> 00:03:21.560
+A sort of, electronic piano,
+if you want to.
+
+62
+00:03:21.560 --> 00:03:25.520
+They're much less expensive,
+they fit in a smaller space.
+
+63
+00:03:25.520 --> 00:03:28.640
+So my recommendation would be, you
+start out with something that gives you
+
+64
+00:03:28.640 --> 00:03:31.910
+satisfaction immediately because you play
+a certain number of notes [SOUND] and
+
+65
+00:03:31.910 --> 00:03:34.832
+you get a, a perfect sound without
+having to worry about intonation or
+
+66
+00:03:34.832 --> 00:03:36.739
+hand positioning or all,
+this kind of thing.
+
+67
+00:03:36.739 --> 00:03:40.417
+And not that expensive,
+and you can encompass it
+
+68
+00:03:40.417 --> 00:03:45.240
+more readily in whatever physical
+space that you, you have at hand.
+
+69
+00:03:45.240 --> 00:03:45.800
+>> Very nice.
+
+70
+00:03:45.800 --> 00:03:46.800
+Well, there you have it, Hawk.
+
+71
+00:03:46.800 --> 00:03:48.905
+You don't have to start
+with a recorder like I did.
+
+72
+00:03:48.905 --> 00:03:50.210
+>> [LAUGH]
+>> You have fun instruments to
+
+73
+00:03:50.210 --> 00:03:51.020
+choose from.
+
+74
+00:03:51.020 --> 00:03:52.640
+All right.
+
+75
+00:03:52.640 --> 00:03:58.940
+So moving right along, we have a question
+from Thomas, or Tomas Mejernick.
+
+76
+00:03:58.940 --> 00:04:03.280
+And he asks, Professor Wright,
+what is your favorite song and why?
+
+77
+00:04:03.280 --> 00:04:05.270
+And James, you can feel free to share too.
+
+78
+00:04:07.050 --> 00:04:09.730
+>> Well Melissa and Thomas, Tomas, whoo.
+
+79
+00:04:10.730 --> 00:04:14.380
+This is one of those really
+difficult questions.
+
+80
+00:04:14.380 --> 00:04:17.463
+I feel like any time I give an answer,
+I immediately regret it and-
+
+81
+00:04:17.463 --> 00:04:18.846
+>> [LAUGH].
+>> Feel very guilty for
+
+82
+00:04:18.846 --> 00:04:22.150
+all the other pieces or
+songs out there that I love.
+
+83
+00:04:22.150 --> 00:04:25.990
+So what I think I'll do is
+I'll probably tell you one or
+
+84
+00:04:25.990 --> 00:04:30.590
+two pieces that I've been listening
+to recently that I've really enjoyed.
+
+85
+00:04:30.590 --> 00:04:33.250
+U, either getting to know or returning to.
+
+86
+00:04:33.250 --> 00:04:37.520
+And the first is the piano
+quintet by Shostakovich,
+
+87
+00:04:37.520 --> 00:04:41.000
+the Russian composer Dmitri Shostakovich.
+
+88
+00:04:41.000 --> 00:04:46.680
+It's a, it's a powerful work for
+string quartet which would be two violins,
+
+89
+00:04:46.680 --> 00:04:50.680
+a viola and a cello as well as the piano.
+
+90
+00:04:50.680 --> 00:04:54.230
+And it's, it's a,
+it's a really really amazing piece.
+
+91
+00:04:54.230 --> 00:05:01.920
+It's a very emotional, it's very powerful
+it has moments both of great drama and,
+
+92
+00:05:01.920 --> 00:05:06.690
+as well as kind of a playfulness, but
+
+93
+00:05:06.690 --> 00:05:11.840
+there's also kind of a,
+a deep angst in the piece.
+
+94
+00:05:11.840 --> 00:05:13.850
+It just really traverses a lot of the,
+
+95
+00:05:13.850 --> 00:05:17.910
+kind of, great emotions that
+can be captured in music.
+
+96
+00:05:17.910 --> 00:05:18.480
+>> Yeah.
+
+97
+00:05:18.480 --> 00:05:19.050
+>> So that, yeah,
+
+98
+00:05:19.050 --> 00:05:21.040
+that's, that's kind of one that I've
+been listening to a lot recently.
+
+99
+00:05:22.080 --> 00:05:23.530
+>> Thanks for sharing.
+
+100
+00:05:23.530 --> 00:05:25.520
+>> James said and, and Tomas or
+
+101
+00:05:25.520 --> 00:05:31.280
+Thomas said a song but James answered
+with a piece of instrumental music.
+
+102
+00:05:31.280 --> 00:05:34.410
+Which brings up the question,
+What is a song?
+
+103
+00:05:34.410 --> 00:05:35.460
+Well if we,
+
+104
+00:05:35.460 --> 00:05:40.400
+we generally around the world use term
+song to indicate any piece of music.
+
+105
+00:05:40.400 --> 00:05:44.770
+I suppose strictly speaking we should
+just stick with song as a term for
+
+106
+00:05:44.770 --> 00:05:46.520
+pieces that have lyrics.
+
+107
+00:05:46.520 --> 00:05:51.470
+So if we're talking about my
+favorite songs our learners
+
+108
+00:05:51.470 --> 00:05:54.870
+maybe horrified to know that I think,
+well this is a beautiful song.
+
+109
+00:05:54.870 --> 00:05:58.740
+We're going to play a really gorgeous
+song for you today by Schubert.
+
+110
+00:05:58.740 --> 00:06:00.850
+But if you were to ask me
+what are your favorite songs,
+
+111
+00:06:00.850 --> 00:06:04.880
+I would say Adele's Rolling in the Deep,
+would be one of them.
+
+112
+00:06:04.880 --> 00:06:09.550
+Hotel California, by the Eagles would be
+another and maybe my all time favorite,
+
+113
+00:06:09.550 --> 00:06:12.321
+again you'll be shocked, and
+I'll probably be, be fired by saying-
+
+114
+00:06:12.321 --> 00:06:13.002
+>> [LAUGH].
+
+115
+00:06:13.002 --> 00:06:16.335
+>> saying this, is the City of
+New Orleans by Arlo Guthrie.
+
+116
+00:06:16.335 --> 00:06:20.680
+Which brings up, and we use a little
+bit of that earlier in our course.
+
+117
+00:06:20.680 --> 00:06:24.460
+And it brings up a very interesting
+issue because, as a youth,
+
+118
+00:06:24.460 --> 00:06:27.380
+I would be schlepped back and
+forth between the east coast and
+
+119
+00:06:27.380 --> 00:06:29.850
+the midwest of the United States,
+crossing that area.
+
+120
+00:06:29.850 --> 00:06:34.790
+Going out to the farm fields of Iowa,
+where my mother had come from, and
+
+121
+00:06:34.790 --> 00:06:38.970
+my grandparents had farms out there.
+
+122
+00:06:38.970 --> 00:06:43.440
+So it's, acco, but what this, the point
+that I'm going to here is the following.
+
+123
+00:06:43.440 --> 00:06:48.560
+That, when we listen to any piece of
+music, whether its James' Shostakovich or
+
+124
+00:06:48.560 --> 00:06:53.340
+my City of New Orleans, the thing that
+really drives that I think often times is
+
+125
+00:06:53.340 --> 00:06:57.640
+not just the sound, its the memories
+that you have associated with it.
+
+126
+00:06:57.640 --> 00:07:00.690
+We tend to think of music being
+compartmentalized over here,
+
+127
+00:07:00.690 --> 00:07:04.490
+we have sound here, we have memory here,
+we have emotion over here.
+
+128
+00:07:04.490 --> 00:07:06.330
+That's not the way it works in the brain.
+
+129
+00:07:06.330 --> 00:07:09.290
+What happens is that it's this mosaic and
+
+130
+00:07:09.290 --> 00:07:12.630
+you have these associations
+you acquire instantaneously.
+
+131
+00:07:12.630 --> 00:07:16.570
+So we really can't separate out
+the musical experience from
+
+132
+00:07:16.570 --> 00:07:19.540
+the personal experience,
+they are there together.
+
+133
+00:07:19.540 --> 00:07:22.520
+So I say, what is your,
+what's the most moving song for you?
+
+134
+00:07:22.520 --> 00:07:24.490
+What's the most music, moving piece?
+
+135
+00:07:24.490 --> 00:07:28.270
+Well, that's why I think I like these,
+these particular sounds.
+
+136
+00:07:28.270 --> 00:07:32.250
+It's because all of the memories
+that flood in at the same time.
+
+137
+00:07:32.250 --> 00:07:33.260
+>> Very nice.
+Thank you.
+
+138
+00:07:33.260 --> 00:07:34.707
+All right.
+
+139
+00:07:34.707 --> 00:07:37.650
+Let's see what we have next.
+
+140
+00:07:37.650 --> 00:07:39.280
+We have Nicole Butt.
+
+141
+00:07:39.280 --> 00:07:44.610
+She says I am still confused about
+the intervals, interval ratios.
+
+142
+00:07:44.610 --> 00:07:48.130
+I understand that if you double a string
+length, you will get a pitch that is an,
+
+143
+00:07:48.130 --> 00:07:51.155
+is one octave higher
+than the original pitch.
+
+144
+00:07:51.155 --> 00:07:53.540
+I.e.
+
+145
+00:07:53.540 --> 00:07:55.700
+C to the next C on the piano.
+
+146
+00:07:55.700 --> 00:07:58.000
+I do not understand what a fifth is, or
+
+147
+00:07:58.000 --> 00:08:01.610
+how that interval relates
+to the keys of a piano.
+
+148
+00:08:01.610 --> 00:08:03.810
+>> So before James takes it, this one.
+
+149
+00:08:03.810 --> 00:08:06.230
+Because he's got the fiddle there and
+he should answer.
+
+150
+00:08:06.230 --> 00:08:08.080
+If if was it Nicole?
+
+151
+00:08:08.080 --> 00:08:08.880
+>> Nicole, yes.
+
+152
+00:08:08.880 --> 00:08:11.675
+>> Right, if Nicole is confused,
+so are we.
+
+153
+00:08:11.675 --> 00:08:13.300
+>> [LAUGH]
+>> In, in some ways.
+
+154
+00:08:13.300 --> 00:08:15.280
+It's tricky, it's difficult to explain.
+
+155
+00:08:15.280 --> 00:08:16.615
+A lot of things in music,
+
+156
+00:08:16.615 --> 00:08:18.680
+>> [COUGH]
+>> are kind of counterintuitive and
+
+157
+00:08:18.680 --> 00:08:20.790
+difficult to explain but
+we'll do, do our best.
+
+158
+00:08:20.790 --> 00:08:23.000
+And I think James is going to maybe he's-
+
+159
+00:08:23.000 --> 00:08:24.360
+>> All right.
+>> I see his fiddle there.
+
+160
+00:08:24.360 --> 00:08:26.030
+So he may be able to help us.
+
+161
+00:08:26.030 --> 00:08:29.420
+>> Well Nicole so
+actually if you have a string length,
+
+162
+00:08:29.420 --> 00:08:32.635
+let's say let's just go with
+this open string here, A.
+
+163
+00:08:32.635 --> 00:08:37.087
+[SOUND] Then I'll go,
+I'll move my hand up here and
+
+164
+00:08:37.087 --> 00:08:41.120
+play another A that'll
+be an octave higher.
+
+165
+00:08:41.120 --> 00:08:46.989
+[SOUND] You see that by putting
+my finger down here I've actually
+
+166
+00:08:46.989 --> 00:08:52.426
+made the length of this string
+now half of what it use to be.
+
+167
+00:08:52.426 --> 00:08:56.985
+because it use to just resonate without
+anything touching the string, so
+
+168
+00:08:56.985 --> 00:08:58.880
+it was just the full length.
+
+169
+00:08:58.880 --> 00:08:59.600
+And now.
+
+170
+00:08:59.600 --> 00:09:03.387
+[MUSIC]
+
+171
+00:09:03.387 --> 00:09:09.210
+So by putting my finger here, I've stopped
+this half of a string from vibrating.
+
+172
+00:09:09.210 --> 00:09:11.890
+So now it's just vibrating
+from here to the end.
+
+173
+00:09:11.890 --> 00:09:15.820
+So actually the string length is
+now half and the octave, well,
+
+174
+00:09:15.820 --> 00:09:19.170
+we went from an A to an octave higher A.
+
+175
+00:09:19.170 --> 00:09:25.080
+So the string length being halved,
+made the sound go higher by an octave.
+
+176
+00:09:25.080 --> 00:09:26.810
+But in a more general sense,
+
+177
+00:09:26.810 --> 00:09:31.590
+intervals are the difference between
+one pitch and another pitch.
+
+178
+00:09:31.590 --> 00:09:35.780
+So if we say, for
+instance in our musical alphabet is A, B,
+
+179
+00:09:35.780 --> 00:09:41.210
+C, D, E, F, G,
+if we say the interval of a fifth.
+
+180
+00:09:41.210 --> 00:09:44.600
+What we may, what we mean,
+broadly speaking,
+
+181
+00:09:44.600 --> 00:09:50.470
+is the interval between one note and
+five pitch excuse me, five pitches away.
+
+182
+00:09:50.470 --> 00:09:54.370
+So A, so
+a fifth away would be one A B C D E.
+
+183
+00:09:55.410 --> 00:09:57.710
+So A to E is a fifth.
+
+184
+00:09:57.710 --> 00:10:00.700
+So a second would be A to B.
+
+185
+00:10:00.700 --> 00:10:02.860
+And a third A to C and so on.
+
+186
+00:10:04.120 --> 00:10:04.970
+>> Yeah.
+
+187
+00:10:04.970 --> 00:10:05.690
+That's good.
+
+188
+00:10:05.690 --> 00:10:12.290
+Maybe if we could even James'
+excellent explanation.
+
+189
+00:10:12.290 --> 00:10:15.830
+But you do see that it is complicated
+by looking at the keyboard.
+
+190
+00:10:15.830 --> 00:10:18.020
+We may have a,
+a camera on the keyboard here.
+
+191
+00:10:18.020 --> 00:10:19.396
+So if we have, we,
+
+192
+00:10:19.396 --> 00:10:24.747
+we can have intervals that play
+sequentially, one after the other.
+
+193
+00:10:24.747 --> 00:10:25.411
+[MUSIC]
+
+194
+00:10:25.411 --> 00:10:27.317
+So here's a big interval,
+this is the octave.
+
+195
+00:10:27.317 --> 00:10:29.343
+Now I'm playing on a synthesizer but
+
+196
+00:10:29.343 --> 00:10:32.669
+you have to understand that
+what we have here is a just a,
+
+197
+00:10:32.669 --> 00:10:37.258
+a technological replication of string
+lengths, just as with James's violin.
+
+198
+00:10:37.258 --> 00:10:38.604
+So here's [SOUND] one string and
+
+199
+00:10:38.604 --> 00:10:40.788
+here's the string [SOUND]
+twice as long down here.
+
+200
+00:10:40.788 --> 00:10:41.628
+So we can see it.
+
+201
+00:10:41.628 --> 00:10:43.632
+This is a fairly large [SOUND] leap.
+
+202
+00:10:43.632 --> 00:10:46.262
+It's a fairly large interval,
+it's an octave,
+
+203
+00:10:46.262 --> 00:10:49.495
+it spans eight letter names as James said.
+
+204
+00:10:49.495 --> 00:10:51.340
+Nicole referenced the fifth.
+
+205
+00:10:51.340 --> 00:10:52.850
+Well let's just go up five.
+
+206
+00:10:52.850 --> 00:10:56.770
+So I'm going to take, we could start on A,
+it's the simplest way of doing it,
+
+207
+00:10:56.770 --> 00:11:01.830
+and I'll use C-sharp to
+stay in the major scale.
+
+208
+00:11:01.830 --> 00:11:02.879
+A1 [SOUND], here's A, B [SOUND],
+C [SOUND], D [SOUND], E [SOUND].
+
+209
+00:11:02.879 --> 00:11:03.979
+[MUSIC]
+One, two,
+
+210
+00:11:03.979 --> 00:11:07.380
+three, four, five spend five letter names.
+
+211
+00:11:07.380 --> 00:11:09.660
+We have a fifth in that fashion.
+
+212
+00:11:09.660 --> 00:11:13.170
+They sounds sort of open maybe
+a little bit bland if we wanted to
+
+213
+00:11:13.170 --> 00:11:16.305
+spand a shorted intervalt.
+
+214
+00:11:16.305 --> 00:11:19.210
+[SOUND] We could play them sequencialy we
+can play them together than we get one,
+
+215
+00:11:19.210 --> 00:11:20.291
+two, three.
+
+216
+00:11:20.291 --> 00:11:22.261
+The third sounds lovely.
+
+217
+00:11:22.261 --> 00:11:24.471
+If we want to, reverse that a little bit.
+
+218
+00:11:24.471 --> 00:11:26.579
+[MUSIC]
+One, two, three, four, five, six.
+
+219
+00:11:26.579 --> 00:11:27.613
+We get a sixth.
+
+220
+00:11:27.613 --> 00:11:29.911
+[MUSIC]
+That also sounds lovely.
+
+221
+00:11:29.911 --> 00:11:31.075
+Interval of the second.
+
+222
+00:11:31.075 --> 00:11:32.281
+[MUSIC]
+Just one, two.
+
+223
+00:11:32.281 --> 00:11:33.498
+Well it sounds like a great idea.
+
+224
+00:11:33.498 --> 00:11:34.450
+[MUSIC]
+But when you put
+
+225
+00:11:34.450 --> 00:11:36.420
+them together they're sort of dissonant.
+
+226
+00:11:36.420 --> 00:11:39.040
+That's the close together second, and
+
+227
+00:11:39.040 --> 00:11:41.058
+because they tend to be close
+together they are dissonant.
+
+228
+00:11:41.058 --> 00:11:42.363
+>> Mm-hm.
+
+229
+00:11:42.363 --> 00:11:44.680
+Thank you.
+
+230
+00:11:44.680 --> 00:11:46.800
+I hope that clears everything up for
+you, Nicole.
+
+231
+00:11:46.800 --> 00:11:51.470
+All right and we have another question.
+
+232
+00:11:51.470 --> 00:11:53.300
+A more, another clarifying question.
+
+233
+00:11:53.300 --> 00:11:58.650
+I would appreciate some clarification
+on how to recognize modulation.
+
+234
+00:11:58.650 --> 00:12:02.790
+How do we know when the music
+has switched to a different key?
+
+235
+00:12:02.790 --> 00:12:05.380
+Says Cory Stress, Stresinger.
+
+236
+00:12:05.380 --> 00:12:07.775
+And he also says, this is a great course.
+
+237
+00:12:07.775 --> 00:12:11.725
+>> [LAUGH] it, it's funny we get,
+why don't you give us an easy question?
+
+238
+00:12:11.725 --> 00:12:12.888
+[CROSSTALK].
+>> [LAUGH].
+
+239
+00:12:12.888 --> 00:12:16.830
+>> And this one is an easy one to answer,
+but it's hard to hear.
+
+240
+00:12:16.830 --> 00:12:18.450
+It's really hard to hear.
+
+241
+00:12:18.450 --> 00:12:19.920
+And when I go to concerts,
+
+242
+00:12:19.920 --> 00:12:25.800
+I can genuinely speaking sometimes
+here the modulation is happening.
+
+243
+00:12:25.800 --> 00:12:29.810
+And I'm not absolutely sure that this
+should be the, the most important thing in
+
+244
+00:12:29.810 --> 00:12:32.800
+one's listening experience,
+it's sort of in the background.
+
+245
+00:12:32.800 --> 00:12:37.500
+It's maybe a graduate level question or
+graduate level experience.
+
+246
+00:12:37.500 --> 00:12:39.660
+This whole business of modulation.
+
+247
+00:12:39.660 --> 00:12:43.040
+I think one can enjoy music and
+experience it with,
+
+248
+00:12:43.040 --> 00:12:47.670
+to its fullest without necessarily
+knowing that it was a modulation.
+
+249
+00:12:47.670 --> 00:12:53.190
+But let's stick with the question here,
+and a modulation is just a change of key.
+
+250
+00:12:53.190 --> 00:12:58.350
+I think even Schoenberg said it's sort
+of like a change of musical scenery.
+
+251
+00:12:58.350 --> 00:13:00.450
+Well, we're going to change the scenery.
+
+252
+00:13:00.450 --> 00:13:02.430
+Now, I, I may have done this, and
+
+253
+00:13:02.430 --> 00:13:07.230
+we may have done this very briefly,
+but let's review modulation.
+
+254
+00:13:07.230 --> 00:13:10.270
+We can a modulation
+means you're somewhere.
+
+255
+00:13:10.270 --> 00:13:13.450
+You're established in the territory,
+a tonal territory.
+
+256
+00:13:13.450 --> 00:13:15.890
+So we're going to establish
+the tonal territory.
+
+257
+00:13:15.890 --> 00:13:18.024
+I like to work with C because
+it has no sharps and flats.
+
+258
+00:13:18.024 --> 00:13:25.992
+[MUSIC]
+
+259
+00:13:25.992 --> 00:13:30.891
+So there we are, firmly here in C, but
+supposing we wanted to move somewhere,
+
+260
+00:13:30.891 --> 00:13:35.197
+well then what you do is you take
+a note that's not part of the scale and
+
+261
+00:13:35.197 --> 00:13:36.251
+you inflect it.
+
+262
+00:13:36.251 --> 00:13:38.015
+[MUSIC]
+
+263
+00:13:38.015 --> 00:13:38.958
+Okay, so we were here.
+
+264
+00:13:38.958 --> 00:13:39.929
+[MUSIC]
+And then suddenly,
+
+265
+00:13:39.929 --> 00:13:40.894
+we're going to add this note.
+
+266
+00:13:40.894 --> 00:13:43.949
+And then that takes us over to here.
+
+267
+00:13:43.949 --> 00:13:46.537
+And then a composer would be quick to
+
+268
+00:13:46.537 --> 00:13:53.449
+[MUSIC]
+
+269
+00:13:53.449 --> 00:13:55.670
+to establish that as a new, tonality.
+
+270
+00:13:55.670 --> 00:13:59.340
+So now we've traveled to a new land,
+a new tonal land.
+
+271
+00:13:59.340 --> 00:14:02.246
+But after awhile we play there and
+maybe that gets boring.
+
+272
+00:14:02.246 --> 00:14:05.627
+[MUSIC]
+
+273
+00:14:05.627 --> 00:14:09.028
+And maybe we need another change
+of scenery so here we sit.
+
+274
+00:14:09.028 --> 00:14:16.784
+[MUSIC]
+
+275
+00:14:16.784 --> 00:14:19.966
+We've established another
+territory over there.
+
+276
+00:14:19.966 --> 00:14:23.065
+They happen quickly in, in music.
+
+277
+00:14:23.065 --> 00:14:25.990
+There is a moment of inflection which,
+oh that was nice.
+
+278
+00:14:27.120 --> 00:14:31.650
+I'm not sure that knowing, oh gee, that
+was a modulation, helps us all that much.
+
+279
+00:14:31.650 --> 00:14:34.620
+But technically, that's what's
+going on through the modulation.
+
+280
+00:14:34.620 --> 00:14:35.180
+>> Okay.
+
+281
+00:14:35.180 --> 00:14:38.440
+Do you have anything to add, James?
+
+282
+00:14:38.440 --> 00:14:43.120
+>> I think that that's that's, that's a
+very good introduction to how to kind of,
+
+283
+00:14:43.120 --> 00:14:45.190
+basically hear modulations.
+
+284
+00:14:45.190 --> 00:14:48.550
+One thing that comes to mind is that.
+
+285
+00:14:48.550 --> 00:14:49.745
+In a lot of pop songs.
+
+286
+00:14:49.745 --> 00:14:51.880
+>> Mm-hm.
+>> Sometimes towards the end
+
+287
+00:14:51.880 --> 00:14:56.910
+you might actually hear
+that there's rise in,
+
+288
+00:14:56.910 --> 00:15:00.900
+in the, in the pitch and in,
+in pretty much in the entire song.
+
+289
+00:15:00.900 --> 00:15:04.400
+Sometimes by a half step,
+sometimes by a whole step.
+
+290
+00:15:04.400 --> 00:15:07.850
+The distinction between those two is
+not what's necessarily important, for
+
+291
+00:15:07.850 --> 00:15:08.990
+this, moment.
+
+292
+00:15:08.990 --> 00:15:13.870
+But, when you hear the pitch
+kind of rising and
+
+293
+00:15:13.870 --> 00:15:15.670
+you hear all the music around it kind of,
+
+294
+00:15:15.670 --> 00:15:21.720
+almost, feeling like it went up,
+we often call that a pump up modulation.
+
+295
+00:15:21.720 --> 00:15:27.070
+And it, it feels like the music is getting
+more intense and it feels like the energy
+
+296
+00:15:27.070 --> 00:15:32.000
+has has risen simply by all of the music
+and the melody, the vocal melody all
+
+297
+00:15:32.000 --> 00:15:35.460
+moving up by that same interval,
+either a half step or a whole step.
+
+298
+00:15:35.460 --> 00:15:40.790
+So that's actually another really easy
+kind of moment to hear as a modulation and
+
+299
+00:15:40.790 --> 00:15:43.200
+it often happens towards
+the end of pop songs.
+
+300
+00:15:43.200 --> 00:15:44.660
+When, if it does happen at all.
+
+301
+00:15:44.660 --> 00:15:45.420
+>> Oh, good to know.
+I know I'll,
+
+302
+00:15:45.420 --> 00:15:46.510
+I'll be on the lookout for those.
+
+303
+00:15:46.510 --> 00:15:49.065
+>> Yeah, usually that, that's usually
+where they're running out of gas.
+
+304
+00:15:49.065 --> 00:15:51.740
+[LAUGH] In other words they've got
+this great idea, you've milked it for
+
+305
+00:15:51.740 --> 00:15:53.460
+three minutes, we have no more ideas.
+
+306
+00:15:53.460 --> 00:15:54.160
+What are we going to do?
+
+307
+00:15:54.160 --> 00:15:57.070
+My gosh, we gotta fill this track up.
+
+308
+00:15:57.070 --> 00:15:58.400
+Oh, let's pump it up.
+
+309
+00:15:58.400 --> 00:15:59.020
+>> Yes.
+>> And, and, and
+
+310
+00:15:59.020 --> 00:16:01.080
+energize it just,
+I never heard that before.
+
+311
+00:16:01.080 --> 00:16:02.200
+Pump up modulation.
+
+312
+00:16:02.200 --> 00:16:02.830
+>> Yeah.
+>> That's cool.
+
+313
+00:16:02.830 --> 00:16:03.770
+>> I never heard it either.
+
+314
+00:16:03.770 --> 00:16:04.300
+Good to know.
+
+315
+00:16:05.440 --> 00:16:09.850
+All right, and our last question
+was posted by an anonymous user.
+
+316
+00:16:09.850 --> 00:16:12.100
+It says, thank you for a great course.
+
+317
+00:16:12.100 --> 00:16:16.910
+I have a question about overtones,
+specifically in barbershop singing.
+
+318
+00:16:16.910 --> 00:16:20.380
+Which overtone am I hearing
+when I hear that ring or
+
+319
+00:16:20.380 --> 00:16:24.890
+extra voice in an a capella barbershop,
+and why?
+
+320
+00:16:24.890 --> 00:16:27.820
+Is it always the tonic, or
+is it sometimes the fifth?
+
+321
+00:16:29.920 --> 00:16:31.760
+>> I think, if I could take this one,
+
+322
+00:16:31.760 --> 00:16:34.660
+I don't know I, and I have never,
+eh, sung barbershop.
+
+323
+00:16:34.660 --> 00:16:36.740
+Eh, I don't, actually I have, but
+
+324
+00:16:36.740 --> 00:16:40.505
+it was so long ago that I
+forgot now that I ever did.
+
+325
+00:16:40.505 --> 00:16:41.864
+[LAUGH] I suspect what you're hearing
+
+326
+00:16:41.864 --> 00:16:42.517
+[MUSIC]
+
+327
+00:16:42.517 --> 00:16:45.523
+let's say we have a,
+we have an end of the song that goes here.
+
+328
+00:16:45.523 --> 00:16:46.054
+[MUSIC]
+I
+
+329
+00:16:46.054 --> 00:16:48.518
+suspect what you're hearing
+is this kind of sound.
+
+330
+00:16:48.518 --> 00:16:49.621
+[MUSIC]
+
+331
+00:16:49.621 --> 00:16:51.750
+Very faintly up above there.
+
+332
+00:16:51.750 --> 00:16:54.180
+It's probably the fifth degree.
+
+333
+00:16:54.180 --> 00:16:56.870
+I hear this a lot, actually,
+in orchestral scores and
+
+334
+00:16:56.870 --> 00:17:01.940
+James is an orchestral player
+with the EF Symphony Orchestra.
+
+335
+00:17:01.940 --> 00:17:05.640
+And oftentimes,
+it's the brasses that are sitting there,
+
+336
+00:17:05.640 --> 00:17:09.660
+you'll have a horn I'm just sort of
+sitting up where the basic tone,
+
+337
+00:17:09.660 --> 00:17:12.570
+bam, is up here, and
+James is probably down here.
+
+338
+00:17:12.570 --> 00:17:14.648
+Maybe a trumpet or a french horn is
+
+339
+00:17:14.648 --> 00:17:16.449
+[MUSIC].
+
+340
+00:17:16.449 --> 00:17:17.400
+sort of faintly.
+
+341
+00:17:17.400 --> 00:17:19.450
+And that's what I hear as a ring.
+
+342
+00:17:20.550 --> 00:17:23.680
+And James thought about that?
+
+343
+00:17:23.680 --> 00:17:29.720
+>> No I think that In barber shop singing
+I don't have a ton of experience with it.
+
+344
+00:17:29.720 --> 00:17:34.370
+But I think it's very possible that what
+you're hearing is either the overtone of
+
+345
+00:17:34.370 --> 00:17:37.299
+the, of the fifth, like, Craig said.
+
+346
+00:17:37.299 --> 00:17:42.530
+And maybe depending on what part of
+the harmony you you are singing,
+
+347
+00:17:42.530 --> 00:17:44.130
+you may also be hearing pentatonic.
+
+348
+00:17:45.140 --> 00:17:49.760
+Sometimes you may be just hearing the note
+that you're singing kind of resonating,
+
+349
+00:17:49.760 --> 00:17:53.370
+not only throughout your body, but,
+you know, kind of out and into, out in
+
+350
+00:17:53.370 --> 00:17:57.915
+the air just because you're producing
+this, so much of the sound yourself.
+
+351
+00:17:57.915 --> 00:17:58.750
+>> Mm-hm.
+
+352
+00:17:58.750 --> 00:18:01.290
+That what you're hearing may
+just be some sort of, kind of,
+
+353
+00:18:01.290 --> 00:18:05.110
+amplification of your own pitch, but,
+unfortunately, I don't really have much
+
+354
+00:18:05.110 --> 00:18:10.830
+more expertise in, in barbershops,
+and, to really say more beyond that.
+
+355
+00:18:10.830 --> 00:18:12.010
+>> Fair enough.
+
+356
+00:18:12.010 --> 00:18:15.380
+All right.
+Well, do you guys want to play a little
+
+357
+00:18:15.380 --> 00:18:20.520
+tune to close this office hour session or
+add anything else?
+
+358
+00:18:20.520 --> 00:18:22.200
+>> Well there is one thing
+that we want to talk about.
+
+359
+00:18:22.200 --> 00:18:23.370
+>> Yeah.
+Sure.
+
+360
+00:18:23.370 --> 00:18:25.605
+>> That we think might be helpful.
+
+361
+00:18:25.605 --> 00:18:26.430
+>> Mm-hm.
+
+362
+00:18:26.430 --> 00:18:29.224
+>> For our students with respect to meter.
+
+363
+00:18:29.224 --> 00:18:30.806
+>> Mm-hm.
+
+364
+00:18:30.806 --> 00:18:34.770
+>> So one of the tricky
+things about meter is that
+
+365
+00:18:36.330 --> 00:18:42.400
+the meter is not always present in
+the most visceral sense in music.
+
+366
+00:18:44.160 --> 00:18:47.690
+The Satie the Gymnopédies by Erik Satie.
+
+367
+00:18:47.690 --> 00:18:49.525
+>> Mm.
+>> That was used in one of the videos.
+
+368
+00:18:49.525 --> 00:18:51.560
+>> Mm-hm.
+>> Is actually a great example of a,
+
+369
+00:18:51.560 --> 00:18:55.130
+of a piece that has meter for sure.
+
+370
+00:18:55.130 --> 00:19:00.615
+But its not always ever present
+kind of on the palpable horizon.
+
+371
+00:19:00.615 --> 00:19:03.030
+>> Mm-hm
+>> And we'll get to that in a moment.
+
+372
+00:19:03.030 --> 00:19:05.810
+But the, the important thing to
+remember about meter is that it
+
+373
+00:19:05.810 --> 00:19:07.980
+organizes musical time.
+
+374
+00:19:07.980 --> 00:19:11.250
+In regular time we organize music,
+I'm sorry.
+
+375
+00:19:11.250 --> 00:19:16.370
+We organize time with seconds and
+minutes in hours and, and so forth.
+
+376
+00:19:16.370 --> 00:19:22.262
+But in musical time, we usually organize
+things in terms of beat patterns.
+
+377
+00:19:22.262 --> 00:19:23.295
+>> Mm-hm.
+
+378
+00:19:23.295 --> 00:19:27.500
+>> So, you're not necessarily going to
+hear the beat always when you listen to
+
+379
+00:19:27.500 --> 00:19:29.490
+a piece of music but
+
+380
+00:19:29.490 --> 00:19:32.890
+there will be underlying beat
+structure to help organize the time.
+
+381
+00:19:32.890 --> 00:19:40.030
+So for instance, in duple meter,
+we'll have one, two, one, two, one, two.
+
+382
+00:19:40.030 --> 00:19:41.575
+Even if the music isn't doing that.
+
+383
+00:19:41.575 --> 00:19:42.386
+>> Mm-hm.
+
+384
+00:19:42.386 --> 00:19:50.018
+>> For instance, let's think of goodness,
+let's think of a tune.
+
+385
+00:19:50.018 --> 00:19:52.457
+How about let's do Happy Birthday.
+
+386
+00:19:52.457 --> 00:19:53.153
+You ready?
+
+387
+00:19:53.153 --> 00:20:00.146
+So
+[MUSIC]
+
+388
+00:20:00.146 --> 00:20:00.912
+So this is three.
+
+389
+00:20:00.912 --> 00:20:09.584
+[MUSIC]
+
+390
+00:20:09.584 --> 00:20:14.010
+So Happy Birthday is actually
+an interesting decision on my part to use.
+
+391
+00:20:14.010 --> 00:20:18.770
+Because it actually starts with a pick up,
+which basically means it's kind of
+
+392
+00:20:18.770 --> 00:20:23.920
+an additional amount of music
+that precedes our downbeat.
+
+393
+00:20:23.920 --> 00:20:31.800
+Happy birthday to you,
+happy birthday to you.
+
+394
+00:20:31.800 --> 00:20:35.520
+So, do you see how every time I move
+my arm like this, this is a beat.
+
+395
+00:20:35.520 --> 00:20:39.150
+This is how we conduct triple meters,
+so one, two three.
+
+396
+00:20:39.150 --> 00:20:41.730
+One, two, three.
+
+397
+00:20:41.730 --> 00:20:45.240
+So happy birthday to you.
+
+398
+00:20:46.780 --> 00:20:48.050
+Happy birthday to you.
+
+399
+00:20:50.210 --> 00:20:52.840
+So even when we're saying you,
+you is being held.
+
+400
+00:20:52.840 --> 00:20:54.220
+>> Right.
+>> When you just say you,
+
+401
+00:20:54.220 --> 00:20:55.500
+we don't go you, you.
+
+402
+00:20:55.500 --> 00:20:57.455
+>> Right.
+>> Happy birthday-
+
+403
+00:20:57.455 --> 00:20:58.895
+>> [LAUGH]
+>> To you, you.
+
+404
+00:20:58.895 --> 00:21:00.610
+>> [LAUGH]
+>> But even though we're holding-
+
+405
+00:21:00.610 --> 00:21:01.550
+>> Right.
+>> You.
+
+406
+00:21:01.550 --> 00:21:03.275
+Through two beats its there.
+
+407
+00:21:03.275 --> 00:21:04.600
+>> Mm-hm.
+>> It's always there that's why
+
+408
+00:21:04.600 --> 00:21:06.525
+we have this kind of triple meter.
+
+409
+00:21:06.525 --> 00:21:07.630
+>> Mm-hm.
+>> The beats are always there in
+
+410
+00:21:07.630 --> 00:21:08.380
+the background.
+
+411
+00:21:08.380 --> 00:21:11.210
+So maybe the way that we should
+quickly demonstrate this
+
+412
+00:21:11.210 --> 00:21:16.650
+is by playing maybe an except
+of two triple meter pieces.
+
+413
+00:21:16.650 --> 00:21:17.490
+>> Okay.
+
+414
+00:21:17.490 --> 00:21:22.630
+>> That way we can get a feel for how how
+the beats are operating in the background.
+
+415
+00:21:23.840 --> 00:21:28.330
+So this is one that we were
+playing as folks were coming in,
+
+416
+00:21:28.330 --> 00:21:34.130
+because it does have a very clear pattern,
+where we know
+
+417
+00:21:34.130 --> 00:21:40.525
+where the beat is by this sort
+of accompaniment underneath.
+
+418
+00:21:40.525 --> 00:21:43.640
+One, two, three, one, two, three.
+
+419
+00:21:43.640 --> 00:21:46.710
+And I love this piece because you
+get this strong downbeat there.
+
+420
+00:21:46.710 --> 00:21:50.110
+That really sets up the meter
+as James was saying.
+
+421
+00:21:50.110 --> 00:21:54.400
+And then we subdivide it with
+other beats and then we have hits.
+
+422
+00:21:54.400 --> 00:21:55.510
+I like to think of them as hits.
+
+423
+00:21:55.510 --> 00:21:57.820
+So hit, hit, hit, hit.
+
+424
+00:21:57.820 --> 00:21:59.330
+Hit, hit, hit, hit.
+
+425
+00:21:59.330 --> 00:22:00.760
+Hit, hit, hit, hit.
+
+426
+00:22:00.760 --> 00:22:04.410
+With a big hit coming on the down beat and
+all the little ones after.
+
+427
+00:22:04.410 --> 00:22:08.530
+>> And all those little hits, hits or
+articulations, that's rhythm.
+
+428
+00:22:08.530 --> 00:22:10.080
+Those are the surface rhythms.
+
+429
+00:22:10.080 --> 00:22:14.590
+So the meter is the underlying kind
+of organizing beat pattern and
+
+430
+00:22:14.590 --> 00:22:16.340
+that will, that's stable.
+
+431
+00:22:16.340 --> 00:22:18.150
+Its like seconds.
+
+432
+00:22:18.150 --> 00:22:22.660
+And then well there's not necessarily
+a good analogue in the kind of minutes and
+
+433
+00:22:22.660 --> 00:22:27.680
+seconds metaphor here for the rhythm.
+
+434
+00:22:27.680 --> 00:22:29.560
+But the rhythm obviously is,
+
+435
+00:22:29.560 --> 00:22:34.420
+it is the kind of surface articulations
+that make the music itself.
+
+436
+00:22:34.420 --> 00:22:35.820
+>> Okay, so, a quick take on this.
+
+437
+00:22:35.820 --> 00:22:36.478
+Here's our downbeat.
+
+438
+00:22:36.478 --> 00:22:37.952
+[MUSIC]
+
+439
+00:22:37.952 --> 00:22:42.969
+Two, three, two, three.
+
+440
+00:22:42.969 --> 00:22:44.557
+Two, three.
+
+441
+00:22:44.557 --> 00:22:54.557
+[MUSIC].
+
+442
+00:24:06.246 --> 00:24:07.338
+>> Very beautiful.
+
+443
+00:24:07.338 --> 00:24:08.081
+[LAUGH].
+
+444
+00:24:08.081 --> 00:24:12.690
+>> So that's I think a very
+straightforward example of triple meter.
+
+445
+00:24:12.690 --> 00:24:15.332
+And you can kind of here
+that because especially in
+
+446
+00:24:15.332 --> 00:24:18.369
+the left handed piano a very
+regular you know movement.
+
+447
+00:24:18.369 --> 00:24:19.053
+You know, of.
+
+448
+00:24:19.053 --> 00:24:22.665
+[MUSIC]
+
+449
+00:24:22.665 --> 00:24:28.167
+So next I think Craig will play
+the Gymnopedie again which is by
+
+450
+00:24:28.167 --> 00:24:32.937
+Erik Satie and this one is
+a little bit more tricky because
+
+451
+00:24:32.937 --> 00:24:37.827
+especially in the beginning you're
+only going to hear two hits.
+
+452
+00:24:37.827 --> 00:24:38.663
+It's just going to be
+
+453
+00:24:38.663 --> 00:24:46.025
+[MUSIC]
+
+454
+00:24:46.025 --> 00:24:51.257
+So when you have only two hits it might
+feel like there are only two beats
+
+455
+00:24:51.257 --> 00:24:57.350
+happening, but actually underlying
+those two hits are three steady beats.
+
+456
+00:24:57.350 --> 00:25:01.220
+So what I'll do is I'll conduct
+as we're hearing this so
+
+457
+00:25:01.220 --> 00:25:05.453
+that you can hear all of those beats
+in conjunction with just the two hits.
+
+458
+00:25:05.453 --> 00:25:08.481
+So, maybe.
+
+459
+00:25:08.481 --> 00:25:10.025
+[LAUGH] That's it.
+
+460
+00:25:10.025 --> 00:25:20.025
+[MUSIC]
+
+461
+00:26:05.276 --> 00:26:06.054
+Yeah.
+
+462
+00:26:06.054 --> 00:26:07.018
+>> Great.
+
+463
+00:26:07.018 --> 00:26:09.356
+Well, no one asked what
+my favorite song was, but
+
+464
+00:26:09.356 --> 00:26:11.200
+that happens to be one of my favorites.
+
+465
+00:26:11.200 --> 00:26:12.453
+>> Oh, it's a lovely piece.
+
+466
+00:26:12.453 --> 00:26:16.790
+>> Yes.
+Nobody's ever heard much of Eric Satie.
+
+467
+00:26:16.790 --> 00:26:19.720
+I guess he's a sort of
+one-hit wonder in a sense.
+
+468
+00:26:19.720 --> 00:26:23.645
+Occasionally that happens where
+it's like the inventor of velcro-
+
+469
+00:26:23.645 --> 00:26:24.840
+>> [LAUGH]
+>> or something,
+
+470
+00:26:24.840 --> 00:26:29.540
+well I have one great idea, and everybody
+loves this piece by Eric Satie but
+
+471
+00:26:29.540 --> 00:26:32.780
+you ask, who wrote it, who's Eric Satie.
+
+472
+00:26:32.780 --> 00:26:34.080
+>> Right, right.
+
+473
+00:26:34.080 --> 00:26:35.990
+Yeah, it is a beautiful song for sure.
+
+474
+00:26:35.990 --> 00:26:36.510
+>> Yeah.
+
+475
+00:26:36.510 --> 00:26:37.010
+>> All right.
+
+476
+00:26:38.440 --> 00:26:39.160
+Well anything else?
+
+477
+00:26:40.260 --> 00:26:42.450
+>> No, I think that'll do it for,
+for today.
+
+478
+00:26:42.450 --> 00:26:43.510
+We've got two more-
+
+479
+00:26:43.510 --> 00:26:44.920
+>> Yes.
+>> Weeks of classes and
+
+480
+00:26:44.920 --> 00:26:48.242
+then we'll come back for
+another exciting office hour and
+
+481
+00:26:48.242 --> 00:26:51.305
+we'll get to play our office
+hour with jingle again-
+
+482
+00:26:51.305 --> 00:26:52.015
+>> Yes!
+
+483
+00:26:52.015 --> 00:26:53.290
+>> [LAUGH].
+>> That's our favorite
+
+484
+00:26:53.290 --> 00:27:03.290
+[MUSIC]
+
+485
+00:27:11.641 --> 00:27:16.291
+[APPLAUSE]
+
+486
+00:27:16.291 --> 00:27:26.291
+[MUSIC]

@@ -1,0 +1,744 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:01.080
+Hello.
+
+2
+00:00:01.080 --> 00:00:05.700
+Well, we're now finished filming
+all 24 hours of our course,
+
+3
+00:00:05.700 --> 00:00:08.090
+introduction to classical music.
+
+4
+00:00:08.090 --> 00:00:11.000
+And you might be wondering,
+what you might be getting into,
+
+5
+00:00:11.000 --> 00:00:14.110
+what kind of experience
+you might have here?
+
+6
+00:00:14.110 --> 00:00:15.140
+Well let's take a preview.
+
+7
+00:00:16.410 --> 00:00:20.890
+The first six sessions tell us why
+music matters, why it moves us so
+
+8
+00:00:20.890 --> 00:00:24.910
+much, why so
+many people listen to it every day.
+
+9
+00:00:24.910 --> 00:00:29.370
+And they provide the technical
+information that you'll need to
+
+10
+00:00:29.370 --> 00:00:31.690
+fully enjoy classical music.
+
+11
+00:00:31.690 --> 00:00:36.060
+By technical information,
+I mean what we'll need to know about.
+
+12
+00:00:36.060 --> 00:00:38.720
+How music works, at it's most basic level.
+
+13
+00:00:38.720 --> 00:00:41.320
+About rhythm, melody, harmony, and so on.
+
+14
+00:00:42.380 --> 00:00:45.180
+How technical is this going to get?
+
+15
+00:00:45.180 --> 00:00:50.540
+Well, here's a sample moment from
+our discussion of rhythm in music.
+
+16
+00:00:50.540 --> 00:00:52.504
+Rhythm is a bit more complicated.
+
+17
+00:00:52.504 --> 00:00:58.072
+Rhythm is the organization of time
+into compelling patterns of long and
+
+18
+00:00:58.072 --> 00:01:00.280
+short sounds.
+
+19
+00:01:00.280 --> 00:01:05.030
+Here's a famous melody, one created
+by the French composer Maurice Ravel
+
+20
+00:01:05.030 --> 00:01:09.030
+from his ballet Bolero of 1928.
+
+21
+00:01:11.010 --> 00:01:16.720
+There is a tune, a succession of higher
+and lower pitches shown vertically,
+
+22
+00:01:16.720 --> 00:01:20.480
+and there is a rhythm
+moving left to right.
+
+23
+00:01:20.480 --> 00:01:25.130
+Now lets strip away pitch and
+leave the rhythm alone and
+
+24
+00:01:25.130 --> 00:01:28.650
+it will look like this as
+we see on our next slide.
+
+25
+00:01:30.980 --> 00:01:36.010
+But what we hear first at the beginning
+of Bolero, is not the melody but
+
+26
+00:01:36.010 --> 00:01:37.160
+another rhythm.
+
+27
+00:01:37.160 --> 00:01:39.420
+This one.
+
+28
+00:01:39.420 --> 00:01:42.200
+And it's played by a snare drum.
+
+29
+00:01:42.200 --> 00:01:45.590
+Now, a snare drum, as you may know,
+has no particular pitch.
+
+30
+00:01:45.590 --> 00:01:47.930
+It just plays a rhythm, pure rhythm.
+
+31
+00:01:47.930 --> 00:01:52.320
+I'll tap it.
+
+32
+00:01:52.320 --> 00:02:01.212
+[MUSIC]
+
+33
+00:02:01.212 --> 00:02:04.110
+And that's all the snare drum player does.
+
+34
+00:02:04.110 --> 00:02:05.046
+So he better write that pattern.
+
+35
+00:02:05.046 --> 00:02:09.129
+He's going to be doing it for
+the next 14 and a half minutes.
+
+36
+00:02:09.129 --> 00:02:11.681
+Now, beneath the snare drum pattern,
+
+37
+00:02:11.681 --> 00:02:16.730
+low strange play, another rhythm that
+provides something of a harmony.
+
+38
+00:02:16.730 --> 00:02:18.310
+Let's take a look at that now.
+
+39
+00:02:18.310 --> 00:02:25.182
+[NOISE]
+And
+
+40
+00:02:25.182 --> 00:02:30.337
+so on.
+
+41
+00:02:30.337 --> 00:02:36.390
+Eventually the flute enters,
+adding the enchanting melody.
+
+42
+00:02:36.390 --> 00:02:39.390
+So now we have three
+rhythms operating here.
+
+43
+00:02:39.390 --> 00:02:41.680
+One in the flute,
+which also carries the melody.
+
+44
+00:02:41.680 --> 00:02:44.690
+One in the snare drum,
+which is a simple or pure rhythm.
+
+45
+00:02:44.690 --> 00:02:46.060
+And the third in the bass,
+
+46
+00:02:46.060 --> 00:02:50.420
+which is providing something of
+a harmony below the melody up above.
+
+47
+00:02:50.420 --> 00:02:54.550
+So we have three rhythms
+that are staying within and
+
+48
+00:02:54.550 --> 00:02:57.650
+emphasizing the structure of the measure.
+
+49
+00:02:57.650 --> 00:03:00.750
+Three different rhythms
+sounding simultaneously,
+
+50
+00:03:00.750 --> 00:03:03.720
+three different patterns of longs and
+shorts.
+
+51
+00:03:03.720 --> 00:03:07.820
+Having learned about the elements
+of music, what makes music work?
+
+52
+00:03:07.820 --> 00:03:12.430
+We'll move on now to listening to
+great pieces of classical music.
+
+53
+00:03:12.430 --> 00:03:16.100
+Starting with Gregorian Chant and
+working up to the Renaissance, and
+
+54
+00:03:16.100 --> 00:03:18.350
+then the Baroque Era.
+
+55
+00:03:18.350 --> 00:03:22.320
+Here's a sample from the Baroque Era,
+featuring music by Handel,
+
+56
+00:03:22.320 --> 00:03:26.740
+the composer of course of
+the oratorical Messiah.
+
+57
+00:03:26.740 --> 00:03:33.440
+But here, we're discussing the music for
+the royal fireworks, again by Handel.
+
+58
+00:03:33.440 --> 00:03:39.720
+Combined with them is the English group,
+The Orchestra of the Age of Enlightenment.
+
+59
+00:03:39.720 --> 00:03:41.004
+I'll comment as we go.
+
+60
+00:03:41.004 --> 00:03:44.920
+[MUSIC]
+
+61
+00:03:44.920 --> 00:03:51.504
+Starting with replica of natural trumpets,
+no vowels
+
+62
+00:03:51.504 --> 00:03:53.754
+[MUSIC]
+
+63
+00:03:53.754 --> 00:03:57.004
+So here's the minuette.
+
+64
+00:03:57.004 --> 00:04:02.500
+Notice that the tempo of
+course is much slower.
+
+65
+00:04:02.500 --> 00:04:10.110
+I would say that the playing
+is a lot cleaner.
+
+66
+00:04:10.110 --> 00:04:16.838
+[MUSIC]
+
+67
+00:04:16.838 --> 00:04:21.370
+This was a difficult technique,
+this clarino playing from the Baroque era.
+
+68
+00:04:21.370 --> 00:04:22.629
+Only specialists could do it.
+
+69
+00:04:22.629 --> 00:04:25.129
+[MUSIC]
+
+70
+00:04:25.129 --> 00:04:27.000
+Obviously overdo the oboes.
+
+71
+00:04:29.700 --> 00:04:34.720
+See the old oboe, in the middle of the
+orchestra, authentic performance practice.
+
+72
+00:04:34.720 --> 00:04:37.390
+What we don't see here is a conductor.
+
+73
+00:04:37.390 --> 00:04:41.010
+The first violinist is conducting,
+and that's correct.
+
+74
+00:04:41.010 --> 00:04:44.690
+There were no conductors standing and
+waving batons in those days.
+
+75
+00:04:44.690 --> 00:04:46.950
+So the first violinist is conducting here.
+
+76
+00:04:46.950 --> 00:04:47.638
+And he's very, very,
+
+77
+00:04:47.638 --> 00:04:51.422
+[MUSIC]
+
+78
+00:04:51.422 --> 00:04:52.837
+The natural horns.
+
+79
+00:04:52.837 --> 00:05:02.837
+[MUSIC]
+
+80
+00:05:38.879 --> 00:05:40.462
+Pretty impressive.
+
+81
+00:05:40.462 --> 00:05:43.420
+Next we go on to a discussion
+of classical music,
+
+82
+00:05:43.420 --> 00:05:46.100
+with Haydn and specially with Mozart.
+
+83
+00:05:46.100 --> 00:05:50.440
+But here, let's look at a clip
+demonstrating how classical Beethoven
+
+84
+00:05:50.440 --> 00:05:55.880
+constructs a symphony, specifically
+his Eroica, or heroic, symphony.
+
+85
+00:05:57.190 --> 00:06:01.509
+During most of these years, Beethoven was
+living here, at the Pascualati House,
+
+86
+00:06:02.550 --> 00:06:07.050
+which happened to be on
+the ramparts of the old fortress.
+
+87
+00:06:07.050 --> 00:06:11.960
+So, when Napoleon unleashed his hundreds
+of cannons at the old city fortresses,
+
+88
+00:06:12.960 --> 00:06:16.100
+well, Beethoven had a ringside seat.
+
+89
+00:06:16.100 --> 00:06:20.370
+And although he was nearly deaf,
+he was terrified by the sound and
+
+90
+00:06:20.370 --> 00:06:22.260
+the destruction of the cannons.
+
+91
+00:06:23.470 --> 00:06:25.870
+Well anyway,
+enough about Beethoven and the poem.
+
+92
+00:06:25.870 --> 00:06:27.020
+Let's get to the music.
+
+93
+00:06:27.020 --> 00:06:32.670
+To do so, we'll start with the opening
+sounds of the Eroica Symphony.
+
+94
+00:06:32.670 --> 00:06:35.090
+Let's see what's revolutionary about it.
+
+95
+00:06:35.090 --> 00:06:38.230
+As we listen, you identify three things,
+
+96
+00:06:38.230 --> 00:06:43.280
+three ways in which this music
+differs from Mozart of Haydn.
+
+97
+00:06:43.280 --> 00:06:47.460
+What is Beethoven doing here that Mozart,
+for example, would not have done?
+
+98
+00:06:49.350 --> 00:06:52.451
+And here again we're going to employ
+a video made by Steve Melanosky.
+
+99
+00:06:54.650 --> 00:06:56.660
+Two hammer strokes right at the beginning.
+
+100
+00:06:58.120 --> 00:07:01.005
+Then the theme appears, not in the first
+violins like we would expect but
+
+101
+00:07:01.005 --> 00:07:01.629
+in the cellos.
+
+102
+00:07:01.629 --> 00:07:12.046
+[MUSIC]
+
+103
+00:07:12.046 --> 00:07:14.030
+Now the woodwinds take over the theme.
+
+104
+00:07:16.550 --> 00:07:18.087
+Takes it up a step.
+
+105
+00:07:18.087 --> 00:07:19.890
+Up another step.
+
+106
+00:07:19.890 --> 00:07:21.087
+[MUSIC]
+
+107
+00:07:21.087 --> 00:07:24.380
+And now we get ready for
+
+108
+00:07:24.380 --> 00:07:29.587
+some heavy-handed syncopation.
+
+109
+00:07:29.587 --> 00:07:32.587
+[MUSIC]
+More syncopation.
+
+110
+00:07:32.587 --> 00:07:33.879
+Now, everybody in!
+
+111
+00:07:33.879 --> 00:07:35.172
+Full orchestra.
+
+112
+00:07:35.172 --> 00:07:45.172
+[MUSIC]
+
+113
+00:07:47.587 --> 00:07:52.118
+From a live classroom,
+to an online mode of delivery,
+
+114
+00:07:52.118 --> 00:07:55.565
+such as we have in our online course here,
+
+115
+00:07:55.565 --> 00:08:01.430
+we knew we had to take music and
+make it less audio and more video.
+
+116
+00:08:01.430 --> 00:08:06.920
+We knew that the Internet is not
+good at delivering quality sound.
+
+117
+00:08:06.920 --> 00:08:11.760
+But it is good at letting us see how
+things work, even see how music works,
+
+118
+00:08:13.220 --> 00:08:17.140
+hear animations, and diagrams,
+and video clips of all sorts.
+
+119
+00:08:17.140 --> 00:08:20.944
+They all allow us to understand,
+to demystify,
+
+120
+00:08:20.944 --> 00:08:28.020
+classical music as we see here in famous
+passage from a song of Gustave Mahler.
+
+121
+00:08:28.020 --> 00:08:29.970
+As the text at the end says,
+
+122
+00:08:29.970 --> 00:08:35.074
+I have escaped into a solitary
+world of love and music.
+
+123
+00:08:35.074 --> 00:08:38.129
+A love for music.
+
+124
+00:08:38.129 --> 00:08:44.780
+[FOREIGN] In my love and
+in my song, my music song.
+
+125
+00:08:44.780 --> 00:08:48.921
+You're being a metaphor for all music.
+
+126
+00:08:48.921 --> 00:08:57.067
+Let's
+
+127
+00:08:57.067 --> 00:09:05.213
+listen
+
+128
+00:09:05.213 --> 00:09:13.358
+to this
+
+129
+00:09:13.358 --> 00:09:23.358
+beautiful
+
+130
+00:09:25.577 --> 00:09:35.080
+piece as
+
+131
+00:09:35.080 --> 00:09:45.080
+conducted
+
+132
+00:09:47.299 --> 00:09:50.014
+by
+
+133
+00:09:50.014 --> 00:09:59.518
+Claudio
+
+134
+00:09:59.518 --> 00:10:07.664
+Abbado
+
+135
+00:10:07.664 --> 00:10:11.737
+and
+
+136
+00:10:11.737 --> 00:10:19.882
+sung by
+
+137
+00:10:19.882 --> 00:10:30.743
+Magalina
+
+138
+00:10:30.743 --> 00:10:40.254
+Piscina
+
+139
+00:10:40.254 --> 00:10:50.254
+[MUSIC]
+
+140
+00:11:00.920 --> 00:11:03.950
+Finally we've tried to be creative.
+
+141
+00:11:03.950 --> 00:11:10.220
+And in so doing, sometimes we came close
+to creating out own new art forms.
+
+142
+00:11:10.220 --> 00:11:13.640
+As you see in this last
+clip from a discussion
+
+143
+00:11:13.640 --> 00:11:16.990
+of the post-modernist
+music of Phillip Glass.
+
+144
+00:11:18.470 --> 00:11:20.837
+So we have just this repeated note and
+then this,
+
+145
+00:11:20.837 --> 00:11:27.180
+[MUSIC]
+
+146
+00:11:27.180 --> 00:11:32.504
+And then, slowly,
+seventh chord will be introduced.
+
+147
+00:11:32.504 --> 00:11:34.232
+[MUSIC]
+And then another one, but
+
+148
+00:11:34.232 --> 00:11:35.880
+another one going against it.
+
+149
+00:11:35.880 --> 00:11:37.421
+[MUSIC]
+
+150
+00:11:37.421 --> 00:11:40.280
+Opposite direction,
+one coming down as one goes up.
+
+151
+00:11:40.280 --> 00:11:43.462
+[MUSIC]
+
+152
+00:11:43.462 --> 00:11:49.047
+And then he would double the tempo and
+run them both up and down simultaneously.
+
+153
+00:11:49.047 --> 00:11:51.420
+[MUSIC]
+
+154
+00:11:51.420 --> 00:11:54.850
+In that fashion.
+
+155
+00:11:54.850 --> 00:11:59.608
+So let's hear a bit of the original
+composition flow by Phillip Glass, and
+
+156
+00:11:59.608 --> 00:12:04.291
+as we do so, as these arpeggios are going
+up and down against themselves,
+
+157
+00:12:04.291 --> 00:12:06.500
+we'll look at this visual image.
+
+158
+00:12:06.500 --> 00:12:12.100
+Each of these squares is
+a rectangle against itself.
+
+159
+00:12:12.100 --> 00:12:18.711
+You can study these rectangles or
+these mirror images as the music plays.
+
+160
+00:12:18.711 --> 00:12:26.719
+[MUSIC]
+
+161
+00:12:53.875 --> 00:13:00.568
+Okay maybe we'll
+
+162
+00:13:00.568 --> 00:13:04.586
+pause it.
+
+163
+00:13:04.586 --> 00:13:08.616
+>> I hope you can see that we've tried
+to be creative with our introduction to
+
+164
+00:13:08.616 --> 00:13:12.157
+classical music,
+we've tried to have some fun.
+
+165
+00:13:12.157 --> 00:13:14.147
+For as we know in music, or
+
+166
+00:13:14.147 --> 00:13:19.477
+anything else in life, we all are more
+engaged when we're having fun.

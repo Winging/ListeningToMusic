@@ -1,0 +1,192 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.914
+[MUSIC]
+
+2
+00:00:06.914 --> 00:00:08.030
+How do you create a great melody?
+
+3
+00:00:08.030 --> 00:00:10.380
+Well if I knew I wouldn't be sitting here.
+
+4
+00:00:10.380 --> 00:00:14.100
+I'd be on Broadway composing musicals or
+in Hollywood writing films,
+
+5
+00:00:14.100 --> 00:00:17.370
+just shaking great music out of my sleeve.
+
+6
+00:00:17.370 --> 00:00:19.990
+Indeed, no one knows what
+makes a great melody.
+
+7
+00:00:19.990 --> 00:00:21.710
+There's no magic formula.
+
+8
+00:00:21.710 --> 00:00:24.650
+And because of the number
+of pitches in the scale and
+
+9
+00:00:24.650 --> 00:00:27.040
+the many rhythms to which they can be set,
+
+10
+00:00:27.040 --> 00:00:30.530
+there's an almost limitless number
+of melodies that can be created.
+
+11
+00:00:31.690 --> 00:00:35.120
+Although there's no formula or recipe for
+
+12
+00:00:35.120 --> 00:00:39.619
+making a great melody, there are,
+however, some commonalities among them.
+
+13
+00:00:40.830 --> 00:00:43.460
+Almost all melodies in western music,
+
+14
+00:00:43.460 --> 00:00:47.590
+as we have said, are written in
+either a major or a minor mode.
+
+15
+00:00:48.720 --> 00:00:51.380
+All melodies have a sense of tonality,
+
+16
+00:00:51.380 --> 00:00:55.290
+they are organized around
+a primary pitch or tone.
+
+17
+00:00:55.290 --> 00:00:58.070
+That primary pitch is called the tonic.
+
+18
+00:00:58.070 --> 00:01:01.196
+The tonic is always the first
+note of the scale, and
+
+19
+00:01:01.196 --> 00:01:06.090
+because of octave duplication,
+it's also the last note of the scale.
+
+20
+00:01:06.090 --> 00:01:11.250
+We can go up to the tonic, or
+we can come down to the tonic.
+
+21
+00:01:11.250 --> 00:01:12.540
+Up to eight down to one.
+
+22
+00:01:12.540 --> 00:01:16.779
+Here's a melody going up to eight,
+an old Scottish folk song.
+
+23
+00:01:16.779 --> 00:01:23.610
+[MUSIC]
+
+24
+00:01:23.610 --> 00:01:27.440
+You hear it going up to eight, the tonic.
+
+25
+00:01:27.440 --> 00:01:30.591
+Here's a melody where we go down,
+down to the tonic.
+
+26
+00:01:30.591 --> 00:01:33.676
+[MUSIC]
+
+27
+00:01:33.676 --> 00:01:35.000
+So there we come down to the tonic.
+
+28
+00:01:37.250 --> 00:01:41.550
+When we make or we hear music,
+we hear the tonic.
+
+29
+00:01:41.550 --> 00:01:42.959
+Here's twinkle, twinkle.
+
+30
+00:01:42.959 --> 00:01:47.136
+[MUSIC]
+
+31
+00:01:47.136 --> 00:01:50.230
+And of course we can all
+sing that tonic pitch.
+
+32
+00:01:52.200 --> 00:01:53.990
+How is it that we feel or hear the tonic?
+
+33
+00:01:55.580 --> 00:02:00.472
+We do so because subconsciously, again,
+we are mapping a scale, either major or
+
+34
+00:02:00.472 --> 00:02:05.160
+minor as we listen and instinctively
+we know where we are in that scale.
+
+35
+00:02:05.160 --> 00:02:08.310
+And where it begins and
+where it ends, on the tonic.
+
+36
+00:02:08.310 --> 00:02:11.750
+All melodies end on the tonic,
+one way or another.
+
+37
+00:02:13.170 --> 00:02:17.542
+The word tonality, and the word key
+are used interchangeably in music.
+
+38
+00:02:17.542 --> 00:02:20.880
+I'm in the tonality of C,
+I'm in the key of C.
+
+39
+00:02:20.880 --> 00:02:25.060
+Doesn't matter which you choose,
+either way, you're using a scale, major or
+
+40
+00:02:25.060 --> 00:02:26.390
+minor, beginning on C.
+
+41
+00:02:27.430 --> 00:02:35.010
+So a scale, and a sense of the tonic of
+the scale create a sense of tonality,
+
+42
+00:02:35.010 --> 00:02:39.850
+a general context for pitch,
+a sonic landscape, if you will.

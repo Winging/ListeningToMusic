@@ -1,0 +1,674 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:29.864 --> 00:00:32.870
+Notice today I'm not playing the piano but
+the violin.
+
+3
+00:00:32.870 --> 00:00:35.290
+Haha, actually just kidding.
+
+4
+00:00:35.290 --> 00:00:36.320
+I don't really play the violin.
+
+5
+00:00:36.320 --> 00:00:38.910
+This is my daughter's violin.
+
+6
+00:00:38.910 --> 00:00:42.940
+But I did go to a lot of violin lessons
+during the 12 years that she studied it.
+
+7
+00:00:42.940 --> 00:00:47.310
+I am holding the violin because this
+session is devoted to tone color.
+
+8
+00:00:47.310 --> 00:00:48.850
+Primarily, the colors or
+
+9
+00:00:48.850 --> 00:00:52.980
+sounds of the instruments of
+the Western symphony orchestra.
+
+10
+00:00:52.980 --> 00:00:56.640
+The music we will be listening to and
+indeed music that we just heard,
+
+11
+00:00:56.640 --> 00:01:00.620
+was by Rossini, his William Tell Overture.
+
+12
+00:01:00.620 --> 00:01:04.130
+There are trumpet and
+french horns, and then violins.
+
+13
+00:01:05.540 --> 00:01:09.198
+Ever wonder why one instrument
+sounds differently than another?
+
+14
+00:01:09.198 --> 00:01:11.580
+Okay sure,
+they're made from different materials and
+
+15
+00:01:11.580 --> 00:01:15.760
+have different shapes, and
+that really is the answer.
+
+16
+00:01:15.760 --> 00:01:20.920
+But the sound coming out of these
+instruments is actually different.
+
+17
+00:01:20.920 --> 00:01:23.690
+It has to do with the acoustics of music,
+and
+
+18
+00:01:23.690 --> 00:01:26.880
+that's what I'd like to explore for
+a moment.
+
+19
+00:01:26.880 --> 00:01:32.660
+Let's go back to a topic that we broached
+in our first session, the overtone series.
+
+20
+00:01:32.660 --> 00:01:36.180
+Remember, when a column of air is
+vibrating within the chamber of
+
+21
+00:01:36.180 --> 00:01:41.130
+a musical instrument, inside a flute or
+trumpet, or a string is vibrating,
+
+22
+00:01:41.130 --> 00:01:45.790
+as on a violin,
+many subparts of that column or
+
+23
+00:01:45.790 --> 00:01:50.830
+that string are also vibrating,
+as we see in this diagram.
+
+24
+00:01:50.830 --> 00:01:54.440
+This shows the whole
+string vibrating in red,
+
+25
+00:01:54.440 --> 00:01:59.000
+halves of the string vibrating in blue,
+and thirds of it vibrating in green.
+
+26
+00:02:00.120 --> 00:02:05.630
+Now let's look at these same subsections
+in a different way, standing them upright.
+
+27
+00:02:05.630 --> 00:02:09.420
+The lowest pitch is on the left,
+that we call the fundamental.
+
+28
+00:02:09.420 --> 00:02:12.220
+That's the one that we actually hear,
+it's basic sound.
+
+29
+00:02:13.390 --> 00:02:18.780
+And the successively smaller sections
+of the string are to the right.
+
+30
+00:02:18.780 --> 00:02:20.050
+They're the overtones.
+
+31
+00:02:20.050 --> 00:02:25.690
+We hear them, but only very,
+very faintly, almost subconsciously.
+
+32
+00:02:25.690 --> 00:02:27.110
+Okay.
+Freeze that idea.
+
+33
+00:02:27.110 --> 00:02:31.980
+Because we're going to go, work in
+another concept, and that is volume.
+
+34
+00:02:33.470 --> 00:02:35.670
+All musical sounds have a pitch.
+
+35
+00:02:36.770 --> 00:02:42.550
+Also, sounds have a tone color,
+or timbre as it's called.
+
+36
+00:02:42.550 --> 00:02:45.720
+And they also have a volume, or loudness.
+
+37
+00:02:45.720 --> 00:02:50.920
+Let's think of pitch as sound waves
+operating horizontally, you have big sound
+
+38
+00:02:50.920 --> 00:02:56.280
+waves, which create low pitches, and you
+have small ones that create high pitches.
+
+39
+00:02:56.280 --> 00:03:00.790
+But let's focus on volume for
+just a moment.
+
+40
+00:03:00.790 --> 00:03:03.390
+We have these loud sounds and
+we have soft sounds.
+
+41
+00:03:04.560 --> 00:03:08.000
+These are usually displayed vertically.
+
+42
+00:03:08.000 --> 00:03:10.480
+Loud ones go way up or down.
+
+43
+00:03:10.480 --> 00:03:14.020
+Soft ones up or down just a little bit.
+
+44
+00:03:14.020 --> 00:03:18.770
+To see this, let's return to our
+Beethoven's Symphony Number Five, and
+
+45
+00:03:18.770 --> 00:03:23.490
+to the active listening guide that
+accompanies it at the website that you
+
+46
+00:03:23.490 --> 00:03:26.650
+may choose to accompany this course.
+
+47
+00:03:26.650 --> 00:03:30.490
+Here, we see a scale of amplitude,
+as it's called.
+
+48
+00:03:30.490 --> 00:03:34.930
+Amplitude is simply the measure
+of loudness, louds spike.
+
+49
+00:03:34.930 --> 00:03:40.388
+With soft sound,
+the needle doesn't move very much.
+
+50
+00:03:40.388 --> 00:03:50.388
+[MUSIC]
+
+51
+00:03:52.233 --> 00:03:56.937
+So watch the amplitude bars begin
+growing here, begin to expand.
+
+52
+00:03:56.937 --> 00:03:58.173
+[MUSIC]
+
+53
+00:03:58.173 --> 00:04:00.174
+Then control.
+
+54
+00:04:00.174 --> 00:04:02.743
+Expand with the loud sections.
+
+55
+00:04:02.743 --> 00:04:04.912
+Contract.
+
+56
+00:04:04.912 --> 00:04:09.100
+Low volume, but it's beginning to grow.
+
+57
+00:04:09.100 --> 00:04:11.840
+And you can hear this crescendo.
+
+58
+00:04:11.840 --> 00:04:16.957
+And you can indeed see this crescendo,
+because the amplitude bars increase.
+
+59
+00:04:16.957 --> 00:04:19.193
+[MUSIC]
+
+60
+00:04:19.193 --> 00:04:25.190
+Driving the final point of loudness and
+sudden disappearance of sound.
+
+61
+00:04:26.340 --> 00:04:30.450
+Okay, now let's combine these two ideas,
+pitch and volume.
+
+62
+00:04:30.450 --> 00:04:34.520
+But before we did do that,
+I need to say one more thing.
+
+63
+00:04:34.520 --> 00:04:39.870
+All musical instruments generate
+the same overtone series.
+
+64
+00:04:39.870 --> 00:04:43.020
+All overtones are halves of
+the fundamental thirds of
+
+65
+00:04:43.020 --> 00:04:46.580
+the fundamental fourths of
+the fundamental on down the line.
+
+66
+00:04:46.580 --> 00:04:51.580
+Again, we hear them only faintly,
+but each instrument, the trumpet,
+
+67
+00:04:51.580 --> 00:04:55.490
+the violin, the oboe, whatever,
+generates a different amplitude for
+
+68
+00:04:55.490 --> 00:04:58.590
+each of the overtones within the series.
+
+69
+00:04:58.590 --> 00:05:02.790
+The instruments have different patterns
+of amplitude and these different
+
+70
+00:05:02.790 --> 00:05:07.170
+patterns determine the difference
+in tone color of the instruments.
+
+71
+00:05:08.440 --> 00:05:12.850
+On the screen you see
+the diagram of a violin.
+
+72
+00:05:12.850 --> 00:05:16.060
+Shows the overtones for the violin.
+
+73
+00:05:16.060 --> 00:05:22.410
+Now, the vertical bars not only reflect
+the overtones moving left to right,
+
+74
+00:05:22.410 --> 00:05:28.470
+but also the loudness, the amplitude for
+the instrument of each overtone.
+
+75
+00:05:29.890 --> 00:05:34.610
+Notice as we proceed down through the
+overtones it's not a straight line decent.
+
+76
+00:05:34.610 --> 00:05:39.750
+Some of the overtones pop up quite loudly,
+and others are very quiet.
+
+77
+00:05:39.750 --> 00:05:42.140
+And it's this mixing of loud overtones and
+
+78
+00:05:42.140 --> 00:05:45.540
+soft overtones, yet all these are very,
+very quiet, mind you.
+
+79
+00:05:45.540 --> 00:05:49.710
+It's this mixing that creates
+a particular tone color or
+
+80
+00:05:49.710 --> 00:05:52.840
+timbre for the instrument,
+just like at Starbucks.
+
+81
+00:05:52.840 --> 00:05:57.280
+The coffee meister will mix a different
+blend of coffees from different regions of
+
+82
+00:05:57.280 --> 00:06:02.090
+the world to form a holiday blend or
+a bold, or whatever it might be.
+
+83
+00:06:02.090 --> 00:06:05.830
+So to here,
+we have different amplitudes of
+
+84
+00:06:05.830 --> 00:06:11.105
+the different overtones creating
+a distinctive tone color, or timbre.
+
+85
+00:06:12.450 --> 00:06:15.980
+Lets compare the overtone chart
+of a violin to that of a trumpet.
+
+86
+00:06:17.310 --> 00:06:18.490
+You can see that's different,
+
+87
+00:06:18.490 --> 00:06:22.100
+again here, violin is on top,
+trumpet is on the bottom.
+
+88
+00:06:24.580 --> 00:06:31.830
+Now watch a demonstration of how overtones
+work on a trumpet as they are added in.
+
+89
+00:06:31.830 --> 00:06:36.410
+My friend Ed Doering at the Rose Hulman
+Institute of Technology in Terre Haute,
+
+90
+00:06:36.410 --> 00:06:40.230
+Indiana created this and
+has allowed us to make use of it.
+
+91
+00:06:40.230 --> 00:06:45.050
+Remember, in the discussion here,
+frequency here refers to pitch,
+
+92
+00:06:45.050 --> 00:06:50.860
+amplitude to volume, and here, he uses
+the word partial to refer to overtone.
+
+93
+00:06:50.860 --> 00:06:55.300
+Musicians and scientists use the terms
+partial, a part of a string or part of
+
+94
+00:06:55.300 --> 00:07:01.500
+a column of air vibrating, and overtone,
+partial and overtone, interchangeably.
+
+95
+00:07:01.500 --> 00:07:06.590
+On this demonstration, zero is
+the fundamental, that's the sound we hear.
+
+96
+00:07:06.590 --> 00:07:10.370
+One the first overtone,
+two the second and so on.
+
+97
+00:07:10.370 --> 00:07:13.370
+Watch as this scientist
+creates the sound of
+
+98
+00:07:13.370 --> 00:07:18.172
+a trumpet in the lab by building
+up the overtone series.
+
+99
+00:07:18.172 --> 00:07:21.910
+>> Here's an illustration of this
+technique applied to a short burst on
+
+100
+00:07:21.910 --> 00:07:23.120
+a trumpet.
+
+101
+00:07:23.120 --> 00:07:28.980
+I'm indicating the frequency and
+amplitude trajectories, and then I can
+
+102
+00:07:28.980 --> 00:07:35.482
+by using the slider, add or
+subtract partials to build up the sound.
+
+103
+00:07:35.482 --> 00:07:37.340
+>> First [INAUDIBLE]?
+>> This is only with the first partial.
+
+104
+00:07:37.340 --> 00:07:42.690
+And then we can see
+the corresponding amplitude of our
+
+105
+00:07:42.690 --> 00:07:44.600
+sine domain signal quite nicely.
+
+106
+00:07:44.600 --> 00:07:48.571
+Here we see that the frequency
+has a little bit of a, a jump at
+
+107
+00:07:48.571 --> 00:07:54.141
+the beginning transient, but it's mostly
+[SOUND] the same frequency throughout.
+
+108
+00:07:54.141 --> 00:07:57.865
+So now I'm adding the next
+partials at a higher frequency.
+
+109
+00:07:57.865 --> 00:08:01.184
+[SOUND].
+
+110
+00:08:01.184 --> 00:08:06.576
+This is the next one yet, even higher
+frequency and as you look at the amplitude
+
+111
+00:08:06.576 --> 00:08:12.255
+you notice that the onset of the higher
+frequency partial is a little bit delayed.
+
+112
+00:08:12.255 --> 00:08:14.295
+[SOUND].
+
+113
+00:08:14.295 --> 00:08:16.650
+>> Now is he adding in all the overtones?
+
+114
+00:08:18.780 --> 00:08:22.590
+>> So again you see each of these higher
+frequency partials has a little bit of
+
+115
+00:08:22.590 --> 00:08:27.120
+a late entrance but
+then they also decay faster as well.
+
+116
+00:08:28.690 --> 00:08:29.410
+>> Pretty cool.
+
+117
+00:08:29.410 --> 00:08:31.800
+The more the engineer adds in overtones,
+
+118
+00:08:31.800 --> 00:08:36.370
+the more we come to realize the instrument
+in question is, in fact, a trumpet.
+
+119
+00:08:36.370 --> 00:08:40.660
+If he put them in using other proportions
+of loudness, he could make this sound
+
+120
+00:08:40.660 --> 00:08:45.590
+like a clarinet or an oboe, and that's
+what an electronic synthesizer does.
+
+121
+00:08:45.590 --> 00:08:47.790
+And that's what we have here.
+
+122
+00:08:47.790 --> 00:08:50.760
+On a synthesizer you can push a button and
+
+123
+00:08:50.760 --> 00:08:56.150
+program a particular amplitude series
+to set up the sound of the strings,
+
+124
+00:08:56.150 --> 00:09:01.210
+for example, and then hit a key and
+you get the sound of the instrument that
+
+125
+00:09:01.210 --> 00:09:04.880
+you've chosen, whatever instrument
+you want to have produced.
+
+126
+00:09:04.880 --> 00:09:08.030
+You have in effect the entire
+orchestra at your disposal.
+
+127
+00:09:08.030 --> 00:09:09.583
+Now let's see what I've got
+over here at the moment.
+
+128
+00:09:09.583 --> 00:09:10.418
+[MUSIC]
+
+129
+00:09:10.418 --> 00:09:15.623
+Okay, that's programmed with the overtone
+series of a modern grand piano.
+
+130
+00:09:15.623 --> 00:09:20.628
+Let's see if I push this button
+over ,here what do I get?
+
+131
+00:09:20.628 --> 00:09:21.362
+Who knows?
+
+132
+00:09:21.362 --> 00:09:23.064
+[MUSIC]
+
+133
+00:09:23.064 --> 00:09:24.932
+Some kind of electronic organ.
+
+134
+00:09:24.932 --> 00:09:26.033
+Let's try this one.
+
+135
+00:09:26.033 --> 00:09:28.035
+[MUSIC]
+
+136
+00:09:28.035 --> 00:09:35.410
+That's a string sound.
+
+137
+00:09:35.410 --> 00:09:38.279
+String orchestra.
+
+138
+00:09:38.279 --> 00:09:43.881
+To sum up, in music it's the amplitude or
+loudness of the various overtones
+
+139
+00:09:43.881 --> 00:09:49.222
+created by an instrument that produces
+a particular blend of sound, and
+
+140
+00:09:49.222 --> 00:09:54.920
+thus the distinctive tone color or
+the timbre of that instrument.
+
+141
+00:09:54.920 --> 00:10:00.335
+Miraculously our brain processes all
+of this complicated information about
+
+142
+00:10:00.335 --> 00:10:04.581
+overtones and amplitudes and
+tells us in a split second hey,
+
+143
+00:10:04.581 --> 00:10:09.677
+that's the sounds of a trumpet, or
+hey, that's the sound of a violin.

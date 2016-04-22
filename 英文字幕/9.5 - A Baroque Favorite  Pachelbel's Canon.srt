@@ -1,0 +1,375 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:13.135 --> 00:00:14.414
+Welcome back.
+
+3
+00:00:14.414 --> 00:00:17.903
+We've talked about the instruments
+that led the charge and
+
+4
+00:00:17.903 --> 00:00:21.120
+in fact led the change in baroque music.
+
+5
+00:00:21.120 --> 00:00:23.480
+Let's now focus on some pieces.
+
+6
+00:00:23.480 --> 00:00:26.930
+I've chosen two that you'll
+likely know very well.
+
+7
+00:00:26.930 --> 00:00:33.130
+The Cannon by Johann Pachelbel and
+The Spring Concerto of Antonio Vivaldi.
+
+8
+00:00:33.130 --> 00:00:35.220
+Let's start with the Pachelbel.
+
+9
+00:00:35.220 --> 00:00:37.120
+Second only to the bass line
+
+10
+00:00:39.020 --> 00:00:44.190
+of the blues the most famous bass line
+of all is that of the Pachelbel canon.
+
+11
+00:00:45.360 --> 00:00:52.080
+Like the blues bass, it's another ostinato
+bass, a bass that repeats over and over.
+
+12
+00:00:52.080 --> 00:00:54.460
+Well who was Johann Pachelbel?
+
+13
+00:00:54.460 --> 00:00:55.470
+He was an organist and
+
+14
+00:00:55.470 --> 00:00:59.730
+composer in south central Germany
+at the end of the 17th century.
+
+15
+00:00:59.730 --> 00:01:04.360
+Johann Christoph Bach was
+a pupil of Pachelbel.
+
+16
+00:01:04.360 --> 00:01:09.020
+And when young Johann Sebastian Bach's
+parents died and left him an orphan at
+
+17
+00:01:09.020 --> 00:01:13.930
+about the age of ten, eldest brother
+Johann Christoph became his guardian.
+
+18
+00:01:13.930 --> 00:01:17.569
+So there is a Pachelbel-Bach connection.
+
+19
+00:01:17.569 --> 00:01:22.957
+Anyway, Pachelbel composed
+an instrumental Canon in D Major.
+
+20
+00:01:22.957 --> 00:01:28.336
+And here you see the music of
+it we have the famous bass
+
+21
+00:01:28.336 --> 00:01:33.347
+line it's a underneath
+of eight pitches and
+
+22
+00:01:33.347 --> 00:01:39.581
+above those eight pitches
+a harmony is constructed fleshing
+
+23
+00:01:39.581 --> 00:01:46.691
+out the figured bass producing
+the basso continuo here's the bass.
+
+24
+00:01:46.691 --> 00:01:53.917
+[MUSIC]
+
+25
+00:01:53.917 --> 00:01:56.516
+And then here's how the keyboard
+player would realize that.
+
+26
+00:01:56.516 --> 00:02:07.443
+[MUSIC]
+
+27
+00:02:07.443 --> 00:02:10.888
+So that's the basso continuo
+playing throughout the piece and
+
+28
+00:02:10.888 --> 00:02:15.340
+basso, basso ostinato starting over and
+over again, going 28 times.
+
+29
+00:02:15.340 --> 00:02:21.880
+The odd thing is with the Pachelbel Canon,
+the odd thing is we don't hear the canon.
+
+30
+00:02:23.130 --> 00:02:25.334
+Let me play just a little
+bit of the canonic line.
+
+31
+00:02:25.334 --> 00:02:29.625
+[MUSIC]
+
+32
+00:02:29.625 --> 00:02:31.410
+And then another part comes in.
+
+33
+00:02:31.410 --> 00:02:36.390
+So we have a three part canon or
+a three part round.
+
+34
+00:02:36.390 --> 00:02:37.140
+But we don't hear it.
+
+35
+00:02:37.140 --> 00:02:38.130
+Why don't hear it?
+
+36
+00:02:38.130 --> 00:02:40.310
+At least we don't hear it literally.
+
+37
+00:02:40.310 --> 00:02:44.990
+We don't hear it because
+Pachelbel has orchestrated this
+
+38
+00:02:44.990 --> 00:02:47.940
+with all instruments
+being played by a violin.
+
+39
+00:02:47.940 --> 00:02:51.660
+So there's no separation by color here,
+there's no separation by timbre.
+
+40
+00:02:52.680 --> 00:02:54.470
+And they're all in the same range, so
+
+41
+00:02:54.470 --> 00:02:58.990
+there's no separation by range or
+frequency.
+
+42
+00:02:58.990 --> 00:03:03.310
+But here is a video of
+the Pachelbel Canon, created by,
+
+43
+00:03:03.310 --> 00:03:07.590
+actually by my friend Stephen Malinowski
+out in Richmond California.
+
+44
+00:03:07.590 --> 00:03:09.520
+And we're going to play this.
+
+45
+00:03:09.520 --> 00:03:11.968
+Let's start it up here now.
+
+46
+00:03:11.968 --> 00:03:14.663
+[MUSIC]
+
+47
+00:03:14.663 --> 00:03:16.325
+Good.
+
+48
+00:03:16.325 --> 00:03:20.459
+So we have the basso continuo,
+basso starting out.
+
+49
+00:03:20.459 --> 00:03:24.162
+And here comes the first violin,
+it's right down the scale.
+
+50
+00:03:24.162 --> 00:03:29.178
+[MUSIC]
+
+51
+00:03:29.178 --> 00:03:32.254
+Second violin just duplicating
+what the first had done.
+
+52
+00:03:32.254 --> 00:03:39.915
+[MUSIC]
+
+53
+00:03:39.915 --> 00:03:41.788
+Third violin come in.
+
+54
+00:03:41.788 --> 00:03:48.460
+And the first violins now playing quarter
+notes, dividing the half note into two.
+
+55
+00:03:48.460 --> 00:03:51.970
+Second violin picks up
+those quarter notes.
+
+56
+00:03:51.970 --> 00:03:53.053
+It's a little bit complicated.
+
+57
+00:03:53.053 --> 00:03:56.594
+What we hear is that ostinato
+bass chugging underneath.
+
+58
+00:03:56.594 --> 00:03:58.889
+[MUSIC]
+
+59
+00:03:58.889 --> 00:04:02.030
+It's hard to know that we've got around
+in here, it sounds like the music.
+
+60
+00:04:03.240 --> 00:04:05.730
+Now the first violin is
+leading out with eighth notes.
+
+61
+00:04:07.130 --> 00:04:10.810
+Second violin picks that up, gives
+the sense that the piece is going faster.
+
+62
+00:04:10.810 --> 00:04:12.210
+There's more activity.
+
+63
+00:04:12.210 --> 00:04:14.270
+It's actually not going faster.
+
+64
+00:04:14.270 --> 00:04:17.650
+The tempo is exactly the same,
+the tempo is rigid.
+
+65
+00:04:17.650 --> 00:04:20.700
+But psychologically,
+we perceive this as motion.
+
+66
+00:04:20.700 --> 00:04:21.325
+[MUSIC]
+
+67
+00:04:21.325 --> 00:04:24.930
+Increased motion.
+
+68
+00:04:24.930 --> 00:04:31.570
+Now the leader will jump a bit in
+counterpoint against those eighth notes.
+
+69
+00:04:31.570 --> 00:04:36.209
+And in a moment that leader will seem to
+be going even faster with the advent of
+
+70
+00:04:36.209 --> 00:04:37.165
+16th notes.
+
+71
+00:04:37.165 --> 00:04:39.863
+[MUSIC]
+
+72
+00:04:39.863 --> 00:04:42.728
+Second chorus picks up the 16th notes.
+
+73
+00:04:42.728 --> 00:04:51.367
+[MUSIC]
+
+74
+00:04:51.367 --> 00:04:53.500
+All right, let's phase it out here.
+
+75
+00:04:54.560 --> 00:05:00.330
+So again, although the tempo was
+the same with this particular piece,
+
+76
+00:05:00.330 --> 00:05:04.530
+the psychological effect
+of the piece is that it's
+
+77
+00:05:04.530 --> 00:05:08.880
+moving faster to build to a grand climax.
+
+78
+00:05:08.880 --> 00:05:13.070
+And I encourage you,
+encourage you now to go on and
+
+79
+00:05:13.070 --> 00:05:18.330
+pick this up with the full presentation
+by Steve Malinowski on YouTube.
+
+80
+00:05:19.350 --> 00:05:24.090
+So that's Mister Pachelbel,
+that's Mister Pachelbel.
+
+81
+00:05:24.090 --> 00:05:28.184
+Let's move on now,
+south across the Alps to Venice and
+
+82
+00:05:28.184 --> 00:05:32.019
+learn about
+Antonio Vivaldi's Spring Concerto.

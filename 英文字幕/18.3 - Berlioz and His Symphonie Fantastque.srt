@@ -1,0 +1,750 @@
+WEBVTT
+
+1
+00:00:00.984 --> 00:00:06.439
+[MUSIC]
+
+2
+00:00:06.439 --> 00:00:09.805
+Now we come to the iconic
+piece of program music,
+
+3
+00:00:09.805 --> 00:00:15.650
+something of a thunderbolt of program
+music, Berlioz's Symphonie fantastique.
+
+4
+00:00:16.790 --> 00:00:20.910
+Before we look at this work by Berlioz,
+let's discuss the various types, or
+
+5
+00:00:20.910 --> 00:00:25.570
+genres, of program music that we
+might experience in a concert hall.
+
+6
+00:00:25.570 --> 00:00:26.910
+We've listed them here on a slide.
+
+7
+00:00:28.630 --> 00:00:32.730
+As you can see, we have a tone poem,
+sometimes called symphonic poem,
+
+8
+00:00:32.730 --> 00:00:35.760
+a one movement piece for orchestra.
+
+9
+00:00:35.760 --> 00:00:39.870
+Actually, we've already experienced
+this beginning of our course,
+
+10
+00:00:39.870 --> 00:00:42.370
+Richard Strauss' Also sprach Zarathustra.
+
+11
+00:00:42.370 --> 00:00:43.430
+We could mention Romeo and
+
+12
+00:00:43.430 --> 00:00:47.290
+Juliet by Tchaikovsky,
+Night on Bald Mountain by Mussorgsky.
+
+13
+00:00:47.290 --> 00:00:50.012
+Then there is the genre
+of the program symphony,
+
+14
+00:00:50.012 --> 00:00:52.850
+a multi-movement composition for
+orchestra.
+
+15
+00:00:54.550 --> 00:00:59.260
+Symphonie fantastique, Berlioz, the Faust
+Symphony of Liszt, Sheherazade even,
+
+16
+00:00:59.260 --> 00:01:01.030
+perhaps, of Rimsky-Korsakov.
+
+17
+00:01:01.030 --> 00:01:04.950
+They would be all examples
+of the program symphony.
+
+18
+00:01:04.950 --> 00:01:10.100
+And finally the dramatic overture that
+could open an opera, or open a play,
+
+19
+00:01:10.100 --> 00:01:12.600
+or even open a festival.
+
+20
+00:01:12.600 --> 00:01:16.530
+They are, again,
+as with the tone poem, one movement.
+
+21
+00:01:16.530 --> 00:01:22.050
+The William Tell overture, for example,
+opens the opera of that name by Rossini.
+
+22
+00:01:22.050 --> 00:01:27.300
+The 1812 Overture of Tchaikovsky
+commemorated the opening
+
+23
+00:01:27.300 --> 00:01:32.752
+of a convocation in honor of that
+event in Russia in the 1860s.
+
+24
+00:01:32.752 --> 00:01:37.657
+And finally, of course, Midsummer Night's
+Dream, well, that's an overture by
+
+25
+00:01:37.657 --> 00:01:41.470
+Mendelssohn that opened a Shakespearean
+play of that same name.
+
+26
+00:01:42.650 --> 00:01:47.140
+Well, let's start with what's arguably
+the strangest and most bizarre example of
+
+27
+00:01:47.140 --> 00:01:52.010
+program music, again,
+Hector Berlioz's Symphonie Fantastique.
+
+28
+00:01:52.010 --> 00:01:54.710
+Obviously, it's an example
+of a program symphony.
+
+29
+00:01:56.260 --> 00:01:58.620
+Let's start with an excerpt
+from this symphony.
+
+30
+00:01:58.620 --> 00:02:02.392
+As you listen, think about what you feel.
+
+31
+00:02:02.392 --> 00:02:06.663
+What Berlioz is trying to
+depict here is a scene,
+
+32
+00:02:06.663 --> 00:02:11.257
+a scene that is part of
+the program of this symphony.
+
+33
+00:02:11.257 --> 00:02:13.776
+What is he trying to communicate here?
+
+34
+00:02:13.776 --> 00:02:16.435
+Where are we?
+
+35
+00:02:16.435 --> 00:02:26.435
+[MUSIC]
+
+36
+00:02:42.774 --> 00:02:47.059
+Okay, well let's, let's fade
+that out here just for a moment.
+
+37
+00:02:47.059 --> 00:02:49.600
+And let me give you a hint.
+
+38
+00:02:49.600 --> 00:02:51.480
+Where does Berlioz take us musically?
+
+39
+00:02:51.480 --> 00:02:55.700
+To the scene on the left, or
+to the scene on the right?
+
+40
+00:02:55.700 --> 00:02:56.706
+You choose.
+
+41
+00:02:56.706 --> 00:03:05.610
+[MUSIC]
+
+42
+00:03:05.610 --> 00:03:09.591
+So here we have two paintings
+from the same period,
+
+43
+00:03:09.591 --> 00:03:12.565
+one by Constable, the other by Goya.
+
+44
+00:03:12.565 --> 00:03:17.450
+Which sort of atmosphere was Berlioz
+trying to conjure up through music,
+
+45
+00:03:17.450 --> 00:03:18.485
+left or right?
+
+46
+00:03:18.485 --> 00:03:22.618
+[MUSIC]
+
+47
+00:03:22.618 --> 00:03:24.742
+Well, the atmosphere on the right.
+
+48
+00:03:24.742 --> 00:03:28.810
+The music that you just heard is
+his vision of a descent into hell.
+
+49
+00:03:29.980 --> 00:03:34.910
+And I think you'd agree that we heard
+descending music with strange sounds,
+
+50
+00:03:34.910 --> 00:03:37.190
+the cacophony of hell.
+
+51
+00:03:37.190 --> 00:03:40.690
+But before we proceed,
+a quick word about Hector Berlioz.
+
+52
+00:03:42.180 --> 00:03:44.160
+Berlioz was born in
+the south of France and
+
+53
+00:03:44.160 --> 00:03:48.370
+was trained in classical literature and
+basic science, but not in music.
+
+54
+00:03:48.370 --> 00:03:52.810
+Of all the great composers, he was
+the only one who could not play the piano.
+
+55
+00:03:52.810 --> 00:03:55.710
+He could only strum out
+a few chords on the guitar.
+
+56
+00:03:56.850 --> 00:03:59.220
+His father, well, he was a village doctor.
+
+57
+00:03:59.220 --> 00:04:04.020
+He sent the young Berlioz up to Paris
+to the prestigious Ecole de medecine,
+
+58
+00:04:04.020 --> 00:04:07.760
+Medical School on the Left Bank.
+
+59
+00:04:07.760 --> 00:04:10.610
+And it's still here today,
+near the Sorbonne.
+
+60
+00:04:10.610 --> 00:04:12.800
+And here's how it looked
+in the 19th century.
+
+61
+00:04:14.310 --> 00:04:18.608
+But Berlioz was no fan of the horrific
+dissections that he had to witness as
+
+62
+00:04:18.608 --> 00:04:20.214
+a medical school student.
+
+63
+00:04:20.214 --> 00:04:23.767
+And even in his memoirs, he talks about
+jumping out a window during one of them.
+
+64
+00:04:23.767 --> 00:04:27.783
+So after a year, he dropped out of
+med school to give himself over to
+
+65
+00:04:27.783 --> 00:04:30.294
+the study of music at the Conservatory and
+
+66
+00:04:30.294 --> 00:04:35.800
+the Opera House, both across the river
+there, on the Right Bank of Paris.
+
+67
+00:04:35.800 --> 00:04:38.640
+Here's a view of a concert in
+progress at the Conservatory.
+
+68
+00:04:41.080 --> 00:04:46.040
+Although always the rebel and contrarian,
+Berlioz did manage to win a Prix de Rome,
+
+69
+00:04:46.040 --> 00:04:48.040
+a composition prize.
+
+70
+00:04:48.040 --> 00:04:52.950
+But he really preferred Paris to Rome,
+mostly for the music and the theater.
+
+71
+00:04:54.080 --> 00:04:57.080
+Indeed, in the second and
+third decades of the 19th century,
+
+72
+00:04:57.080 --> 00:04:59.590
+Shakespeare was taking
+the stage of Europe by storm.
+
+73
+00:05:00.900 --> 00:05:05.630
+And in 1827, a group of Shakespearean
+actors came to Paris to play both
+
+74
+00:05:05.630 --> 00:05:07.450
+Hamlet and Romeo and Juliet.
+
+75
+00:05:08.690 --> 00:05:11.510
+Berlioz went, and he was smitten.
+
+76
+00:05:11.510 --> 00:05:15.290
+Here's where he went,
+to the Theater Odeon.
+
+77
+00:05:15.290 --> 00:05:18.460
+That's the outside of it as it
+existed in the 19th century.
+
+78
+00:05:18.460 --> 00:05:20.750
+Now let's go inside, as it looks today.
+
+79
+00:05:20.750 --> 00:05:24.790
+I can personally attest, there's
+very little leg room in those seats.
+
+80
+00:05:26.110 --> 00:05:31.200
+Anyway, Berli goes, Berlioz goes into
+this theater, sees the Shakespeare and
+
+81
+00:05:31.200 --> 00:05:37.030
+falls in love with Shakespeare and
+with the leading lady, who was playing
+
+82
+00:05:37.030 --> 00:05:43.800
+Ophelia to Hamlet, and Juliet to Romeo,
+the young Irish actress Harriet Smithson.
+
+83
+00:05:43.800 --> 00:05:47.320
+Here she is in a portrait of that time.
+
+84
+00:05:47.320 --> 00:05:49.990
+Berlioz, well, he tried to meet Harriet.
+
+85
+00:05:49.990 --> 00:05:51.620
+He went to her dressing room.
+
+86
+00:05:51.620 --> 00:05:53.240
+He followed after her.
+
+87
+00:05:53.240 --> 00:05:55.850
+In modern parlance, he stalked her,
+
+88
+00:05:55.850 --> 00:06:00.260
+almost like a crazed fan would
+stalk a Hollywood starlet today.
+
+89
+00:06:00.260 --> 00:06:07.160
+And Harriet, well, she was a star, but
+she was terrified and rejected Berlioz.
+
+90
+00:06:07.160 --> 00:06:12.820
+Rejected, Berlioz began to contemplate and
+execute an artistic response,
+
+91
+00:06:12.820 --> 00:06:18.015
+a multi-movement symphony that told
+the tale of an imaginary, dreamlike,
+
+92
+00:06:18.015 --> 00:06:22.980
+ill-fated love in which the stalker
+ends up killing the young woman.
+
+93
+00:06:22.980 --> 00:06:27.930
+If nothing else,
+you can see that Berlioz is building here,
+
+94
+00:06:27.930 --> 00:06:31.210
+at first,
+on the true story of his love for
+
+95
+00:06:31.210 --> 00:06:36.100
+Harriet, and then his imagination
+takes over, a vivid ima,
+
+96
+00:06:36.100 --> 00:06:41.170
+imagination that leads to a fantastic or,
+in this case, fantastical story.
+
+97
+00:06:43.610 --> 00:06:47.370
+So fantastic, or fantastique,
+here, doesn't mean so
+
+98
+00:06:47.370 --> 00:06:49.330
+much that it's great, though it is great.
+
+99
+00:06:49.330 --> 00:06:51.150
+It's fantastic in that sense.
+
+100
+00:06:51.150 --> 00:06:52.390
+But it's also a fantasy.
+
+101
+00:06:53.780 --> 00:06:57.630
+Well, how did it play out,
+this story in a symphony?
+
+102
+00:06:57.630 --> 00:07:00.880
+Well, eventually,
+Berlioz's fantastic symphony was
+
+103
+00:07:00.880 --> 00:07:03.560
+premiered at the Paris Conservatory.
+
+104
+00:07:03.560 --> 00:07:08.040
+And Harriet Smithson, who up to that time
+had no idea that she was the center of
+
+105
+00:07:08.040 --> 00:07:11.220
+the symphony,
+with Harriet Smithson in attendance and
+
+106
+00:07:11.220 --> 00:07:16.880
+listening, eventually during the
+performance, the premiere, she caught on.
+
+107
+00:07:16.880 --> 00:07:21.130
+As to the symphony itself, well,
+it's constructed not in four, but
+
+108
+00:07:21.130 --> 00:07:25.310
+in five movements,
+like a five-act play of Shakespeare.
+
+109
+00:07:25.310 --> 00:07:28.020
+Like his Hamlet or his Romeo and Juliet.
+
+110
+00:07:29.100 --> 00:07:31.040
+And here's something else that's new.
+
+111
+00:07:31.040 --> 00:07:34.920
+Berlioz wrote out this program and
+had it printed and
+
+112
+00:07:34.920 --> 00:07:39.050
+handed to everyone in the audience at the
+first performance of the finished work,
+
+113
+00:07:39.050 --> 00:07:43.820
+the first example in the history
+of music of concert program notes.
+
+114
+00:07:43.820 --> 00:07:45.990
+Program music, program notes.
+
+115
+00:07:47.440 --> 00:07:49.430
+Let's start with the first movement, and
+
+116
+00:07:49.430 --> 00:07:55.650
+remember, these are Berlioz's words,
+not mine.
+
+117
+00:07:55.650 --> 00:07:58.360
+A young musician sees for the first time
+
+118
+00:07:58.360 --> 00:08:04.470
+a woman who embodies all the charms of the
+ideal being he has imagined in his dreams.
+
+119
+00:08:04.470 --> 00:08:09.059
+The subject of the first movement
+is the passage from this state of
+
+120
+00:08:09.059 --> 00:08:12.657
+melancholy reverie to that
+of delirious passion.
+
+121
+00:08:12.657 --> 00:08:16.218
+What was Berlioz's vision of the beloved?
+
+122
+00:08:16.218 --> 00:08:22.174
+Well, here is the musical incarnation
+of her, Harriet Smithson.
+
+123
+00:08:22.174 --> 00:08:27.236
+She becomes an obsession,
+a musical obsession or fixation.
+
+124
+00:08:27.236 --> 00:08:30.091
+An Idee fixe.
+
+125
+00:08:30.091 --> 00:08:31.450
+So let me try to play this for you.
+
+126
+00:08:31.450 --> 00:08:33.714
+I may need my glasses to see it,
+maybe not, we'll see.
+
+127
+00:08:33.714 --> 00:08:36.233
+Play the Idee fixe for
+you here at the keyboard.
+
+128
+00:08:36.233 --> 00:08:46.233
+[MUSIC]
+
+129
+00:08:55.295 --> 00:08:58.791
+Now rising sequences,
+maybe a little bit faster.
+
+130
+00:08:58.791 --> 00:09:03.514
+[MUSIC]
+
+131
+00:09:03.514 --> 00:09:06.870
+Now up to the top,
+he begins to come off it.
+
+132
+00:09:06.870 --> 00:09:16.870
+[MUSIC]
+
+133
+00:09:22.032 --> 00:09:24.308
+A typical romantic theme.
+
+134
+00:09:24.308 --> 00:09:29.172
+It's long, it's not balanced,
+no two plus two phrases here,
+
+135
+00:09:29.172 --> 00:09:33.320
+as you can see by all of
+the ties up there in the melody.
+
+136
+00:09:33.320 --> 00:09:37.312
+It's rhythmically amorphous,
+and it's pushed upward.
+
+137
+00:09:37.312 --> 00:09:39.084
+It's climax-oriented,
+
+138
+00:09:39.084 --> 00:09:44.171
+pushed on passionately by the ever-rising
+melodic sequence, as you heard.
+
+139
+00:09:44.171 --> 00:09:46.713
+Okay, now a bit of the second movement.
+
+140
+00:09:46.713 --> 00:09:51.798
+Let's see where Berlioz has taken
+us next in his imagination.
+
+141
+00:09:51.798 --> 00:09:53.891
+We'll hear the same melody, but
+
+142
+00:09:53.891 --> 00:09:57.197
+now it's altered to fit
+the next scene of the story.
+
+143
+00:09:57.197 --> 00:09:58.496
+But where are we?
+
+144
+00:09:58.496 --> 00:10:03.814
+Again, where does Berlioz
+take us in this scene?
+
+145
+00:10:03.814 --> 00:10:13.814
+[MUSIC]
+
+146
+00:10:19.448 --> 00:10:20.865
+Yes, we're at a dance.
+
+147
+00:10:20.865 --> 00:10:26.507
+Our hero is now at a party, and
+he sees the beloved across the room.
+
+148
+00:10:26.507 --> 00:10:31.069
+Our beloved, the Idee fixe,
+is transformed, of course.
+
+149
+00:10:31.069 --> 00:10:37.220
+The melody is now changed into a more
+symmetrical waltz in a clear triple meter.
+
+150
+00:10:40.170 --> 00:10:42.690
+Now let's take a look
+at the third movement.
+
+151
+00:10:42.690 --> 00:10:44.120
+Now we're in the country.
+
+152
+00:10:44.120 --> 00:10:49.220
+The artist, our musician, hears in
+the distance two shepherds piping.
+
+153
+00:10:50.590 --> 00:10:54.100
+He hopes that soon he
+will no longer be alone.
+
+154
+00:10:55.540 --> 00:10:58.270
+So the way Berlioz has set
+this up is as follows.
+
+155
+00:10:58.270 --> 00:11:02.370
+Onstage he has an English horn,
+that's presumably Berlioz himself.
+
+156
+00:11:02.370 --> 00:11:05.100
+Offstage there is an oboe.
+
+157
+00:11:05.100 --> 00:11:07.760
+And they engage in a dialogue.
+
+158
+00:11:07.760 --> 00:11:08.600
+She loves me.
+
+159
+00:11:08.600 --> 00:11:09.920
+She loves me not.
+
+160
+00:11:09.920 --> 00:11:14.070
+Eventually, the oboe ceases to respond,
+ceases to answer.
+
+161
+00:11:15.080 --> 00:11:18.001
+This leaves the musician alone and
+
+162
+00:11:18.001 --> 00:11:22.037
+despondent, with dire
+consequences to come.

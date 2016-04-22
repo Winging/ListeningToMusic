@@ -1,0 +1,421 @@
+WEBVTT
+
+1
+00:00:00.205 --> 00:00:10.205
+[MUSIC]
+
+2
+00:00:19.256 --> 00:00:23.720
+The music you just heard is another
+recording I created some years back.
+
+3
+00:00:23.720 --> 00:00:27.380
+It involves two singers,
+melody plus accompaniment.
+
+4
+00:00:27.380 --> 00:00:29.100
+So it's an example of polyphony?
+
+5
+00:00:30.105 --> 00:00:34.850
+You'll remember from our session six,
+that there are three kinds of textures,
+
+6
+00:00:34.850 --> 00:00:37.770
+three primary textures in music.
+
+7
+00:00:37.770 --> 00:00:42.800
+And they are, well yes, monophonic,
+homophonic, and polyphonic.
+
+8
+00:00:43.960 --> 00:00:47.190
+Chant was monophonic in texture.
+
+9
+00:00:47.190 --> 00:00:51.930
+But to make the church services more
+splendid on high feast days of the year,
+
+10
+00:00:51.930 --> 00:00:54.250
+enterprising churchmen, musicians,
+
+11
+00:00:54.250 --> 00:00:59.310
+began to add additional voices to
+the chant to make a more splendid sound.
+
+12
+00:00:59.310 --> 00:01:01.040
+Thereby creating polyphony.
+
+13
+00:01:02.320 --> 00:01:05.010
+At first this polyphony
+was just improvised.
+
+14
+00:01:05.010 --> 00:01:06.790
+Then they began to write it down.
+
+15
+00:01:06.790 --> 00:01:10.490
+Let's see what this early
+polyphony looked like.
+
+16
+00:01:10.490 --> 00:01:15.300
+Here we see a manuscript form
+the ninth century, top and bottom.
+
+17
+00:01:15.300 --> 00:01:18.500
+Well, on top we have a three voice chant.
+
+18
+00:01:19.650 --> 00:01:23.530
+And as you can see here, the voices are
+operating at the interval of a fifth and
+
+19
+00:01:23.530 --> 00:01:28.946
+the interval of an octave
+moving along all in lockstep.
+
+20
+00:01:28.946 --> 00:01:35.360
+Below, we have two voices,
+two voices moving in counterpoint.
+
+21
+00:01:35.360 --> 00:01:38.050
+Usually when one goes up,
+the other goes down.
+
+22
+00:01:38.050 --> 00:01:40.920
+And again, mostly at the same time.
+
+23
+00:01:40.920 --> 00:01:45.290
+In both cases, the funny signs over here,
+actually to the left,
+
+24
+00:01:45.290 --> 00:01:50.000
+the funny signs indicate pitches and
+pitch relationships.
+
+25
+00:01:51.320 --> 00:01:55.650
+Now, a slide from Southern France
+in the 12th Century.
+
+26
+00:01:55.650 --> 00:01:59.935
+The chant is actually on
+the bottom line here see,
+
+27
+00:01:59.935 --> 00:02:03.990
+[FOREIGN],
+on the bottom line.
+
+28
+00:02:05.350 --> 00:02:08.950
+Working with the singers here,
+we know what the pitches are.
+
+29
+00:02:08.950 --> 00:02:10.690
+We know what they're supposed to be.
+
+30
+00:02:10.690 --> 00:02:15.980
+But what we didn't know was how long
+each of these pitches should be held.
+
+31
+00:02:15.980 --> 00:02:18.500
+We were just winging it
+with regard to rhythm.
+
+32
+00:02:18.500 --> 00:02:22.260
+What we tried to do was make
+good vertical consonances.
+
+33
+00:02:23.400 --> 00:02:26.980
+So let's listen to a bit of
+this recording that resulted.
+
+34
+00:02:26.980 --> 00:02:31.982
+We don't have time for all of it, so we're
+going to hear just a bit of the beginning,
+
+35
+00:02:31.982 --> 00:02:34.175
+and then we'll skip toward the end.
+
+36
+00:02:34.175 --> 00:02:36.643
+Okay?
+
+37
+00:02:36.643 --> 00:02:46.643
+[MUSIC]
+
+38
+00:03:39.017 --> 00:03:43.821
+Creating a recording like this is
+possible, if you have only two parts,
+
+39
+00:03:43.821 --> 00:03:44.950
+two voices.
+
+40
+00:03:44.950 --> 00:03:46.511
+But if you want three or four or
+
+41
+00:03:46.511 --> 00:03:50.870
+five parts, then the absence of
+rhythmic specificity becomes a problem.
+
+42
+00:03:50.870 --> 00:03:52.940
+Let's see how they solved it.
+
+43
+00:03:52.940 --> 00:03:57.020
+Well, they did so by adding stems
+on to the notes and note heads.
+
+44
+00:03:57.020 --> 00:04:00.759
+And eventually by creating note
+heads of different shapes.
+
+45
+00:04:02.030 --> 00:04:07.140
+Here we see in our next slide,
+down at the bottom, some music that looks
+
+46
+00:04:07.140 --> 00:04:11.698
+disturbingly organized,
+because it has rhythmic component to it.
+
+47
+00:04:11.698 --> 00:04:21.250
+And these patterns began to take more and
+more of a definitive shape.
+
+48
+00:04:21.250 --> 00:04:24.190
+As you can see by this slide,
+one that I've created here,
+
+49
+00:04:24.190 --> 00:04:30.120
+you can see that there are stems beginning
+to develop into notational symbols,
+
+50
+00:04:30.120 --> 00:04:33.480
+stems and note heads of different shapes.
+
+51
+00:04:34.538 --> 00:04:38.700
+And then we see here,
+in this mid 13th century motet,
+
+52
+00:04:38.700 --> 00:04:41.420
+a great deal of organization.
+
+53
+00:04:43.900 --> 00:04:47.010
+This development,
+the capacity to specify and
+
+54
+00:04:47.010 --> 00:04:51.040
+control rhythm in a precise way,
+was hugely important.
+
+55
+00:04:51.040 --> 00:04:53.060
+What are the two axes of music?
+
+56
+00:04:53.060 --> 00:04:55.850
+Well, pitch and duration.
+
+57
+00:04:55.850 --> 00:04:59.500
+Pitch notation had existed for
+centuries, since the 9th century.
+
+58
+00:04:59.500 --> 00:05:05.230
+But rhythmic notation only came into being
+in the late 12th century, 300 years later.
+
+59
+00:05:06.460 --> 00:05:08.430
+And it was a game changer.
+
+60
+00:05:08.430 --> 00:05:13.330
+Up to that point, music unfolded through
+memory and through improvisation.
+
+61
+00:05:13.330 --> 00:05:17.120
+Musicians could remember a chant,
+and someone could come along and
+
+62
+00:05:17.120 --> 00:05:20.150
+improvise another voice against it.
+
+63
+00:05:20.150 --> 00:05:23.196
+But now, if you wanted big pieces of
+polyphony, let's say with three, four,
+
+64
+00:05:23.196 --> 00:05:26.100
+or five voices, it got complicated and
+
+65
+00:05:26.100 --> 00:05:29.210
+you had to be able to
+determine things in advance.
+
+66
+00:05:29.210 --> 00:05:33.340
+And you had to do this through
+prescriptive notation.
+
+67
+00:05:34.380 --> 00:05:37.700
+Thus, in the West,
+we moved from performance and
+
+68
+00:05:37.700 --> 00:05:42.270
+improvisation, to a priori composition.
+
+69
+00:05:42.270 --> 00:05:43.740
+The creator, the artist,
+
+70
+00:05:43.740 --> 00:05:48.310
+began to loom large, and the importance
+of the performer diminished.
+
+71
+00:05:48.310 --> 00:05:51.300
+The creator was now the great architect.
+
+72
+00:05:51.300 --> 00:05:53.600
+The performer, just the carpenter.
+
+73
+00:05:53.600 --> 00:05:57.630
+What the architect created,
+what the composer wrote down,
+
+74
+00:05:57.630 --> 00:05:59.730
+was a finite composition.
+
+75
+00:06:00.980 --> 00:06:05.370
+So in this period in Western European
+history, in the High and
+
+76
+00:06:05.370 --> 00:06:09.990
+Late Middle Ages, we have the advent of
+the composer of polyphony as we know it,
+
+77
+00:06:09.990 --> 00:06:13.040
+and we had the work of art as we know it.
+
+78
+00:06:13.040 --> 00:06:16.900
+And because that work of art can be
+written down in almost all of its
+
+79
+00:06:16.900 --> 00:06:21.810
+specifics, it can not only be
+performed at a later time, but
+
+80
+00:06:21.810 --> 00:06:25.390
+it can be also be analyzed and studied.
+
+81
+00:06:25.390 --> 00:06:28.530
+Musical analysis is now possible.
+
+82
+00:06:28.530 --> 00:06:35.350
+This specifying rhythm as well as pitch
+was part of the change to quantification
+
+83
+00:06:35.350 --> 00:06:41.350
+in the West, a shift to specific
+measurement of a lot of things.
+
+84
+00:06:41.350 --> 00:06:44.938
+Organ pipes on a large scale,
+mechanical clocks,
+
+85
+00:06:44.938 --> 00:06:49.290
+the shift from Roman to Arabic numerals,
+
+86
+00:06:49.290 --> 00:06:52.890
+this all happens in the West here
+in the High and Late Middle Ages.
+
+87
+00:06:52.890 --> 00:06:58.270
+Actually, musical notation,
+with its vertical axis for pitch and
+
+88
+00:06:58.270 --> 00:07:03.800
+its horizontal axis for duration,
+was the West's first written graph.
+
+89
+00:07:05.030 --> 00:07:06.500
+Where did this happen?
+
+90
+00:07:06.500 --> 00:07:10.080
+In France, specifically in Paris and
+
+91
+00:07:10.080 --> 00:07:14.259
+other cathedral cities such as Reims.

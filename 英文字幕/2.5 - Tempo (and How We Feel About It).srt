@@ -1,0 +1,306 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.889
+[MUSIC]
+
+2
+00:00:10.889 --> 00:00:14.467
+Finally, one last thing that has
+to do with duration in music.
+
+3
+00:00:14.467 --> 00:00:15.262
+And that is tempo.
+
+4
+00:00:15.262 --> 00:00:17.213
+That's a very simple idea.
+
+5
+00:00:17.213 --> 00:00:19.060
+Life has a tempo, and so does music.
+
+6
+00:00:20.250 --> 00:00:24.170
+Tempo in music is simply
+the speed of the beat.
+
+7
+00:00:24.170 --> 00:00:28.510
+We have a moderate tempo,
+which is actually called moderato.
+
+8
+00:00:28.510 --> 00:00:30.450
+And we have faster tempos
+that are called allegro.
+
+9
+00:00:30.450 --> 00:00:34.670
+And very fast there are vivace and
+prestissimo, and you get the idea.
+
+10
+00:00:34.670 --> 00:00:40.640
+And we have slower ones called adagio and
+lento, that sort of thing.
+
+11
+00:00:40.640 --> 00:00:45.230
+We can represent this on a slide
+that shows us the different
+
+12
+00:00:45.230 --> 00:00:50.240
+tempos and
+the number of beats per minute here.
+
+13
+00:00:50.240 --> 00:00:51.380
+Let's try this one.
+
+14
+00:00:51.380 --> 00:00:56.057
+We're gonna start all the way at the top
+
+15
+00:00:56.057 --> 00:01:00.960
+here with lento, very slow tempo.
+
+16
+00:01:00.960 --> 00:01:06.060
+Gonna move this up in the middle
+
+17
+00:01:06.060 --> 00:01:09.983
+now at about moderato,
+
+18
+00:01:09.983 --> 00:01:14.886
+then up to allegro, vivace,
+
+19
+00:01:14.886 --> 00:01:21.174
+presto and ultimately prestissimo.
+
+20
+00:01:25.026 --> 00:01:28.160
+And just a final word about tempo.
+
+21
+00:01:28.160 --> 00:01:29.620
+We can speed it up or slow it down.
+
+22
+00:01:30.620 --> 00:01:37.020
+If I speed it up, I create an accelerando,
+just the Italian word for acceleration.
+
+23
+00:01:37.020 --> 00:01:42.050
+Similarly, if I slow it down,
+I create a ritardando, a retard.
+
+24
+00:01:42.050 --> 00:01:46.600
+Now normally in music, we like to
+have a steady beat, steady tempo.
+
+25
+00:01:46.600 --> 00:01:50.950
+And that usually happens in pop music
+where there is a steady beat, and
+
+26
+00:01:50.950 --> 00:01:54.380
+especially in rock where there's
+a hard-driving steady beat
+
+27
+00:01:54.380 --> 00:01:56.250
+to which you can dance.
+
+28
+00:01:56.250 --> 00:01:58.070
+We dance to a steady tempo.
+
+29
+00:01:59.360 --> 00:02:02.247
+But in classical music,
+which is rarely dance music,
+
+30
+00:02:02.247 --> 00:02:05.720
+musicians like to play with the notion
+of tempo just a little bit.
+
+31
+00:02:05.720 --> 00:02:09.641
+Nuance the beat ever so
+slightly at moments that are important to
+
+32
+00:02:09.641 --> 00:02:13.290
+the articulation of
+the structure of the piece.
+
+33
+00:02:13.290 --> 00:02:17.190
+They delay the beat just a little,
+maybe push ahead here, pull back there.
+
+34
+00:02:18.760 --> 00:02:22.970
+I could play the following passage by
+Robert Schumann very regularly, and
+
+35
+00:02:22.970 --> 00:02:27.330
+it would sound one way, or
+with slight variation in tempo and
+
+36
+00:02:27.330 --> 00:02:29.340
+it would sound another.
+
+37
+00:02:29.340 --> 00:02:34.640
+Let's patch in a bit of video played
+from a good Steinway playing the beat
+
+38
+00:02:34.640 --> 00:02:39.150
+at first in a steady fashion,
+and then nuancing it slightly.
+
+39
+00:02:40.160 --> 00:02:42.090
+Okay, so
+now we're gonna do a little experiment.
+
+40
+00:02:42.090 --> 00:02:46.080
+We're gonna differentiate what happens
+when you play exactly on the beat,
+
+41
+00:02:46.080 --> 00:02:48.070
+exactly on tempo.
+
+42
+00:02:48.070 --> 00:02:51.580
+As opposed to what happens when you
+loosen things up a little bit and
+
+43
+00:02:51.580 --> 00:02:54.720
+allow the beat to be nuanced ever so
+slightly.
+
+44
+00:02:54.720 --> 00:02:59.608
+To make sure that we're really are staying
+on the beat, let's turn on this gadget.
+
+45
+00:02:59.608 --> 00:03:04.209
+Once again, this is our metronome, and
+this will give us a beat here, three,
+
+46
+00:03:04.209 --> 00:03:06.255
+four, one, two, three, four.
+
+47
+00:03:06.255 --> 00:03:16.255
+[MUSIC]
+
+48
+00:03:28.955 --> 00:03:34.577
+[NOISE] Get out of my face,
+get out of here.
+
+49
+00:03:34.577 --> 00:03:39.430
+[LAUGH] So,
+let's try it now a different sort of way.
+
+50
+00:03:39.430 --> 00:03:42.829
+Let me play with the beat and
+the tempo ever so slightly.
+
+51
+00:03:42.829 --> 00:03:45.651
+Pushing it ahead here when
+I feel that that's what
+
+52
+00:03:45.651 --> 00:03:47.665
+the rhetoric of the music demands,
+
+53
+00:03:47.665 --> 00:03:51.844
+pulling back here when we're coming
+up to a major point of articulation.
+
+54
+00:03:51.844 --> 00:03:54.354
+Same music, but without the metronome.
+
+55
+00:03:54.354 --> 00:04:04.354
+[MUSIC]
+
+56
+00:04:22.307 --> 00:04:26.688
+Cognitive psychologists have done
+studies that show that we respond
+
+57
+00:04:26.688 --> 00:04:30.312
+emotionally much more favorably
+to music that is every so
+
+58
+00:04:30.312 --> 00:04:34.400
+slightly off the beat, ever so
+slightly off pitch now and then.
+
+59
+00:04:34.400 --> 00:04:39.850
+Next time you listen to your favorite
+pop singer, just listen to how he or
+
+60
+00:04:39.850 --> 00:04:45.500
+she can be slightly off pitch at
+one moment or slightly off tempo
+
+61
+00:04:45.500 --> 00:04:51.710
+at one moment, and then pull it back on.
+
+62
+00:04:51.710 --> 00:04:56.530
+That moment of intentional
+imperfection of the beat or the pitch,
+
+63
+00:04:57.620 --> 00:05:02.560
+that adds emotional intensity
+to our musical experience.
+
+64
+00:05:04.180 --> 00:05:07.920
+Predictably, reality is on the beat.
+
+65
+00:05:07.920 --> 00:05:11.880
+Art is slightly off the beat,
+slightly off beat.
+
+66
+00:05:13.190 --> 00:05:17.207
+Art makes reality a lot more exciting.

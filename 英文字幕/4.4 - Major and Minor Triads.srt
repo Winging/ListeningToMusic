@@ -1,0 +1,500 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.000
+[MUSIC]
+
+2
+00:00:11.717 --> 00:00:16.001
+As we have seen, just as we have major and
+minor scales so to we have major and
+
+3
+00:00:16.001 --> 00:00:17.670
+minor triads.
+
+4
+00:00:17.670 --> 00:00:19.300
+Let's review just for a moment.
+
+5
+00:00:19.300 --> 00:00:21.580
+Let's create a C Major Scale.
+
+6
+00:00:21.580 --> 00:00:23.850
+Scale beginning on the pitch C.
+
+7
+00:00:25.520 --> 00:00:29.750
+Now, let's add some thirds to it,
+intervals of thirds.
+
+8
+00:00:29.750 --> 00:00:33.690
+Above each of these
+pitches to create triads.
+
+9
+00:00:35.770 --> 00:00:38.330
+All of the triads build
+upon the scale with
+
+10
+00:00:38.330 --> 00:00:42.500
+one exception that we need not go into,
+is either a major or a minor triad.
+
+11
+00:00:43.700 --> 00:00:46.590
+Here's what they look
+like now on a keyboard.
+
+12
+00:00:46.590 --> 00:00:49.180
+Major on top, minor beneath it.
+
+13
+00:00:50.450 --> 00:00:56.944
+Notice that we have two perimeter pitches,
+the outer edges, the outer pitches.
+
+14
+00:00:56.944 --> 00:00:59.618
+And it's really only the center pitch,
+
+15
+00:00:59.618 --> 00:01:03.325
+the middle note that varies
+from one triad to the other.
+
+16
+00:01:03.325 --> 00:01:05.211
+To create a minor triad for
+
+17
+00:01:05.211 --> 00:01:09.990
+example we simply move the middle
+pitch down a half step.
+
+18
+00:01:09.990 --> 00:01:15.305
+Move it, in this case, from E down to
+E flat, as you can see by the arrows.
+
+19
+00:01:15.305 --> 00:01:19.074
+[MUSIC]
+
+20
+00:01:19.074 --> 00:01:22.285
+But the immediate shift between major and
+
+21
+00:01:22.285 --> 00:01:26.475
+minor triads is something
+of a sensual sensation.
+
+22
+00:01:26.475 --> 00:01:28.135
+It's sensational.
+
+23
+00:01:28.135 --> 00:01:29.983
+Play this again, this way.
+
+24
+00:01:29.983 --> 00:01:31.740
+[MUSIC]
+
+25
+00:01:31.740 --> 00:01:32.565
+Or, this way.
+
+26
+00:01:32.565 --> 00:01:36.045
+[MUSIC]
+
+27
+00:01:36.045 --> 00:01:39.545
+Composers have recognized
+this over the centuries.
+
+28
+00:01:39.545 --> 00:01:43.952
+One of the best examples is to be found
+in a piece by the American composer
+
+29
+00:01:43.952 --> 00:01:44.766
+John Adams.
+
+30
+00:01:44.766 --> 00:01:48.957
+We'll deal with the music of Adams at
+the end of our course when we get to
+
+31
+00:01:48.957 --> 00:01:50.889
+modernism and post modernism.
+
+32
+00:01:50.889 --> 00:01:58.620
+But for now let's just listen to what he
+does in a work called Black Gondolas.
+
+33
+00:01:58.620 --> 00:02:01.830
+It was inspired -- Adams
+piece was inspired,
+
+34
+00:02:01.830 --> 00:02:05.500
+by the 19th century Composer Franz Liszt.
+
+35
+00:02:05.500 --> 00:02:10.530
+Who in turn was inspired by
+the image of a black coffin
+
+36
+00:02:10.530 --> 00:02:13.070
+that of his son-in-law
+composer Ricard Wagner.
+
+37
+00:02:13.070 --> 00:02:18.815
+When Wagner's body was transported
+from Venice back to Germany in 1883,
+
+38
+00:02:18.815 --> 00:02:22.568
+a long story we don't need
+to go into in any detail.
+
+39
+00:02:22.568 --> 00:02:25.689
+Anyway, let's just listen to
+the rocking of the gondola here.
+
+40
+00:02:25.689 --> 00:02:29.133
+We'll perceive it that way
+because of the rocking,
+
+41
+00:02:29.133 --> 00:02:34.420
+or at least the alternation back and
+forth between major and minor triads.
+
+42
+00:02:34.420 --> 00:02:37.503
+Again, John Adams, Black Gondolas.
+
+43
+00:02:37.503 --> 00:02:43.557
+[MUSIC]
+
+44
+00:02:43.557 --> 00:02:47.407
+Major, minor,
+
+45
+00:02:47.407 --> 00:02:51.257
+major, minor,
+
+46
+00:02:51.257 --> 00:02:56.482
+changes pitch level,
+
+47
+00:02:56.482 --> 00:03:01.709
+major, minor Major.
+
+48
+00:03:01.709 --> 00:03:02.415
+Minor.
+
+49
+00:03:02.415 --> 00:03:05.523
+Again, another pitch level change.
+
+50
+00:03:05.523 --> 00:03:07.805
+Major, and so on.
+
+51
+00:03:07.805 --> 00:03:17.805
+[MUSIC]
+
+52
+00:03:25.160 --> 00:03:26.919
+Very beautiful.
+
+53
+00:03:26.919 --> 00:03:30.770
+But it's really just built on
+the alternation of major and minor triad.
+
+54
+00:03:31.860 --> 00:03:35.260
+This same emotional tug-of-war,
+this yin and yang between major and
+
+55
+00:03:35.260 --> 00:03:39.640
+minor, can also be felt in
+a famous piece by Beethoven.
+
+56
+00:03:39.640 --> 00:03:42.890
+The first movement of
+his Moonlight Sonata.
+
+57
+00:03:42.890 --> 00:03:45.355
+You see the score on this screen.
+
+58
+00:03:47.184 --> 00:03:52.460
+Beethoven has written a melody and
+an accompanying harmony.
+
+59
+00:03:52.460 --> 00:03:56.120
+But instead of playing the accompanying
+harmony as block chords,
+
+60
+00:03:56.120 --> 00:04:00.840
+block triads,
+he plays the notes in succession.
+
+61
+00:04:00.840 --> 00:04:05.587
+Playing the notes of a chord in
+succession instead of all at once creates
+
+62
+00:04:05.587 --> 00:04:10.187
+what's called an arpeggio,
+derived from the Italian word, arpa.
+
+63
+00:04:10.187 --> 00:04:13.127
+Harps do a lot of this sort of thing,
+arpeggio.
+
+64
+00:04:13.127 --> 00:04:14.717
+Let me play one for you.
+
+65
+00:04:14.717 --> 00:04:18.743
+[MUSIC]
+
+66
+00:04:18.743 --> 00:04:25.866
+So to be here, but we can spin
+out these notes as an arpeggio.
+
+67
+00:04:25.866 --> 00:04:32.815
+And that's what Beethoven does at
+the beginning of his 'Moonlight Sonata'.
+
+68
+00:04:32.815 --> 00:04:40.002
+[MUSIC]
+
+69
+00:04:40.002 --> 00:04:43.727
+And so on.
+
+70
+00:04:43.727 --> 00:04:49.086
+But these sounds of Beethoven deserve
+the richness of an old Steinway piano,
+
+71
+00:04:49.086 --> 00:04:50.742
+so let's turn to that.
+
+72
+00:04:50.742 --> 00:05:00.742
+[MUSIC]
+
+73
+00:05:28.860 --> 00:05:30.345
+Towards the end of the passage,
+
+74
+00:05:30.345 --> 00:05:33.970
+you get a sense of what Beethoven
+might have been intending.
+
+75
+00:05:33.970 --> 00:05:36.770
+Lets imagine that we were
+outside on a moonlit night.
+
+76
+00:05:36.770 --> 00:05:39.700
+Clouds intermittently block
+our view of the moon.
+
+77
+00:05:39.700 --> 00:05:45.125
+But as they do so the umbra of
+the movement is alternately light or dark.
+
+78
+00:05:45.125 --> 00:05:50.960
+Let me see if I can play this now on
+an electronic keyboard over here.
+
+79
+00:05:50.960 --> 00:05:55.151
+[MUSIC]
+
+80
+00:05:55.151 --> 00:05:55.856
+Minor.
+
+81
+00:05:55.856 --> 00:05:59.552
+[MUSIC]
+
+82
+00:05:59.552 --> 00:06:00.495
+Major.
+
+83
+00:06:00.495 --> 00:06:03.985
+[MUSIC]
+
+84
+00:06:03.985 --> 00:06:04.897
+Minor.
+
+85
+00:06:04.897 --> 00:06:10.179
+[MUSIC]
+
+86
+00:06:10.179 --> 00:06:12.795
+And so on it goes.
+
+87
+00:06:12.795 --> 00:06:15.348
+So that's how major minor triads work.
+
+88
+00:06:15.348 --> 00:06:20.221
+By the way, this lovely movement
+Is only the first movement
+
+89
+00:06:20.221 --> 00:06:25.200
+of a three movement sonata,
+a three part sonata.
+
+90
+00:06:25.200 --> 00:06:29.810
+We'll talk about sonata
+later in our course.
+
+91
+00:06:29.810 --> 00:06:34.431
+But let's see how arpeggios
+are used in the final movement.
+
+92
+00:06:34.431 --> 00:06:37.193
+Here arpeggios race up and
+down the keyboard.
+
+93
+00:06:37.193 --> 00:06:43.929
+[MUSIC]
+
+94
+00:06:43.929 --> 00:06:50.820
+Now I made hash of that just then but
+it reminds me of a personal story.
+
+95
+00:06:51.830 --> 00:06:55.250
+When I was about 20, studying piano
+at the Eastman School of Music,
+
+96
+00:06:56.980 --> 00:07:02.900
+I realized that I could never play this
+piece of to speed without breaking down.
+
+97
+00:07:02.900 --> 00:07:04.810
+And that was an aha moment for me.
+
+98
+00:07:04.810 --> 00:07:09.200
+I knew that at that point,
+I'd better find another line of work.
+
+99
+00:07:09.200 --> 00:07:15.420
+That I was never gonna make a dime as
+a professional concert pianist, and I did.
+
+100
+00:07:15.420 --> 00:07:16.420
+Anyway.
+
+101
+00:07:16.420 --> 00:07:20.093
+Anyway, you'll enjoy watching someone play
+this a bit more correctly than I'm able
+
+102
+00:07:20.093 --> 00:07:22.130
+to, and certainly able to now.
+
+103
+00:07:22.130 --> 00:07:24.210
+As we turn to a YouTube clip,
+
+104
+00:07:24.210 --> 00:07:28.736
+the last movement of Beethoven's
+famous Moonlight Sonata.
+
+105
+00:07:28.736 --> 00:07:32.624
+[MUSIC]
+
+106
+00:07:32.624 --> 00:07:33.613
+Minor.
+
+107
+00:07:33.613 --> 00:07:35.793
+Major, arpeggio, racing up.
+
+108
+00:07:35.793 --> 00:07:45.793
+[MUSIC]
+
+109
+00:08:36.992 --> 00:08:43.150
+Playing that was like an exhilarating
+ride on the back of a wild stallion.
+
+110
+00:08:43.150 --> 00:08:46.322
+Unfortunately for me,
+most of the time I fell off.
+
+111
+00:08:46.322 --> 00:08:47.718
+[LAUGH]

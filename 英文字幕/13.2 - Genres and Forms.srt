@@ -1,0 +1,513 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.587
+[MUSIC]
+
+2
+00:00:07.587 --> 00:00:11.045
+When you go to a concert, where do you go?
+
+3
+00:00:11.045 --> 00:00:12.003
+A bar?
+
+4
+00:00:12.003 --> 00:00:14.004
+Football stadium for a rock concert?
+
+5
+00:00:14.004 --> 00:00:16.150
+An opera house?
+
+6
+00:00:16.150 --> 00:00:19.550
+Where you go, the venue,
+determines what you hear.
+
+7
+00:00:19.550 --> 00:00:21.470
+Blues, grunge, rock?
+
+8
+00:00:21.470 --> 00:00:21.970
+Hip hop.
+
+9
+00:00:21.970 --> 00:00:22.530
+Beethoven.
+
+10
+00:00:22.530 --> 00:00:23.240
+Tchaikovsky.
+
+11
+00:00:23.240 --> 00:00:23.740
+Wagner.
+
+12
+00:00:24.860 --> 00:00:28.490
+In the classical era, as we saw,
+you'd go to a private home
+
+13
+00:00:28.490 --> 00:00:33.380
+to hear a string quartet, but usually to a
+theatre to hear a symphony or a concerto.
+
+14
+00:00:34.390 --> 00:00:37.530
+Let's look now at some of these genres,
+
+15
+00:00:37.530 --> 00:00:42.780
+in terms of musical forms,
+mood, and even tempo.
+
+16
+00:00:42.780 --> 00:00:45.400
+So we're gonna start, again, with genres.
+
+17
+00:00:47.010 --> 00:00:49.530
+As you can see,
+we've got the genre of the symphony.
+
+18
+00:00:49.530 --> 00:00:52.040
+It's played by a symphony orchestra.
+
+19
+00:00:52.040 --> 00:00:55.880
+Actually, that's why we call it
+a symphony orchestra, because this thing,
+
+20
+00:00:55.880 --> 00:01:00.460
+this performing group, the orchestra, most
+frequently played a thing called, a genre,
+
+21
+00:01:00.460 --> 00:01:01.450
+called a symphony.
+
+22
+00:01:01.450 --> 00:01:03.550
+So we call it a symphony orchestra.
+
+23
+00:01:03.550 --> 00:01:06.170
+The performing group of a string quartet,
+well,
+
+24
+00:01:06.170 --> 00:01:10.810
+it played this thing called a string
+quartet, a genre called a string quartet.
+
+25
+00:01:10.810 --> 00:01:14.010
+Of course,
+a concerto is played by an orchestra, and
+
+26
+00:01:14.010 --> 00:01:17.750
+usually a soloist fronting that orchestra.
+
+27
+00:01:17.750 --> 00:01:18.260
+Sonata?
+
+28
+00:01:18.260 --> 00:01:21.210
+Well, sonata could be writing for
+piano, or for
+
+29
+00:01:21.210 --> 00:01:25.820
+another instrument such as the cello or
+violin accompanied by a piano.
+
+30
+00:01:25.820 --> 00:01:29.980
+Now, the four previous genres that
+we've looked at here, of course,
+
+31
+00:01:29.980 --> 00:01:30.920
+are all instrumental.
+
+32
+00:01:30.920 --> 00:01:35.610
+There was a fifth, opera, and
+we'll discuss that as we proceed.
+
+33
+00:01:35.610 --> 00:01:38.340
+So let's move on now.
+
+34
+00:01:38.340 --> 00:01:43.030
+We're going to look at how this works,
+starting with the classical symphony and
+
+35
+00:01:43.030 --> 00:01:47.320
+the string quartet, beginning with,
+well, let's get down to the bottom.
+
+36
+00:01:47.320 --> 00:01:48.400
+We'll start with tempo.
+
+37
+00:01:48.400 --> 00:01:52.650
+Notice that we have,
+with the symphony and the string quartet,
+
+38
+00:01:52.650 --> 00:01:57.580
+four movements, fast, slow,
+lively, and then fast at the end.
+
+39
+00:01:57.580 --> 00:02:01.280
+As to mood, well,
+the first movement's serious, substantive,
+
+40
+00:02:01.280 --> 00:02:03.790
+yet also at a fast tempo.
+
+41
+00:02:03.790 --> 00:02:06.590
+Second is a contrasting movement.
+
+42
+00:02:06.590 --> 00:02:09.300
+It is oftentimes lyrical and tender.
+
+43
+00:02:09.300 --> 00:02:11.250
+Third is a bit lighter,
+
+44
+00:02:11.250 --> 00:02:15.350
+more elegant, sometimes spirited
+if it's a case of a scherzo.
+
+45
+00:02:15.350 --> 00:02:20.270
+But more normally dense like
+in the spirit of a minuet.
+
+46
+00:02:20.270 --> 00:02:25.500
+And then, finally, a bright lighthearted,
+sometimes humorous farewell.
+
+47
+00:02:25.500 --> 00:02:27.690
+A finale, the last movement.
+
+48
+00:02:27.690 --> 00:02:32.618
+As to form, we see that the first movement
+is almost always written in a form that
+
+49
+00:02:32.618 --> 00:02:36.150
+we'll spend a great deal of time on,
+the sonata-allegro form.
+
+50
+00:02:36.150 --> 00:02:40.270
+Second movement can be in ternary form,
+sometimes in theme and variation form,
+
+51
+00:02:40.270 --> 00:02:42.150
+sometimes in rondo form.
+
+52
+00:02:42.150 --> 00:02:48.290
+Third movement, a minuet or a scherzo,
+is almost always in ternary form.
+
+53
+00:02:48.290 --> 00:02:52.290
+And the finale can be sonata-allegro,
+theme and
+
+54
+00:02:52.290 --> 00:02:56.210
+variations, rondo,
+occasionally even in fugal form.
+
+55
+00:02:56.210 --> 00:03:02.475
+So those are our form, mood and tempos for
+the symphony and the string quartet.
+
+56
+00:03:02.475 --> 00:03:07.100
+Let's go on now to look at
+the concerto and the sonata.
+
+57
+00:03:07.100 --> 00:03:10.230
+Here, as you can see,
+that sort of middle-ish
+
+58
+00:03:10.230 --> 00:03:14.960
+dance movement has been removed leaving
+us with tempos of fast, slow, fast.
+
+59
+00:03:14.960 --> 00:03:16.820
+The moods, however, remain the same.
+
+60
+00:03:16.820 --> 00:03:18.420
+Sort of serious for the first movement.
+
+61
+00:03:18.420 --> 00:03:20.390
+Lyrical and tender for the second.
+
+62
+00:03:20.390 --> 00:03:25.760
+Bright, uplifting, happy for
+the third and final movement.
+
+63
+00:03:25.760 --> 00:03:28.420
+As to form,
+we're keeping our same forms here.
+
+64
+00:03:28.420 --> 00:03:30.360
+First movement sonata allegro form.
+
+65
+00:03:30.360 --> 00:03:33.480
+Second movement can be any one of several.
+
+66
+00:03:33.480 --> 00:03:34.590
+You can read those there.
+
+67
+00:03:34.590 --> 00:03:37.090
+Same thing with the third movement,
+the finale.
+
+68
+00:03:37.090 --> 00:03:39.500
+Any one of several.
+
+69
+00:03:39.500 --> 00:03:42.790
+All right.
+Let's look now at a couple of real
+
+70
+00:03:42.790 --> 00:03:47.850
+examples here, and
+we're going to turn to a slide
+
+71
+00:03:47.850 --> 00:03:52.110
+that foregrounds Mozart's famous
+Eine kleine Nachtmuzik and
+
+72
+00:03:52.110 --> 00:03:58.710
+Haydn's Symphony Number 94,
+written in 1791 but premiered in 1792.
+
+73
+00:03:58.710 --> 00:04:02.320
+The surprise symphony.
+
+74
+00:04:02.320 --> 00:04:07.260
+And again, you can see the tempos
+of the four movements for
+
+75
+00:04:07.260 --> 00:04:11.175
+the Eine kleine Nachtmusik,
+the four surviving movements for this.
+
+76
+00:04:11.175 --> 00:04:13.790
+Sonata-allegro, always the first here.
+
+77
+00:04:13.790 --> 00:04:15.950
+Then rondo happens to be the form,
+
+78
+00:04:15.950 --> 00:04:18.500
+slow rondo happens to be
+the form of the second movement.
+
+79
+00:04:18.500 --> 00:04:21.170
+Ternary form for the third movement.
+
+80
+00:04:21.170 --> 00:04:24.910
+And rondo, but
+this time a fast rondo for the finale.
+
+81
+00:04:24.910 --> 00:04:30.250
+The surprise symphony, again,
+sonata-allegro in primary position there.
+
+82
+00:04:30.250 --> 00:04:31.257
+Theme and variations.
+
+83
+00:04:31.257 --> 00:04:33.060
+We'll hear that in just a moment.
+
+84
+00:04:33.060 --> 00:04:36.080
+The famous slow movement
+of the surprise symphony.
+
+85
+00:04:36.080 --> 00:04:39.110
+We have a minuet and trio in ternary form.
+
+86
+00:04:39.110 --> 00:04:41.020
+And, finally, the finale.
+
+87
+00:04:41.020 --> 00:04:46.220
+This time, also in sonata-allegro form.
+
+88
+00:04:46.220 --> 00:04:48.600
+And now, for a review of terms.
+
+89
+00:04:48.600 --> 00:04:49.410
+High art music.
+
+90
+00:04:50.510 --> 00:04:53.890
+Well, as we said,
+something that is written and studied and
+
+91
+00:04:53.890 --> 00:05:00.300
+usually involves a degree of music theory,
+it is learned music as we had indicated.
+
+92
+00:05:00.300 --> 00:05:00.920
+Venue.
+
+93
+00:05:00.920 --> 00:05:02.130
+Very simple idea here.
+
+94
+00:05:02.130 --> 00:05:03.810
+Simply the place of performance.
+
+95
+00:05:03.810 --> 00:05:04.560
+Canon.
+
+96
+00:05:04.560 --> 00:05:06.500
+Well, a canon is a standard repertoire.
+
+97
+00:05:06.500 --> 00:05:07.990
+You can have canon in literature.
+
+98
+00:05:07.990 --> 00:05:09.340
+You can have a canon in art.
+
+99
+00:05:09.340 --> 00:05:11.620
+You can have a canon in music.
+
+100
+00:05:11.620 --> 00:05:13.100
+A standard cohort.
+
+101
+00:05:14.650 --> 00:05:18.110
+A publicly accepted works of art.
+
+102
+00:05:18.110 --> 00:05:18.730
+Genre.
+
+103
+00:05:18.730 --> 00:05:20.010
+Well, that's a very simple idea.
+
+104
+00:05:20.010 --> 00:05:22.870
+Simply means type or kind of music.
+
+105
+00:05:22.870 --> 00:05:23.420
+Form.
+Well,
+
+106
+00:05:23.420 --> 00:05:29.060
+that's a little more difficult to define,
+but a sequence of auditory units
+
+107
+00:05:29.060 --> 00:05:34.260
+that can be identified and
+separated in terms of the thing itself,
+
+108
+00:05:34.260 --> 00:05:38.340
+a repetition of the thing itself,
+a variation of the thing itself,
+
+109
+00:05:38.340 --> 00:05:43.100
+a contrast with the thing itself, and
+perhaps a return to the thing itself.
+
+110
+00:05:43.100 --> 00:05:48.280
+All of these auditorially create
+musical form just the way
+
+111
+00:05:48.280 --> 00:05:54.260
+that items in space visually can
+create form in architecture.
+
+112
+00:05:54.260 --> 00:05:56.374
+Okay.
+Let's turn to some music now,
+
+113
+00:05:56.374 --> 00:05:59.336
+music that demonstrates
+what we've just learned.
+
+114
+00:05:59.336 --> 00:06:09.336
+[MUSIC]

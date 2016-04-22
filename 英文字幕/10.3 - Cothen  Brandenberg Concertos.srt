@@ -1,0 +1,743 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.463
+[MUSIC]
+
+2
+00:00:06.463 --> 00:00:10.297
+So here we are again in
+the hall of mirrors in Cöthen.
+
+3
+00:00:10.297 --> 00:00:18.660
+Central performance hall of the Prince of
+Cöthen anhalt, in the early 18th century.
+
+4
+00:00:18.660 --> 00:00:20.220
+Bach had just arrived in town and
+
+5
+00:00:20.220 --> 00:00:23.270
+was placed in charge of
+the small court orchestra.
+
+6
+00:00:23.270 --> 00:00:28.210
+And indeed, he was bulking it up by
+means of an active recruiting policy.
+
+7
+00:00:28.210 --> 00:00:31.520
+He was drawing top musicians to Cöthen,
+
+8
+00:00:31.520 --> 00:00:35.300
+from important Berlin some
+hundred miles to the north.
+
+9
+00:00:36.800 --> 00:00:39.170
+Bach made a couple of trips
+to Berlin in this period.
+
+10
+00:00:39.170 --> 00:00:44.696
+In one of them he was sent by the Prince
+of Cöthen, to acquire and transport back
+
+11
+00:00:44.696 --> 00:00:50.590
+to Cöthen, a large two manual harpsichord
+made by one Michael Mietke in 1719.
+
+12
+00:00:50.590 --> 00:00:56.090
+During these trips to Berlin,
+Bach made the acquaintance of the Margrave
+
+13
+00:00:56.090 --> 00:01:01.400
+of Brandenburg, one of the relatives of
+the King of Prussia, Frederick the Great.
+
+14
+00:01:01.400 --> 00:01:07.370
+Later, back in Cöthen, but always angling
+for a better position, a better job.
+
+15
+00:01:07.370 --> 00:01:12.530
+Bach gathered up a collection of
+six concertos, bound them together,
+
+16
+00:01:12.530 --> 00:01:18.100
+wrote a flowery and dedication page and
+sent them to the Margrave.
+
+17
+00:01:18.100 --> 00:01:21.908
+Here's some of what Bach's
+dedication to the Margrave said.
+
+18
+00:01:21.908 --> 00:01:25.220
+Well actually [LAUGH] I
+can't read it on the screen.
+
+19
+00:01:25.220 --> 00:01:27.780
+I'm a little bit far away from it,
+that doesn't matter.
+
+20
+00:01:27.780 --> 00:01:31.040
+You've got a closer vision,
+view of the slide and you can read it.
+
+21
+00:01:31.040 --> 00:01:32.550
+But it's written in French,
+
+22
+00:01:32.550 --> 00:01:35.830
+which was actually the language
+of the court in that period.
+
+23
+00:01:35.830 --> 00:01:39.930
+And it's done in the most
+obsequious sort of prose where,
+
+24
+00:01:39.930 --> 00:01:44.849
+Bach seems to be bending over
+backwards to almost prostrate himself,
+
+25
+00:01:46.080 --> 00:01:49.339
+in order that he can get
+this position in Berlin,
+
+26
+00:01:49.339 --> 00:01:53.970
+impress the Margrave of Brandenburg.
+
+27
+00:01:53.970 --> 00:01:55.530
+Did it work?
+
+28
+00:01:55.530 --> 00:01:59.310
+No, apparently the Margrave never
+even looked at the collection.
+
+29
+00:01:59.310 --> 00:02:03.670
+[LAUGH] They sat in a royal
+library until the 19th century,
+
+30
+00:02:03.670 --> 00:02:05.920
+when they were rediscovered.
+
+31
+00:02:05.920 --> 00:02:08.580
+Bach's fame was finally beginning to grow.
+
+32
+00:02:08.580 --> 00:02:12.530
+They were rediscovered, but note,
+not until the mid 19th century.
+
+33
+00:02:14.480 --> 00:02:19.607
+Well, let's focus on the fifth of
+these six Brandenburg Concertos.
+
+34
+00:02:19.607 --> 00:02:24.898
+And as you can see here from the slide,
+we've got a total of six of them.
+
+35
+00:02:24.898 --> 00:02:30.140
+They were written in the period 1715 to
+1721, and we're gonna focus on Number 5.
+
+36
+00:02:30.140 --> 00:02:34.470
+It has a Concertino, remember that
+it's the little group of soloist,
+
+37
+00:02:34.470 --> 00:02:37.590
+of solo violin, flute, and harpsichord.
+
+38
+00:02:37.590 --> 00:02:44.150
+Then the Tutti everybody else in this case
+about a dozen or so, plus the Concertino.
+
+39
+00:02:44.150 --> 00:02:46.870
+The Concertino plus everybody
+else that equals the Tutti, and
+
+40
+00:02:46.870 --> 00:02:49.180
+the Tutti plays the ritornello.
+
+41
+00:02:49.180 --> 00:02:55.390
+The ritornello has many of the
+characteristics of late Baroque melody.
+
+42
+00:02:55.390 --> 00:02:58.290
+It's idiomatic writing for the violin and
+
+43
+00:02:58.290 --> 00:03:01.730
+we'll hear why it's
+idiomatic in just a second.
+
+44
+00:03:01.730 --> 00:03:09.630
+And this particular concerto uses
+a cadenza, employs a cadenza at the end.
+
+45
+00:03:09.630 --> 00:03:14.770
+A showy passage for a soloist,
+at the end of a movement,
+
+46
+00:03:14.770 --> 00:03:19.650
+to showcase his or
+her particular technical skills.
+
+47
+00:03:19.650 --> 00:03:23.890
+And as we'll finally observe here,
+this particular movement's a long one.
+
+48
+00:03:23.890 --> 00:03:26.476
+We're not going to hear all of it,
+but it is a long one.
+
+49
+00:03:26.476 --> 00:03:30.021
+9 minutes in length
+compared to 3 minutes in
+
+50
+00:03:30.021 --> 00:03:35.710
+length to a typical movement of
+a Concerto Grosso of Vivaldi.
+
+51
+00:03:35.710 --> 00:03:41.910
+And again, the Margrave put them in a
+closet, and they really weren't published,
+
+52
+00:03:41.910 --> 00:03:45.568
+they didn't become known until 1850,
+about 130 years later.
+
+53
+00:03:47.260 --> 00:03:48.525
+Let's just review again.
+
+54
+00:03:48.525 --> 00:03:52.326
+Here's a typical layout of
+Ritornello form, and as you can see,
+
+55
+00:03:52.326 --> 00:03:56.838
+it's a very simple idea, where we have
+the ritornello played by everybody.
+
+56
+00:03:56.838 --> 00:04:01.500
+We have this idea of the concertino,
+playing excerpts, motis,
+
+57
+00:04:01.500 --> 00:04:03.480
+out of the ritornello.
+
+58
+00:04:03.480 --> 00:04:07.070
+It functions very much like an episode,
+in a few.
+
+59
+00:04:07.070 --> 00:04:09.810
+Then the tutti comes back
+in with a ritornello.
+
+60
+00:04:09.810 --> 00:04:15.410
+Concertino comes back in with motis,
+derived from the ritornello.
+
+61
+00:04:15.410 --> 00:04:17.820
+Tutti, concertino, tutti, concertino.
+
+62
+00:04:17.820 --> 00:04:20.360
+On it goes.
+
+63
+00:04:20.360 --> 00:04:27.120
+Now we here we see the autograph
+of Bach's original here.
+
+64
+00:04:27.120 --> 00:04:29.980
+This is Bach's autograph
+of the first movement of
+
+65
+00:04:29.980 --> 00:04:32.540
+Brandenburg Concerto Number Five.
+
+66
+00:04:32.540 --> 00:04:34.540
+As we look up there in the top score,
+
+67
+00:04:34.540 --> 00:04:39.900
+we can see that the flute part of
+the concertino is actually resting.
+
+68
+00:04:39.900 --> 00:04:43.640
+Then the solo violin comes in.
+
+69
+00:04:43.640 --> 00:04:47.876
+And the violin of the full
+orchestra of the tutti comes in and
+
+70
+00:04:47.876 --> 00:04:52.875
+they play this melody, something
+very typical of baroque music, and
+
+71
+00:04:52.875 --> 00:04:58.744
+something very idiomatic to the violin
+cuz it can repeat pitches rather quickly.
+
+72
+00:04:58.744 --> 00:05:01.960
+So it's good at this and
+it sounds good on a violin.
+
+73
+00:05:01.960 --> 00:05:07.786
+[MUSIC]
+
+74
+00:05:07.786 --> 00:05:10.670
+Well, there I played it on a harpsichord,
+or a harpsichord synthesizer.
+
+75
+00:05:10.670 --> 00:05:11.800
+But you get the sense of it.
+
+76
+00:05:11.800 --> 00:05:16.340
+So here,
+you can see the melody of the ritornello.
+
+77
+00:05:16.340 --> 00:05:18.950
+We'll be hearing that again,
+and again as it returns.
+
+78
+00:05:18.950 --> 00:05:22.890
+Then, the lower strings,
+the second violins, and the violas
+
+79
+00:05:24.350 --> 00:05:29.150
+begin to,
+they flesh out the texture underneath.
+
+80
+00:05:29.150 --> 00:05:34.530
+The bottom two systems,
+that's the music for the harpsichord.
+
+81
+00:05:34.530 --> 00:05:38.260
+But notice that the harpsichord again
+has no music actually written for
+
+82
+00:05:38.260 --> 00:05:40.090
+the right-hand score, it's empty.
+
+83
+00:05:40.090 --> 00:05:44.640
+That's because the performer,
+in this case J S Bach himself.
+
+84
+00:05:44.640 --> 00:05:48.180
+Bach wrote these numbers,
+Bach knew what these numbers meant.
+
+85
+00:05:48.180 --> 00:05:52.820
+And he used those numbers to
+flesh out the harmony above.
+
+86
+00:05:54.920 --> 00:05:59.940
+Okay, so let's go back now to
+our hall of mirrors at Cöthen.
+
+87
+00:05:59.940 --> 00:06:03.710
+Here we see it as it exists
+today with the seats in place,
+
+88
+00:06:03.710 --> 00:06:07.660
+and there's even a sculpture of J.S.
+Bach over there to the left.
+
+89
+00:06:07.660 --> 00:06:12.716
+And now let's hear a performance of this,
+and as you listen to this performance,
+
+90
+00:06:12.716 --> 00:06:16.759
+ask yourself, or I'm asking you,
+what's unusual about this?
+
+91
+00:06:16.759 --> 00:06:23.994
+What goes on in this
+performance that we see here,
+
+92
+00:06:23.994 --> 00:06:28.820
+and probably wouldn't happen in
+
+93
+00:06:28.820 --> 00:06:34.179
+a concert of music in the modern day.
+
+94
+00:06:34.179 --> 00:06:35.592
+[MUSIC]
+
+95
+00:06:35.592 --> 00:06:38.712
+Well right off the bat, you can see
+that the performers are standing up and
+
+96
+00:06:38.712 --> 00:06:39.934
+that was actually typical.
+
+97
+00:06:39.934 --> 00:06:45.354
+The only people sitting down are people
+that play cello and harpsichord.
+
+98
+00:06:45.354 --> 00:06:46.249
+Okay.
+
+99
+00:06:46.249 --> 00:06:49.534
+Flute [INAUDIBLE] wood flute,
+transverse flute.
+
+100
+00:06:49.534 --> 00:06:59.799
+[MUSIC]
+
+101
+00:06:59.799 --> 00:07:04.080
+We'll pause it right here and notice how
+far this violin's hand is up on the bow.
+
+102
+00:07:04.080 --> 00:07:07.230
+That's typical of Baroque performance.
+
+103
+00:07:07.230 --> 00:07:11.730
+It allows for a fast and light style of
+playing, which is very different then
+
+104
+00:07:11.730 --> 00:07:16.120
+the later 19th century style where the
+hand puts a lot of pressure on the bow.
+
+105
+00:07:16.120 --> 00:07:17.480
+Let's continue a while.
+
+106
+00:07:17.480 --> 00:07:20.620
+So we're now having
+the concertino perform.
+
+107
+00:07:20.620 --> 00:07:22.330
+We've had the ritornello.
+
+108
+00:07:22.330 --> 00:07:24.220
+Now we're having the concertino play.
+
+109
+00:07:24.220 --> 00:07:34.220
+[MUSIC]
+
+110
+00:07:55.565 --> 00:07:56.297
+There's the ritornello.
+
+111
+00:07:56.297 --> 00:08:00.684
+[MUSIC]
+
+112
+00:08:00.684 --> 00:08:03.008
+and off the concertino goes again.
+
+113
+00:08:03.008 --> 00:08:06.615
+Soloing out.
+
+114
+00:08:06.615 --> 00:08:16.615
+[MUSIC]
+
+115
+00:08:21.973 --> 00:08:25.874
+>> The ritornello again but
+in a different key.
+
+116
+00:08:25.874 --> 00:08:27.777
+All right let's pause it here now.
+
+117
+00:08:27.777 --> 00:08:28.438
+We're gonna pause it.
+
+118
+00:08:28.438 --> 00:08:29.800
+Maybe I can pause it.
+
+119
+00:08:29.800 --> 00:08:31.050
+I'll pause it.
+
+120
+00:08:31.050 --> 00:08:33.400
+I'm gonna try to move it up.
+
+121
+00:08:33.400 --> 00:08:34.300
+We'll see where we are.
+
+122
+00:08:34.300 --> 00:08:37.895
+We're gonna move it all the way over here,
+
+123
+00:08:37.895 --> 00:08:42.740
+cuz we want to see the harpsichord
+gradually begin to take over.
+
+124
+00:08:42.740 --> 00:08:46.077
+This is the beginning of
+the harpsichord cadenza.
+
+125
+00:08:46.077 --> 00:08:56.077
+[MUSIC]
+
+126
+00:09:12.928 --> 00:09:14.132
+It might seem easy, but
+
+127
+00:09:14.132 --> 00:09:18.361
+this is one of the most difficult pieces
+in the entire keyboard repertoire to play.
+
+128
+00:09:18.361 --> 00:09:27.567
+[MUSIC]
+
+129
+00:09:27.567 --> 00:09:28.681
+And it's a long Cadenza.
+
+130
+00:09:28.681 --> 00:09:38.681
+[MUSIC]
+
+131
+00:09:40.100 --> 00:09:42.817
+As we swing around a trill
+on the left hand there.
+
+132
+00:09:42.817 --> 00:09:48.946
+[MUSIC]
+
+133
+00:09:48.946 --> 00:09:49.968
+Two manual harpsichord.
+
+134
+00:09:49.968 --> 00:09:51.465
+[MUSIC]
+
+135
+00:09:51.465 --> 00:09:54.704
+Notice the upper keys are going up and
+down with the bottom one.
+
+136
+00:09:54.704 --> 00:09:59.324
+That means he's got them coupled,
+he's using his two-eights in conjunction.
+
+137
+00:09:59.324 --> 00:10:02.900
+Sounds like a magic trick,
+but there's a reason for it.
+
+138
+00:10:02.900 --> 00:10:12.900
+[MUSIC]
+
+139
+00:10:37.318 --> 00:10:39.141
+Now he's playing the upper
+of the two-eighths.
+
+140
+00:10:39.141 --> 00:10:44.647
+[MUSIC]
+
+141
+00:10:44.647 --> 00:10:46.284
+Coming up chromatically,
+
+142
+00:10:46.284 --> 00:10:50.465
+[MUSIC]
+
+143
+00:10:50.465 --> 00:10:53.849
+In a moment you'll hear a pedal point
+beginning to bang away underneath.
+
+144
+00:10:53.849 --> 00:11:03.849
+[MUSIC]
+
+145
+00:11:16.644 --> 00:11:17.920
+And.
+
+146
+00:11:17.920 --> 00:11:18.980
+End of cadenza.
+
+147
+00:11:18.980 --> 00:11:24.997
+Tutti comes back in playing
+the ritornello and driving to the end.
+
+148
+00:11:24.997 --> 00:11:34.997
+[MUSIC]
+
+149
+00:11:36.919 --> 00:11:38.750
+Wow, quite a workout.
+
+150
+00:11:38.750 --> 00:11:42.700
+Okay let's recap by means of a slide here.
+
+151
+00:11:42.700 --> 00:11:49.970
+The Brandenburg Concertos, a collection
+of six gathered up 17, 21, 17, 21, four.
+
+152
+00:11:49.970 --> 00:11:54.900
+The Margrave of Brandenburg,
+Concerto Grosso.
+
+153
+00:11:54.900 --> 00:11:59.340
+In genre showing the differentiation
+between the concertino and
+
+154
+00:11:59.340 --> 00:12:04.090
+the tutti that we've talked about
+making use of figured bass.
+
+155
+00:12:04.090 --> 00:12:07.010
+Continuing to exploit the idea
+of the basso continuo,
+
+156
+00:12:07.010 --> 00:12:09.310
+the keyboard accompanied there by a cello.
+
+157
+00:12:09.310 --> 00:12:12.807
+They're forming the basso
+continuo in this movement.
+
+158
+00:12:12.807 --> 00:12:17.076
+Idiomatic writing we've talked about is
+very easy for a violin to go da da da da,
+
+159
+00:12:17.076 --> 00:12:20.665
+da da da da, da da da da back and
+forth very quickly over the string.
+
+160
+00:12:20.665 --> 00:12:27.330
+So it works well on the violin, and we saw
+a splendid example of a lengthy cadenza.
+
+161
+00:12:27.330 --> 00:12:32.340
+And let us not forget,
+it all makes for wonderful music.
